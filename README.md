@@ -231,11 +231,15 @@ If you use this dataset or tool in your research, please cite the project or con
 ---
 
 **Academic Context**: CHIN4101 Topical research in Chinese language and literature
+
 **Research Focus**: Computational analysis of character variant evolution across Chinese dynasties
+
 **Methodology**: Quantitative corpus linguistics with comprehensive visualization
 
 **Generated from**: Historical Chinese Word Analysis Tool (Self-written code)
+
 **Analysis Date**: October 2025
+
 **Dataset Coverage**: 85000+ Books
 
 For questions about methodology or data access, please refer to the source analysis tool documentation or contact the research team.
