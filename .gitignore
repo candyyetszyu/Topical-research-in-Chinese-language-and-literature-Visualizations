@@ -1,0 +1,7 @@
+# Exclude oversized files (>2GB) that exceed Git LFS limits
+period_analysis_20251027/dynasty_明/明_period_analysis_明代.json
+period_analysis_20251027/dynasty_明/明_complete_dataset.json
+period_analysis_20251027/dynasty_清/清_period_analysis_清代.json
+period_analysis_20251027/dynasty_清/清_complete_dataset.json
+period_analysis_20251027/dynasty_宋/宋_period_analysis_宋代.json
+period_analysis_20251027/dynasty_宋/宋_complete_dataset.json

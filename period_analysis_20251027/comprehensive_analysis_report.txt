@@ -1,0 +1,203 @@
+HISTORICAL CHINESE WORD ANALYSIS - PERIOD-BASED COMPREHENSIVE REPORT
+================================================================================
+Generated: 2025-10-28 23:02:55
+Analysis Type: Automated Period-Based Analysis
+
+DYNASTIES ANALYZED (Historical Order):
+----------------------------------------
+ 1. 元魏 (唐代)
+    Total Characters: 1,975,111
+    Total Variants: 1,543
+    Files Analyzed: 222
+
+ 2. 劉宋 (唐代)
+    Total Characters: 2,194,726
+    Total Variants: 1,414
+    Files Analyzed: 238
+
+ 3. 南唐 (唐代)
+    Total Characters: 7,569
+    Total Variants: 5
+    Files Analyzed: 1
+
+ 4. 唐初期 (唐代)
+    Total Characters: 33,830
+    Total Variants: 45
+    Files Analyzed: 9
+
+ 5. 唐 (唐代)
+    Total Characters: 5,508,531
+    Total Variants: 5,069
+    Files Analyzed: 760
+
+ 6. 北宋 (宋代)
+    Total Characters: 163,242
+    Total Variants: 102
+    Files Analyzed: 40
+
+ 7. 北宋後期 (宋代)
+    Total Characters: 6,548
+    Total Variants: 4
+    Files Analyzed: 1
+
+ 8. 南宋 (宋代)
+    Total Characters: 272,521
+    Total Variants: 154
+    Files Analyzed: 43
+
+ 9. 宋 (宋代)
+    Total Characters: 225,974,463
+    Total Variants: 172,943
+    Files Analyzed: 32155
+
+10. 元初期 (元代)
+    Total Characters: 87,156
+    Total Variants: 50
+    Files Analyzed: 26
+
+11. 元 (元代)
+    Total Characters: 56,507,290
+    Total Variants: 41,055
+    Files Analyzed: 6533
+
+12. 明初期 (明代)
+    Total Characters: 29,946
+    Total Variants: 21
+    Files Analyzed: 5
+
+13. 明 (明代)
+    Total Characters: 184,092,885
+    Total Variants: 157,397
+    Files Analyzed: 17795
+
+14. 清 (明代)
+    Total Characters: 290,586,699
+    Total Variants: 222,277
+    Files Analyzed: 27844
+
+
+VARIANT DISTRIBUTION ACROSS DYNASTIES:
+----------------------------------------
+們:
+  宋: 148
+  元: 141
+  明: 694
+  清: 1114
+
+偉:
+  元魏: 3
+  劉宋: 11
+  唐: 18
+  南宋: 2
+  宋: 4562
+  元: 1279
+  明: 4225
+  清: 4956
+
+弭:
+  唐: 36
+  南宋: 1
+  宋: 1575
+  元: 428
+  明: 1283
+  清: 1537
+
+彌:
+  元魏: 193
+  劉宋: 206
+  唐初期: 1
+  唐: 173
+  北宋: 6
+  南宋: 15
+  宋: 8357
+  元初期: 2
+  元: 1982
+  明: 6176
+  清: 9121
+
+懣:
+  唐: 1
+  宋: 400
+  元: 61
+  明: 225
+  清: 238
+
+每:
+  元魏: 21
+  劉宋: 84
+  唐初期: 3
+  唐: 532
+  北宋: 8
+  北宋後期: 1
+  南宋: 20
+  宋: 35112
+  元初期: 2
+  元: 8478
+  明初期: 1
+  明: 47942
+  清: 49681
+
+滿:
+  元魏: 184
+  劉宋: 151
+  唐初期: 4
+  唐: 337
+  北宋: 28
+  北宋後期: 3
+  南宋: 20
+  宋: 17112
+  元初期: 7
+  元: 4581
+  明初期: 4
+  明: 16771
+  清: 33129
+
+瞞:
+  元魏: 2
+  唐: 2
+  南宋: 2
+  宋: 495
+  元: 100
+  明: 585
+  清: 1191
+
+輩:
+  元魏: 85
+  劉宋: 111
+  唐初期: 3
+  唐: 228
+  北宋: 8
+  南宋: 12
+  宋: 18649
+  元初期: 5
+  元: 3663
+  明: 15111
+  清: 19809
+
+門:
+  元魏: 1055
+  劉宋: 851
+  南唐: 5
+  唐初期: 34
+  唐: 3742
+  北宋: 52
+  南宋: 82
+  宋: 86533
+  元初期: 34
+  元: 20342
+  明初期: 16
+  明: 64385
+  清: 101501
+
+
+OUTPUT FILES CREATED:
+----------------------------------------
+.csv files: 99
+.html files: 90
+.json files: 42
+.png files: 147
+.svg files: 90
+
+Total files created: 468
+
+ANALYSIS COMPLETE!
