@@ -1,0 +1,77 @@
+{
+  "dynasty": "明初期",
+  "period": "明代",
+  "total_books": 3,
+  "total_authors": 3,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 21,
+  "book_list": [
+    {
+      "book_name": "大洞玉經",
+      "author": "龔德同",
+      "full_book_info": "大洞玉經 (龔德同)"
+    },
+    {
+      "book_name": "太上正一朝天三八謝罪法懺",
+      "author": "明初期",
+      "full_book_info": "太上正一朝天三八謝罪法懺 (明初期)"
+    },
+    {
+      "book_name": "群仙要語纂集",
+      "author": "董漌醇",
+      "full_book_info": "群仙要語纂集 (董漌醇)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "偉": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "弭": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "彌": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "懣": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "每": {
+      "count": 1,
+      "recalc_freq_per_10k": 0.25958518287776133,
+      "book_name": 3
+    },
+    "滿": {
+      "count": 4,
+      "recalc_freq_per_10k": 1.0383407315110453,
+      "book_name": 3
+    },
+    "瞞": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "輩": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 3
+    },
+    "門": {
+      "count": 16,
+      "recalc_freq_per_10k": 6.848933478079194,
+      "book_name": 3
+    }
+  }
+}

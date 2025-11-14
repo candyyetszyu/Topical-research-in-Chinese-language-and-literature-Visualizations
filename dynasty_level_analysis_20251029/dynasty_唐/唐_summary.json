@@ -1,0 +1,757 @@
+{
+  "dynasty": "唐",
+  "period": "唐代",
+  "total_books": 137,
+  "total_authors": 47,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 5069,
+  "book_list": [
+    {
+      "book_name": "上方大洞真元妙經品",
+      "author": "明皇",
+      "full_book_info": "上方大洞真元妙經品 (明皇)"
+    },
+    {
+      "book_name": "上清三真旨要玉訣",
+      "author": "唐",
+      "full_book_info": "上清三真旨要玉訣 (唐)"
+    },
+    {
+      "book_name": "上清修行經訣",
+      "author": "唐",
+      "full_book_info": "上清修行經訣 (唐)"
+    },
+    {
+      "book_name": "上清修身要事經",
+      "author": "唐",
+      "full_book_info": "上清修身要事經 (唐)"
+    },
+    {
+      "book_name": "上清元始高上玉皇九天譜籙",
+      "author": "唐",
+      "full_book_info": "上清元始高上玉皇九天譜籙 (唐)"
+    },
+    {
+      "book_name": "上清八道祕言圖",
+      "author": "唐",
+      "full_book_info": "上清八道祕言圖 (唐)"
+    },
+    {
+      "book_name": "上清化形隱景登昇保仙上經",
+      "author": "唐",
+      "full_book_info": "上清化形隱景登昇保仙上經 (唐)"
+    },
+    {
+      "book_name": "上清司命茅真君修行指迷訣",
+      "author": "唐",
+      "full_book_info": "上清司命茅真君修行指迷訣 (唐)"
+    },
+    {
+      "book_name": "上清大洞三景玉清隱書訣籙",
+      "author": "唐",
+      "full_book_info": "上清大洞三景玉清隱書訣籙 (唐)"
+    },
+    {
+      "book_name": "上清大洞九微八道大經妙籙",
+      "author": "唐",
+      "full_book_info": "上清大洞九微八道大經妙籙 (唐)"
+    },
+    {
+      "book_name": "上清太極真人撰所施行祕要經",
+      "author": "唐",
+      "full_book_info": "上清太極真人撰所施行祕要經 (唐)"
+    },
+    {
+      "book_name": "上清太極真人神仙經",
+      "author": "唐",
+      "full_book_info": "上清太極真人神仙經 (唐)"
+    },
+    {
+      "book_name": "上清太霄隱書元真洞飛二景經",
+      "author": "唐",
+      "full_book_info": "上清太霄隱書元真洞飛二景經 (唐)"
+    },
+    {
+      "book_name": "上清明鑑要經",
+      "author": "唐",
+      "full_book_info": "上清明鑑要經 (唐)"
+    },
+    {
+      "book_name": "上清河圖內玄經",
+      "author": "唐",
+      "full_book_info": "上清河圖內玄經 (唐)"
+    },
+    {
+      "book_name": "上清河圖寶籙",
+      "author": "唐",
+      "full_book_info": "上清河圖寶籙 (唐)"
+    },
+    {
+      "book_name": "上清洞天三五金剛玄籙儀經",
+      "author": "唐",
+      "full_book_info": "上清洞天三五金剛玄籙儀經 (唐)"
+    },
+    {
+      "book_name": "上清洞真九宮紫房圖",
+      "author": "唐",
+      "full_book_info": "上清洞真九宮紫房圖 (唐)"
+    },
+    {
+      "book_name": "上清無上金元玉清金真飛元步虛玉章",
+      "author": "唐",
+      "full_book_info": "上清無上金元玉清金真飛元步虛玉章 (唐)"
+    },
+    {
+      "book_name": "上清紫微帝君南極元君玉經寶訣",
+      "author": "唐",
+      "full_book_info": "上清紫微帝君南極元君玉經寶訣 (唐)"
+    },
+    {
+      "book_name": "上清經祕訣",
+      "author": "唐",
+      "full_book_info": "上清經祕訣 (唐)"
+    },
+    {
+      "book_name": "上清華晨三奔玉訣",
+      "author": "唐",
+      "full_book_info": "上清華晨三奔玉訣 (唐)"
+    },
+    {
+      "book_name": "上清諸真人授經時頌金真章",
+      "author": "唐",
+      "full_book_info": "上清諸真人授經時頌金真章 (唐)"
+    },
+    {
+      "book_name": "上清諸真章頌",
+      "author": "唐",
+      "full_book_info": "上清諸真章頌 (唐)"
+    },
+    {
+      "book_name": "上清豁落七元符",
+      "author": "唐",
+      "full_book_info": "上清豁落七元符 (唐)"
+    },
+    {
+      "book_name": "上清迴耀飛光日月精華上經",
+      "author": "唐",
+      "full_book_info": "上清迴耀飛光日月精華上經 (唐)"
+    },
+    {
+      "book_name": "上清金匱玉鏡修真指玄妙經",
+      "author": "唐",
+      "full_book_info": "上清金匱玉鏡修真指玄妙經 (唐)"
+    },
+    {
+      "book_name": "上清金母求仙上法",
+      "author": "李玄真",
+      "full_book_info": "上清金母求仙上法 (李玄真)"
+    },
+    {
+      "book_name": "上清金章十二篇",
+      "author": "唐",
+      "full_book_info": "上清金章十二篇 (唐)"
+    },
+    {
+      "book_name": "上清長生寶鑑圖",
+      "author": "唐",
+      "full_book_info": "上清長生寶鑑圖 (唐)"
+    },
+    {
+      "book_name": "上清高上玉真眾道綜監寶諱",
+      "author": "唐",
+      "full_book_info": "上清高上玉真眾道綜監寶諱 (唐)"
+    },
+    {
+      "book_name": "上清高上龜山玄籙",
+      "author": "唐",
+      "full_book_info": "上清高上龜山玄籙 (唐)"
+    },
+    {
+      "book_name": "上清黃庭五臟六府真人玉軸經",
+      "author": "唐",
+      "full_book_info": "上清黃庭五臟六府真人玉軸經 (唐)"
+    },
+    {
+      "book_name": "上清黃庭養神經",
+      "author": "唐",
+      "full_book_info": "上清黃庭養神經 (唐)"
+    },
+    {
+      "book_name": "上生經會古通今新抄",
+      "author": "詮明",
+      "full_book_info": "上生經會古通今新抄 (詮明)"
+    },
+    {
+      "book_name": "佛母大孔雀明王經",
+      "author": "不空",
+      "full_book_info": "佛母大孔雀明王經 (不空)"
+    },
+    {
+      "book_name": "佛說一切諸如來心光明加持普賢菩薩延命金剛最勝陀羅尼經",
+      "author": "不空",
+      "full_book_info": "佛說一切諸如來心光明加持普賢菩薩延命金剛最勝陀羅尼經 (不空)"
+    },
+    {
+      "book_name": "佛說七俱胝佛母准提大明陀羅尼經",
+      "author": "金剛智",
+      "full_book_info": "佛說七俱胝佛母准提大明陀羅尼經 (金剛智)"
+    },
+    {
+      "book_name": "佛說大孔雀明王畫像壇場儀軌",
+      "author": "不空",
+      "full_book_info": "佛說大孔雀明王畫像壇場儀軌 (不空)"
+    },
+    {
+      "book_name": "依觀經等明般舟三昧行道往生讚",
+      "author": "善導",
+      "full_book_info": "依觀經等明般舟三昧行道往生讚 (善導)"
+    },
+    {
+      "book_name": "元和姓纂",
+      "author": "唐",
+      "full_book_info": "元和姓纂 (唐)"
+    },
+    {
+      "book_name": "元和郡縣志",
+      "author": "唐",
+      "full_book_info": "元和郡縣志 (唐)"
+    },
+    {
+      "book_name": "元始天尊說生天得道經",
+      "author": "唐",
+      "full_book_info": "元始天尊說生天得道經 (唐)"
+    },
+    {
+      "book_name": "元始天王歡樂經",
+      "author": "唐",
+      "full_book_info": "元始天王歡樂經 (唐)"
+    },
+    {
+      "book_name": "元始洞真慈善孝子報恩成道經",
+      "author": "唐",
+      "full_book_info": "元始洞真慈善孝子報恩成道經 (唐)"
+    },
+    {
+      "book_name": "元始高上玉檢大錄",
+      "author": "唐",
+      "full_book_info": "元始高上玉檢大錄 (唐)"
+    },
+    {
+      "book_name": "元氏長慶集",
+      "author": "唐",
+      "full_book_info": "元氏長慶集 (唐)"
+    },
+    {
+      "book_name": "兼明書",
+      "author": "唐",
+      "full_book_info": "兼明書 (唐)"
+    },
+    {
+      "book_name": "勝軍不動明王四十八使者祕密成就儀軌",
+      "author": "遍智",
+      "full_book_info": "勝軍不動明王四十八使者祕密成就儀軌 (遍智)"
+    },
+    {
+      "book_name": "北山錄",
+      "author": "神清",
+      "full_book_info": "北山錄 (神清)"
+    },
+    {
+      "book_name": "千祿字書",
+      "author": "顏元孫",
+      "full_book_info": "千祿字書 (顏元孫)"
+    },
+    {
+      "book_name": "古清涼傳",
+      "author": "慧祥",
+      "full_book_info": "古清涼傳 (慧祥)"
+    },
+    {
+      "book_name": "唐開元占經",
+      "author": "唐",
+      "full_book_info": "唐開元占經 (唐)"
+    },
+    {
+      "book_name": "因明入正理論",
+      "author": "南羯羅主菩薩",
+      "full_book_info": "因明入正理論 (南羯羅主菩薩)"
+    },
+    {
+      "book_name": "因明入正理論疏",
+      "author": "文軌",
+      "full_book_info": "因明入正理論疏 (文軌)"
+    },
+    {
+      "book_name": "因明入正理論疏",
+      "author": "窺基",
+      "full_book_info": "因明入正理論疏 (窺基)"
+    },
+    {
+      "book_name": "因明入正理論疏前記",
+      "author": "智周",
+      "full_book_info": "因明入正理論疏前記 (智周)"
+    },
+    {
+      "book_name": "因明入正理論疏後記",
+      "author": "智周",
+      "full_book_info": "因明入正理論疏後記 (智周)"
+    },
+    {
+      "book_name": "因明入正理論疏抄",
+      "author": "智周",
+      "full_book_info": "因明入正理論疏抄 (智周)"
+    },
+    {
+      "book_name": "因明入正理論續疏",
+      "author": "慧沼",
+      "full_book_info": "因明入正理論續疏 (慧沼)"
+    },
+    {
+      "book_name": "因明入正理論義纂要",
+      "author": "慧沼",
+      "full_book_info": "因明入正理論義纂要 (慧沼)"
+    },
+    {
+      "book_name": "因明入正理門論述記",
+      "author": "神泰",
+      "full_book_info": "因明入正理門論述記 (神泰)"
+    },
+    {
+      "book_name": "因明正理門論",
+      "author": "大域龍菩薩",
+      "full_book_info": "因明正理門論 (大域龍菩薩)"
+    },
+    {
+      "book_name": "因明正理門論本",
+      "author": "大域龍菩薩",
+      "full_book_info": "因明正理門論本 (大域龍菩薩)"
+    },
+    {
+      "book_name": "因明義斷",
+      "author": "慧沼",
+      "full_book_info": "因明義斷 (慧沼)"
+    },
+    {
+      "book_name": "因明論理門十四過類疏",
+      "author": "窺基",
+      "full_book_info": "因明論理門十四過類疏 (窺基)"
+    },
+    {
+      "book_name": "大乘掌珍論",
+      "author": "清辯菩薩",
+      "full_book_info": "大乘掌珍論 (清辯菩薩)"
+    },
+    {
+      "book_name": "大乘百法明門論",
+      "author": "天親菩薩",
+      "full_book_info": "大乘百法明門論 (天親菩薩)"
+    },
+    {
+      "book_name": "大乘百法明門論疏",
+      "author": "大乘光",
+      "full_book_info": "大乘百法明門論疏 (大乘光)"
+    },
+    {
+      "book_name": "大乘百法明門論疏",
+      "author": "義忠",
+      "full_book_info": "大乘百法明門論疏 (義忠)"
+    },
+    {
+      "book_name": "大乘百法明門論解",
+      "author": "窺基",
+      "full_book_info": "大乘百法明門論解 (窺基)"
+    },
+    {
+      "book_name": "大乘百法明門論註",
+      "author": "玄奘",
+      "full_book_info": "大乘百法明門論註 (玄奘)"
+    },
+    {
+      "book_name": "大乘百法明門論開宗義決",
+      "author": "曇曠",
+      "full_book_info": "大乘百法明門論開宗義決 (曇曠)"
+    },
+    {
+      "book_name": "大乘百法明門論開宗義記",
+      "author": "曇曠",
+      "full_book_info": "大乘百法明門論開宗義記 (曇曠)"
+    },
+    {
+      "book_name": "大乘遍照光明藏無字法門經",
+      "author": "地婆訶羅",
+      "full_book_info": "大乘遍照光明藏無字法門經 (地婆訶羅)"
+    },
+    {
+      "book_name": "大乘離文字普光明藏經",
+      "author": "地婆訶羅",
+      "full_book_info": "大乘離文字普光明藏經 (地婆訶羅)"
+    },
+    {
+      "book_name": "大佛頂萬行首楞嚴經會解",
+      "author": "九師",
+      "full_book_info": "大佛頂萬行首楞嚴經會解 (九師)"
+    },
+    {
+      "book_name": "大周刊定眾經目錄",
+      "author": "明佺",
+      "full_book_info": "大周刊定眾經目錄 (明佺)"
+    },
+    {
+      "book_name": "大唐貞元續開元釋教錄",
+      "author": "圓照",
+      "full_book_info": "大唐貞元續開元釋教錄 (圓照)"
+    },
+    {
+      "book_name": "大唐開元禮",
+      "author": "唐",
+      "full_book_info": "大唐開元禮 (唐)"
+    },
+    {
+      "book_name": "大唐開元釋教廣品歷章",
+      "author": "第20卷",
+      "full_book_info": "大唐開元釋教廣品歷章 (第20卷)"
+    },
+    {
+      "book_name": "大威力烏樞瑟摩明王經",
+      "author": "阿質達霰",
+      "full_book_info": "大威力烏樞瑟摩明王經 (阿質達霰)"
+    },
+    {
+      "book_name": "天台菩薩戒疏",
+      "author": "明曠",
+      "full_book_info": "天台菩薩戒疏 (明曠)"
+    },
+    {
+      "book_name": "太上元始天尊說大雨龍王經",
+      "author": "唐",
+      "full_book_info": "太上元始天尊說大雨龍王經 (唐)"
+    },
+    {
+      "book_name": "太上元始天尊說續命妙經",
+      "author": "唐",
+      "full_book_info": "太上元始天尊說續命妙經 (唐)"
+    },
+    {
+      "book_name": "太上元始天尊證果真經",
+      "author": "唐",
+      "full_book_info": "太上元始天尊證果真經 (唐)"
+    },
+    {
+      "book_name": "太上太玄女青三元品誡拔罪妙經",
+      "author": "唐",
+      "full_book_info": "太上太玄女青三元品誡拔罪妙經 (唐)"
+    },
+    {
+      "book_name": "太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒",
+      "author": "唐",
+      "full_book_info": "太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒 (唐)"
+    },
+    {
+      "book_name": "太上洞玄靈寶三元無量壽經",
+      "author": "唐",
+      "full_book_info": "太上洞玄靈寶三元無量壽經 (唐)"
+    },
+    {
+      "book_name": "太上洞玄靈寶宿命因緣明經",
+      "author": "唐",
+      "full_book_info": "太上洞玄靈寶宿命因緣明經 (唐)"
+    },
+    {
+      "book_name": "太上玄都妙本清靜身心經",
+      "author": "唐",
+      "full_book_info": "太上玄都妙本清靜身心經 (唐)"
+    },
+    {
+      "book_name": "太上老君混元三部符",
+      "author": "唐",
+      "full_book_info": "太上老君混元三部符 (唐)"
+    },
+    {
+      "book_name": "太上老君說常清靜妙經",
+      "author": "唐前半",
+      "full_book_info": "太上老君說常清靜妙經 (唐前半)"
+    },
+    {
+      "book_name": "太微帝君二十四神回元經",
+      "author": "唐",
+      "full_book_info": "太微帝君二十四神回元經 (唐)"
+    },
+    {
+      "book_name": "太清中黃真經",
+      "author": "九仙君",
+      "full_book_info": "太清中黃真經 (九仙君)"
+    },
+    {
+      "book_name": "太清修丹祕訣",
+      "author": "唐",
+      "full_book_info": "太清修丹祕訣 (唐)"
+    },
+    {
+      "book_name": "太清太一金闕玉璽金真紀",
+      "author": "唐",
+      "full_book_info": "太清太一金闕玉璽金真紀 (唐)"
+    },
+    {
+      "book_name": "太清服氣口訣",
+      "author": "唐",
+      "full_book_info": "太清服氣口訣 (唐)"
+    },
+    {
+      "book_name": "太清調氣經",
+      "author": "唐",
+      "full_book_info": "太清調氣經 (唐)"
+    },
+    {
+      "book_name": "太清道林攝生論",
+      "author": "唐",
+      "full_book_info": "太清道林攝生論 (唐)"
+    },
+    {
+      "book_name": "宋之問集",
+      "author": "唐",
+      "full_book_info": "宋之問集 (唐)"
+    },
+    {
+      "book_name": "廣弘明集",
+      "author": "道宣",
+      "full_book_info": "廣弘明集 (道宣)"
+    },
+    {
+      "book_name": "新雕洞靈眞經",
+      "author": "王士元",
+      "full_book_info": "新雕洞靈眞經 (王士元)"
+    },
+    {
+      "book_name": "明佛法根本碑",
+      "author": "智慧",
+      "full_book_info": "明佛法根本碑 (智慧)"
+    },
+    {
+      "book_name": "明皇雜錄",
+      "author": "唐",
+      "full_book_info": "明皇雜錄 (唐)"
+    },
+    {
+      "book_name": "普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經",
+      "author": "不空",
+      "full_book_info": "普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經 (不空)"
+    },
+    {
+      "book_name": "李元賓文編",
+      "author": "唐",
+      "full_book_info": "李元賓文編 (唐)"
+    },
+    {
+      "book_name": "正一旨教齋清旦行道儀",
+      "author": "唐",
+      "full_book_info": "正一旨教齋清旦行道儀 (唐)"
+    },
+    {
+      "book_name": "洞玄靈寶道士明鏡法",
+      "author": "唐",
+      "full_book_info": "洞玄靈寶道士明鏡法 (唐)"
+    },
+    {
+      "book_name": "洞真太上三元流珠經",
+      "author": "唐",
+      "full_book_info": "洞真太上三元流珠經 (唐)"
+    },
+    {
+      "book_name": "洞真太上上清內經",
+      "author": "唐",
+      "full_book_info": "洞真太上上清內經 (唐)"
+    },
+    {
+      "book_name": "洞真太上倉元上錄",
+      "author": "唐",
+      "full_book_info": "洞真太上倉元上錄 (唐)"
+    },
+    {
+      "book_name": "清淨觀世音普賢陀羅尼經",
+      "author": "智通",
+      "full_book_info": "清淨觀世音普賢陀羅尼經 (智通)"
+    },
+    {
+      "book_name": "玉景九天金霄威神王祝太元上經",
+      "author": "唐",
+      "full_book_info": "玉景九天金霄威神王祝太元上經 (唐)"
+    },
+    {
+      "book_name": "玉清內書",
+      "author": "唐",
+      "full_book_info": "玉清內書 (唐)"
+    },
+    {
+      "book_name": "瑜伽師地論義演",
+      "author": "第32卷",
+      "full_book_info": "瑜伽師地論義演 (第32卷)"
+    },
+    {
+      "book_name": "略明般若末後一頌讚述",
+      "author": "義淨",
+      "full_book_info": "略明般若末後一頌讚述 (義淨)"
+    },
+    {
+      "book_name": "百法明門論贅言",
+      "author": "明昱",
+      "full_book_info": "百法明門論贅言 (明昱)"
+    },
+    {
+      "book_name": "紫元君授道傳心法",
+      "author": "陰長生",
+      "full_book_info": "紫元君授道傳心法 (陰長生)"
+    },
+    {
+      "book_name": "肇論疏",
+      "author": "元康",
+      "full_book_info": "肇論疏 (元康)"
+    },
+    {
+      "book_name": "般若心經略疏",
+      "author": "明曠",
+      "full_book_info": "般若心經略疏 (明曠)"
+    },
+    {
+      "book_name": "華嚴經明法品內立三寶章",
+      "author": "唐",
+      "full_book_info": "華嚴經明法品內立三寶章 (唐)"
+    },
+    {
+      "book_name": "解迷顯智成悲十明論",
+      "author": "唐",
+      "full_book_info": "解迷顯智成悲十明論 (唐)"
+    },
+    {
+      "book_name": "貞元新定釋教目錄",
+      "author": "圓照",
+      "full_book_info": "貞元新定釋教目錄 (圓照)"
+    },
+    {
+      "book_name": "近事會元",
+      "author": "唐",
+      "full_book_info": "近事會元 (唐)"
+    },
+    {
+      "book_name": "道德篇章玄頌",
+      "author": "宋鸞",
+      "full_book_info": "道德篇章玄頌 (宋鸞)"
+    },
+    {
+      "book_name": "金光明最勝王經",
+      "author": "義淨",
+      "full_book_info": "金光明最勝王經 (義淨)"
+    },
+    {
+      "book_name": "金光明最勝王經疏",
+      "author": "慧沼",
+      "full_book_info": "金光明最勝王經疏 (慧沼)"
+    },
+    {
+      "book_name": "金剛恐怖集會方廣軌儀觀自在菩薩三世最勝心明王經",
+      "author": "不空",
+      "full_book_info": "金剛恐怖集會方廣軌儀觀自在菩薩三世最勝心明王經 (不空)"
+    },
+    {
+      "book_name": "金剛手光明灌頂經最勝立印聖無動尊大威怒王念誦儀軌法品",
+      "author": "不空",
+      "full_book_info": "金剛手光明灌頂經最勝立印聖無動尊大威怒王念誦儀軌法品 (不空)"
+    },
+    {
+      "book_name": "金剛錍論私記",
+      "author": "明曠",
+      "full_book_info": "金剛錍論私記 (明曠)"
+    },
+    {
+      "book_name": "金闕帝君三元真一經",
+      "author": "唐",
+      "full_book_info": "金闕帝君三元真一經 (唐)"
+    },
+    {
+      "book_name": "長生胎元神用經",
+      "author": "唐",
+      "full_book_info": "長生胎元神用經 (唐)"
+    },
+    {
+      "book_name": "開元釋教錄",
+      "author": "智昇",
+      "full_book_info": "開元釋教錄 (智昇)"
+    },
+    {
+      "book_name": "開元釋教錄略出",
+      "author": "智昇",
+      "full_book_info": "開元釋教錄略出 (智昇)"
+    },
+    {
+      "book_name": "阿吒薄俱元帥大將上佛陀羅尼經修行儀軌",
+      "author": "善無畏",
+      "full_book_info": "阿吒薄俱元帥大將上佛陀羅尼經修行儀軌 (善無畏)"
+    },
+    {
+      "book_name": "降三世忿怒明王念誦儀軌",
+      "author": "不空",
+      "full_book_info": "降三世忿怒明王念誦儀軌 (不空)"
+    },
+    {
+      "book_name": "順正理論述文記",
+      "author": "元瑜",
+      "full_book_info": "順正理論述文記 (元瑜)"
+    },
+    {
+      "book_name": "黃帝陰符經頌",
+      "author": "元陽子",
+      "full_book_info": "黃帝陰符經頌 (元陽子)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 137
+    },
+    "偉": {
+      "count": 18,
+      "recalc_freq_per_10k": 0.031411971091462335,
+      "book_name": 137
+    },
+    "弭": {
+      "count": 36,
+      "recalc_freq_per_10k": 0.08465567343779941,
+      "book_name": 137
+    },
+    "彌": {
+      "count": 173,
+      "recalc_freq_per_10k": 0.2636143475919323,
+      "book_name": 137
+    },
+    "懣": {
+      "count": 1,
+      "recalc_freq_per_10k": 0.0005062982233235896,
+      "book_name": 137
+    },
+    "每": {
+      "count": 532,
+      "recalc_freq_per_10k": 0.6300903475346228,
+      "book_name": 137
+    },
+    "滿": {
+      "count": 337,
+      "recalc_freq_per_10k": 0.7082650265254096,
+      "book_name": 137
+    },
+    "瞞": {
+      "count": 2,
+      "recalc_freq_per_10k": 0.0010979646456568742,
+      "book_name": 137
+    },
+    "輩": {
+      "count": 228,
+      "recalc_freq_per_10k": 0.3125528629642702,
+      "book_name": 137
+    },
+    "門": {
+      "count": 3742,
+      "recalc_freq_per_10k": 4.337141815299887,
+      "book_name": 137
+    }
+  }
+}

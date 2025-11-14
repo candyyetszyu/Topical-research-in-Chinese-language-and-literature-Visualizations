@@ -1,0 +1,82 @@
+{
+  "dynasty": "元初期",
+  "period": "元代",
+  "total_books": 4,
+  "total_authors": 3,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 50,
+  "book_list": [
+    {
+      "book_name": "大丹直指",
+      "author": "丘處機",
+      "full_book_info": "大丹直指 (丘處機)"
+    },
+    {
+      "book_name": "太上洞真凝神修行經訣",
+      "author": "元初期",
+      "full_book_info": "太上洞真凝神修行經訣 (元初期)"
+    },
+    {
+      "book_name": "道德真經衍義手鈔",
+      "author": "王守正",
+      "full_book_info": "道德真經衍義手鈔 (王守正)"
+    },
+    {
+      "book_name": "養生祕錄",
+      "author": "元初期",
+      "full_book_info": "養生祕錄 (元初期)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 4
+    },
+    "偉": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 4
+    },
+    "弭": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 4
+    },
+    "彌": {
+      "count": 2,
+      "recalc_freq_per_10k": 0.07538862837929527,
+      "book_name": 4
+    },
+    "懣": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 4
+    },
+    "每": {
+      "count": 2,
+      "recalc_freq_per_10k": 0.07538862837929527,
+      "book_name": 4
+    },
+    "滿": {
+      "count": 7,
+      "recalc_freq_per_10k": 1.1300669473608744,
+      "book_name": 4
+    },
+    "瞞": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 4
+    },
+    "輩": {
+      "count": 5,
+      "recalc_freq_per_10k": 0.1884715709482382,
+      "book_name": 4
+    },
+    "門": {
+      "count": 34,
+      "recalc_freq_per_10k": 3.670404764416057,
+      "book_name": 4
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "dynasty": "南宋",
+  "period": "宋代",
+  "total_books": 18,
+  "total_authors": 7,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 154,
+  "book_list": [
+    {
+      "book_name": "上清北極天心正法",
+      "author": "南宋",
+      "full_book_info": "上清北極天心正法 (南宋)"
+    },
+    {
+      "book_name": "丹經極論",
+      "author": "南宋",
+      "full_book_info": "丹經極論 (南宋)"
+    },
+    {
+      "book_name": "修煉大丹要旨",
+      "author": "南宋",
+      "full_book_info": "修煉大丹要旨 (南宋)"
+    },
+    {
+      "book_name": "周易參同契註",
+      "author": "儲華谷",
+      "full_book_info": "周易參同契註 (儲華谷)"
+    },
+    {
+      "book_name": "周易圖",
+      "author": "南宋",
+      "full_book_info": "周易圖 (南宋)"
+    },
+    {
+      "book_name": "太上三元賜福赦罪解厄消災延生保命妙經",
+      "author": "南宋",
+      "full_book_info": "太上三元賜福赦罪解厄消災延生保命妙經 (南宋)"
+    },
+    {
+      "book_name": "太上洞玄靈寶無量度人上品經法",
+      "author": "陳春榮",
+      "full_book_info": "太上洞玄靈寶無量度人上品經法 (陳春榮)"
+    },
+    {
+      "book_name": "太上玄靈斗姆大聖元君本命延生心經",
+      "author": "南宋",
+      "full_book_info": "太上玄靈斗姆大聖元君本命延生心經 (南宋)"
+    },
+    {
+      "book_name": "如來廣孝十種報恩道場儀",
+      "author": "思覺",
+      "full_book_info": "如來廣孝十種報恩道場儀 (思覺)"
+    },
+    {
+      "book_name": "碧玉朱砂寒林玉樹匱",
+      "author": "陳大師",
+      "full_book_info": "碧玉朱砂寒林玉樹匱 (陳大師)"
+    },
+    {
+      "book_name": "紫團丹經",
+      "author": "南宋",
+      "full_book_info": "紫團丹經 (南宋)"
+    },
+    {
+      "book_name": "許真君石函記",
+      "author": "許遜",
+      "full_book_info": "許真君石函記 (許遜)"
+    },
+    {
+      "book_name": "道德真經解",
+      "author": "南宋",
+      "full_book_info": "道德真經解 (南宋)"
+    },
+    {
+      "book_name": "靈寶淨明院行遣式",
+      "author": "周方文",
+      "full_book_info": "靈寶淨明院行遣式 (周方文)"
+    },
+    {
+      "book_name": "靈砂大丹祕訣",
+      "author": "南宋",
+      "full_book_info": "靈砂大丹祕訣 (南宋)"
+    },
+    {
+      "book_name": "高上神霄宗師受經式",
+      "author": "南宋",
+      "full_book_info": "高上神霄宗師受經式 (南宋)"
+    },
+    {
+      "book_name": "黃籙九幽醮無礙夜齋次第儀",
+      "author": "南宋",
+      "full_book_info": "黃籙九幽醮無礙夜齋次第儀 (南宋)"
+    },
+    {
+      "book_name": "黃籙救苦十齋轉經儀",
+      "author": "南宋",
+      "full_book_info": "黃籙救苦十齋轉經儀 (南宋)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 18
+    },
+    "偉": {
+      "count": 2,
+      "recalc_freq_per_10k": 0.012503219579041604,
+      "book_name": 18
+    },
+    "弭": {
+      "count": 1,
+      "recalc_freq_per_10k": 0.006251609789520802,
+      "book_name": 18
+    },
+    "彌": {
+      "count": 15,
+      "recalc_freq_per_10k": 0.17647786349180417,
+      "book_name": 18
+    },
+    "懣": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 18
+    },
+    "每": {
+      "count": 20,
+      "recalc_freq_per_10k": 0.7552302448635013,
+      "book_name": 18
+    },
+    "滿": {
+      "count": 20,
+      "recalc_freq_per_10k": 0.6342445098148466,
+      "book_name": 18
+    },
+    "瞞": {
+      "count": 2,
+      "recalc_freq_per_10k": 0.4116751060063398,
+      "book_name": 18
+    },
+    "輩": {
+      "count": 12,
+      "recalc_freq_per_10k": 0.08020359808315525,
+      "book_name": 18
+    },
+    "門": {
+      "count": 82,
+      "recalc_freq_per_10k": 2.1104174454017177,
+      "book_name": 18
+    }
+  }
+}

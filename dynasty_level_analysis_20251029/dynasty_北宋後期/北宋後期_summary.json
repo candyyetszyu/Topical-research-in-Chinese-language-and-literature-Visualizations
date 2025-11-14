@@ -1,0 +1,67 @@
+{
+  "dynasty": "北宋後期",
+  "period": "宋代",
+  "total_books": 1,
+  "total_authors": 1,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 4,
+  "book_list": [
+    {
+      "book_name": "金丹真一論",
+      "author": "百玄子",
+      "full_book_info": "金丹真一論 (百玄子)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "偉": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "弭": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "彌": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "懣": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "每": {
+      "count": 1,
+      "recalc_freq_per_10k": 1.5271838729383018,
+      "book_name": 1
+    },
+    "滿": {
+      "count": 3,
+      "recalc_freq_per_10k": 4.581551618814905,
+      "book_name": 1
+    },
+    "瞞": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "輩": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    },
+    "門": {
+      "count": 0,
+      "recalc_freq_per_10k": 0.0,
+      "book_name": 1
+    }
+  }
+}

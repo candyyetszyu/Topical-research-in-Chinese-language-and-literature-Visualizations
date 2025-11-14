@@ -1,0 +1,5787 @@
+{
+  "dynasty": "清",
+  "period": "清代",
+  "total_books": 1139,
+  "total_authors": 419,
+  "total_variants_found": 10,
+  "total_variant_occurrences": 222277,
+  "book_list": [
+    {
+      "book_name": "《瑜伽師地論》披尋記敘",
+      "author": "韓清淨",
+      "full_book_info": "《瑜伽師地論》披尋記敘 (韓清淨)"
+    },
+    {
+      "book_name": "一乘決疑論",
+      "author": "清",
+      "full_book_info": "一乘決疑論 (清)"
+    },
+    {
+      "book_name": "一初元禪師語錄",
+      "author": "元",
+      "full_book_info": "一初元禪師語錄 (元)"
+    },
+    {
+      "book_name": "一貫別傳",
+      "author": "廣真",
+      "full_book_info": "一貫別傳 (廣真)"
+    },
+    {
+      "book_name": "七俱胝佛母所說準提陀羅尼經會釋",
+      "author": "弘贊",
+      "full_book_info": "七俱胝佛母所說準提陀羅尼經會釋 (弘贊)"
+    },
+    {
+      "book_name": "七頌堂識小錄",
+      "author": "清",
+      "full_book_info": "七頌堂識小錄 (清)"
+    },
+    {
+      "book_name": "三傳折諸",
+      "author": "張尚瑗",
+      "full_book_info": "三傳折諸 (張尚瑗)"
+    },
+    {
+      "book_name": "三國志補注",
+      "author": "杭世駿",
+      "full_book_info": "三國志補注 (杭世駿)"
+    },
+    {
+      "book_name": "三塔主峰禪師語錄",
+      "author": "覺海",
+      "full_book_info": "三塔主峰禪師語錄 (覺海)"
+    },
+    {
+      "book_name": "三家詩拾遺",
+      "author": "清",
+      "full_book_info": "三家詩拾遺 (清)"
+    },
+    {
+      "book_name": "三山來禪師語錄",
+      "author": "燈來",
+      "full_book_info": "三山來禪師語錄 (燈來)"
+    },
+    {
+      "book_name": "三正考",
+      "author": "清",
+      "full_book_info": "三正考 (清)"
+    },
+    {
+      "book_name": "三魚堂文集",
+      "author": "清",
+      "full_book_info": "三魚堂文集 (清)"
+    },
+    {
+      "book_name": "三魚堂賸言",
+      "author": "清",
+      "full_book_info": "三魚堂賸言 (清)"
+    },
+    {
+      "book_name": "上清三尊譜錄",
+      "author": "",
+      "full_book_info": "上清三尊譜錄"
+    },
+    {
+      "book_name": "上清丹天三氣玉皇六辰飛綱司命大籙",
+      "author": "",
+      "full_book_info": "上清丹天三氣玉皇六辰飛綱司命大籙"
+    },
+    {
+      "book_name": "上清九真中經內訣",
+      "author": "赤松子",
+      "full_book_info": "上清九真中經內訣 (赤松子)"
+    },
+    {
+      "book_name": "上清佩符文白卷訣",
+      "author": "",
+      "full_book_info": "上清佩符文白卷訣"
+    },
+    {
+      "book_name": "上清佩符文絳卷訣",
+      "author": "",
+      "full_book_info": "上清佩符文絳卷訣"
+    },
+    {
+      "book_name": "上清佩符文青卷訣",
+      "author": "",
+      "full_book_info": "上清佩符文青卷訣"
+    },
+    {
+      "book_name": "上清佩符文黃卷訣",
+      "author": "",
+      "full_book_info": "上清佩符文黃卷訣"
+    },
+    {
+      "book_name": "上清佩符文黑卷訣",
+      "author": "",
+      "full_book_info": "上清佩符文黑卷訣"
+    },
+    {
+      "book_name": "上清侍帝晨桐柏真人真圖讚",
+      "author": "司馬丞禎",
+      "full_book_info": "上清侍帝晨桐柏真人真圖讚 (司馬丞禎)"
+    },
+    {
+      "book_name": "上清僊府瓊林經",
+      "author": "",
+      "full_book_info": "上清僊府瓊林經"
+    },
+    {
+      "book_name": "上清六甲祈禱祕法",
+      "author": "",
+      "full_book_info": "上清六甲祈禱祕法"
+    },
+    {
+      "book_name": "上清十一大曜燈儀",
+      "author": "",
+      "full_book_info": "上清十一大曜燈儀"
+    },
+    {
+      "book_name": "上清含象劍鑑圖",
+      "author": "司馬丞禎",
+      "full_book_info": "上清含象劍鑑圖 (司馬丞禎)"
+    },
+    {
+      "book_name": "上清大洞真經",
+      "author": "朱自英",
+      "full_book_info": "上清大洞真經 (朱自英)"
+    },
+    {
+      "book_name": "上清天寶齋初夜儀",
+      "author": "",
+      "full_book_info": "上清天寶齋初夜儀"
+    },
+    {
+      "book_name": "上清天心正法",
+      "author": "鄧有功",
+      "full_book_info": "上清天心正法 (鄧有功)"
+    },
+    {
+      "book_name": "上清太微帝君結帶真文法",
+      "author": "陸修靜",
+      "full_book_info": "上清太微帝君結帶真文法 (陸修靜)"
+    },
+    {
+      "book_name": "上清太淵神龍瓊胎乘景上玄玉章",
+      "author": "",
+      "full_book_info": "上清太淵神龍瓊胎乘景上玄玉章"
+    },
+    {
+      "book_name": "上清太玄九陽圖",
+      "author": "侯善淵",
+      "full_book_info": "上清太玄九陽圖 (侯善淵)"
+    },
+    {
+      "book_name": "上清握中訣",
+      "author": "陶弘景",
+      "full_book_info": "上清握中訣 (陶弘景)"
+    },
+    {
+      "book_name": "上清洞真天寶大洞三景寶籙",
+      "author": "",
+      "full_book_info": "上清洞真天寶大洞三景寶籙"
+    },
+    {
+      "book_name": "上清洞真解過訣",
+      "author": "",
+      "full_book_info": "上清洞真解過訣"
+    },
+    {
+      "book_name": "上清無英真童合遊內變玉經",
+      "author": "",
+      "full_book_info": "上清無英真童合遊內變玉經"
+    },
+    {
+      "book_name": "上清眾真教戒德行經",
+      "author": "",
+      "full_book_info": "上清眾真教戒德行經"
+    },
+    {
+      "book_name": "上清眾經諸真聖祕",
+      "author": "",
+      "full_book_info": "上清眾經諸真聖祕"
+    },
+    {
+      "book_name": "上清祕道九精回曜合神上真玉經",
+      "author": "",
+      "full_book_info": "上清祕道九精回曜合神上真玉經"
+    },
+    {
+      "book_name": "上清神寶洞房真諱上經",
+      "author": "",
+      "full_book_info": "上清神寶洞房真諱上經"
+    },
+    {
+      "book_name": "上清經真丹祕訣",
+      "author": "",
+      "full_book_info": "上清經真丹祕訣"
+    },
+    {
+      "book_name": "上清道類事相",
+      "author": "王懸河",
+      "full_book_info": "上清道類事相 (王懸河)"
+    },
+    {
+      "book_name": "上清靈寳大法目録",
+      "author": "",
+      "full_book_info": "上清靈寳大法目録"
+    },
+    {
+      "book_name": "上清靈寶大法",
+      "author": "王契真",
+      "full_book_info": "上清靈寶大法 (王契真)"
+    },
+    {
+      "book_name": "上清靈寶大法",
+      "author": "金允中",
+      "full_book_info": "上清靈寶大法 (金允中)"
+    },
+    {
+      "book_name": "上清骨髓靈文鬼律",
+      "author": "饒洞天",
+      "full_book_info": "上清骨髓靈文鬼律 (饒洞天)"
+    },
+    {
+      "book_name": "上清黃書過度儀",
+      "author": "",
+      "full_book_info": "上清黃書過度儀"
+    },
+    {
+      "book_name": "不會禪師語錄",
+      "author": "法通",
+      "full_book_info": "不會禪師語錄 (法通)"
+    },
+    {
+      "book_name": "世宗憲皇帝上諭內閣",
+      "author": "清",
+      "full_book_info": "世宗憲皇帝上諭內閣 (清)"
+    },
+    {
+      "book_name": "世宗憲皇帝上諭八旗",
+      "author": "允祿",
+      "full_book_info": "世宗憲皇帝上諭八旗 (允祿)"
+    },
+    {
+      "book_name": "世宗憲皇帝御製文集",
+      "author": "清",
+      "full_book_info": "世宗憲皇帝御製文集 (清)"
+    },
+    {
+      "book_name": "世宗憲皇帝硃批諭旨",
+      "author": "清",
+      "full_book_info": "世宗憲皇帝硃批諭旨 (清)"
+    },
+    {
+      "book_name": "世宗憲皇帝聖訓",
+      "author": "清",
+      "full_book_info": "世宗憲皇帝聖訓 (清)"
+    },
+    {
+      "book_name": "世祖章皇帝聖訓",
+      "author": "清",
+      "full_book_info": "世祖章皇帝聖訓 (清)"
+    },
+    {
+      "book_name": "中州人物考",
+      "author": "清",
+      "full_book_info": "中州人物考 (清)"
+    },
+    {
+      "book_name": "中星譜",
+      "author": "清",
+      "full_book_info": "中星譜 (清)"
+    },
+    {
+      "book_name": "中西經星同異考",
+      "author": "清",
+      "full_book_info": "中西經星同異考 (清)"
+    },
+    {
+      "book_name": "九章錄要",
+      "author": "清",
+      "full_book_info": "九章錄要 (清)"
+    },
+    {
+      "book_name": "九經古義",
+      "author": "惠棟",
+      "full_book_info": "九經古義 (惠棟)"
+    },
+    {
+      "book_name": "九經誤字",
+      "author": "顧炎武",
+      "full_book_info": "九經誤字 (顧炎武)"
+    },
+    {
+      "book_name": "九經辨字瀆蒙",
+      "author": "沈炳震",
+      "full_book_info": "九經辨字瀆蒙 (沈炳震)"
+    },
+    {
+      "book_name": "了菴清欲禪師語錄",
+      "author": "一志",
+      "full_book_info": "了菴清欲禪師語錄 (一志)"
+    },
+    {
+      "book_name": "二家詩選",
+      "author": "清",
+      "full_book_info": "二家詩選 (清)"
+    },
+    {
+      "book_name": "二希堂文集",
+      "author": "清",
+      "full_book_info": "二希堂文集 (清)"
+    },
+    {
+      "book_name": "二林唱和詩",
+      "author": "彭紹升",
+      "full_book_info": "二林唱和詩 (彭紹升)"
+    },
+    {
+      "book_name": "二部僧授戒儀式",
+      "author": "書玉",
+      "full_book_info": "二部僧授戒儀式 (書玉)"
+    },
+    {
+      "book_name": "二隱謐禪師語錄",
+      "author": "謐",
+      "full_book_info": "二隱謐禪師語錄 (謐)"
+    },
+    {
+      "book_name": "于清端政書",
+      "author": "清",
+      "full_book_info": "于清端政書 (清)"
+    },
+    {
+      "book_name": "五代詩話",
+      "author": "清",
+      "full_book_info": "五代詩話 (清)"
+    },
+    {
+      "book_name": "五家宗旨纂要",
+      "author": "性統",
+      "full_book_info": "五家宗旨纂要 (性統)"
+    },
+    {
+      "book_name": "五燈全書",
+      "author": "超永",
+      "full_book_info": "五燈全書 (超永)"
+    },
+    {
+      "book_name": "五燈全書目錄",
+      "author": "超永",
+      "full_book_info": "五燈全書目錄 (超永)"
+    },
+    {
+      "book_name": "五禮通考",
+      "author": "清",
+      "full_book_info": "五禮通考 (清)"
+    },
+    {
+      "book_name": "介為舟禪師語錄",
+      "author": "行舟",
+      "full_book_info": "介為舟禪師語錄 (行舟)"
+    },
+    {
+      "book_name": "介菴進禪師語錄",
+      "author": "悟進",
+      "full_book_info": "介菴進禪師語錄 (悟進)"
+    },
+    {
+      "book_name": "伏獅祇園禪師語錄",
+      "author": "行剛",
+      "full_book_info": "伏獅祇園禪師語錄 (行剛)"
+    },
+    {
+      "book_name": "伏獅義公禪師語錄",
+      "author": "尼",
+      "full_book_info": "伏獅義公禪師語錄 (尼)"
+    },
+    {
+      "book_name": "何一自禪師語錄",
+      "author": "超自",
+      "full_book_info": "何一自禪師語錄 (超自)"
+    },
+    {
+      "book_name": "佛冤禪師語錄",
+      "author": "徹綱",
+      "full_book_info": "佛冤禪師語錄 (徹綱)"
+    },
+    {
+      "book_name": "佛古聞禪師語錄",
+      "author": "行聞",
+      "full_book_info": "佛古聞禪師語錄 (行聞)"
+    },
+    {
+      "book_name": "佛祖宗派世譜",
+      "author": "悟進",
+      "full_book_info": "佛祖宗派世譜 (悟進)"
+    },
+    {
+      "book_name": "佛祖正傳古今捷錄",
+      "author": "果性",
+      "full_book_info": "佛祖正傳古今捷錄 (果性)"
+    },
+    {
+      "book_name": "佛語御禪師語錄",
+      "author": "徹御",
+      "full_book_info": "佛語御禪師語錄 (徹御)"
+    },
+    {
+      "book_name": "佛說彌勒菩薩發願王偈",
+      "author": "工布查布",
+      "full_book_info": "佛說彌勒菩薩發願王偈 (工布查布)"
+    },
+    {
+      "book_name": "佛說造像量度經解",
+      "author": "工布查布",
+      "full_book_info": "佛說造像量度經解 (工布查布)"
+    },
+    {
+      "book_name": "佛說金剛三昧本性清淨不壞不滅經",
+      "author": "失譯",
+      "full_book_info": "佛說金剛三昧本性清淨不壞不滅經 (失譯)"
+    },
+    {
+      "book_name": "佛頂尊勝陀羅尼經釋",
+      "author": "續法",
+      "full_book_info": "佛頂尊勝陀羅尼經釋 (續法)"
+    },
+    {
+      "book_name": "來齋金石刻考略",
+      "author": "清",
+      "full_book_info": "來齋金石刻考略 (清)"
+    },
+    {
+      "book_name": "供諸天科儀",
+      "author": "弘贊",
+      "full_book_info": "供諸天科儀 (弘贊)"
+    },
+    {
+      "book_name": "侶巖荷禪師語錄",
+      "author": "荷",
+      "full_book_info": "侶巖荷禪師語錄 (荷)"
+    },
+    {
+      "book_name": "修真十書上清集",
+      "author": "白玉蟾",
+      "full_book_info": "修真十書上清集 (白玉蟾)"
+    },
+    {
+      "book_name": "修習瑜伽集要施食壇儀",
+      "author": "法藏",
+      "full_book_info": "修習瑜伽集要施食壇儀 (法藏)"
+    },
+    {
+      "book_name": "修藥師儀軌布壇法",
+      "author": "阿旺扎什",
+      "full_book_info": "修藥師儀軌布壇法 (阿旺扎什)"
+    },
+    {
+      "book_name": "修西聞見錄",
+      "author": "咫觀",
+      "full_book_info": "修西聞見錄 (咫觀)"
+    },
+    {
+      "book_name": "修西輯要",
+      "author": "信庵",
+      "full_book_info": "修西輯要 (信庵)"
+    },
+    {
+      "book_name": "傳戒正範",
+      "author": "讀體",
+      "full_book_info": "傳戒正範 (讀體)"
+    },
+    {
+      "book_name": "傳神祕要",
+      "author": "清",
+      "full_book_info": "傳神祕要 (清)"
+    },
+    {
+      "book_name": "傷寒兼證析義",
+      "author": "清",
+      "full_book_info": "傷寒兼證析義 (清)"
+    },
+    {
+      "book_name": "傷寒舌鑑",
+      "author": "清",
+      "full_book_info": "傷寒舌鑑 (清)"
+    },
+    {
+      "book_name": "傷寒類方",
+      "author": "清",
+      "full_book_info": "傷寒類方 (清)"
+    },
+    {
+      "book_name": "儀禮商",
+      "author": "清",
+      "full_book_info": "儀禮商 (清)"
+    },
+    {
+      "book_name": "儀禮小疏",
+      "author": "清",
+      "full_book_info": "儀禮小疏 (清)"
+    },
+    {
+      "book_name": "儀禮析疑",
+      "author": "清",
+      "full_book_info": "儀禮析疑 (清)"
+    },
+    {
+      "book_name": "儀禮章句",
+      "author": "清",
+      "full_book_info": "儀禮章句 (清)"
+    },
+    {
+      "book_name": "儀禮述註",
+      "author": "清",
+      "full_book_info": "儀禮述註 (清)"
+    },
+    {
+      "book_name": "儀禮鄭註句讀",
+      "author": "清",
+      "full_book_info": "儀禮鄭註句讀 (清)"
+    },
+    {
+      "book_name": "儀禮釋宮增注",
+      "author": "清",
+      "full_book_info": "儀禮釋宮增注 (清)"
+    },
+    {
+      "book_name": "儀禮集編",
+      "author": "清",
+      "full_book_info": "儀禮集編 (清)"
+    },
+    {
+      "book_name": "儒林宗派",
+      "author": "清",
+      "full_book_info": "儒林宗派 (清)"
+    },
+    {
+      "book_name": "優婆夷志",
+      "author": "圓信",
+      "full_book_info": "優婆夷志 (圓信)"
+    },
+    {
+      "book_name": "元明事類鈔",
+      "author": "清",
+      "full_book_info": "元明事類鈔 (清)"
+    },
+    {
+      "book_name": "元朝典故編年考",
+      "author": "清",
+      "full_book_info": "元朝典故編年考 (清)"
+    },
+    {
+      "book_name": "元潔瑩禪師語錄",
+      "author": "淨瑩",
+      "full_book_info": "元潔瑩禪師語錄 (淨瑩)"
+    },
+    {
+      "book_name": "元詩選",
+      "author": "清",
+      "full_book_info": "元詩選 (清)"
+    },
+    {
+      "book_name": "先覺宗乘",
+      "author": "圓信",
+      "full_book_info": "先覺宗乘 (圓信)"
+    },
+    {
+      "book_name": "兜率不磷堅禪師語錄",
+      "author": "宗堅",
+      "full_book_info": "兜率不磷堅禪師語錄 (宗堅)"
+    },
+    {
+      "book_name": "兜率龜鏡集",
+      "author": "弘贊",
+      "full_book_info": "兜率龜鏡集 (弘贊)"
+    },
+    {
+      "book_name": "內紹種禪師語錄",
+      "author": "種",
+      "full_book_info": "內紹種禪師語錄 (種)"
+    },
+    {
+      "book_name": "全史日至源流",
+      "author": "清",
+      "full_book_info": "全史日至源流 (清)"
+    },
+    {
+      "book_name": "全唐文",
+      "author": "周紹良",
+      "full_book_info": "全唐文 (周紹良)"
+    },
+    {
+      "book_name": "全真清規",
+      "author": "陸道和",
+      "full_book_info": "全真清規 (陸道和)"
+    },
+    {
+      "book_name": "全閩詩話",
+      "author": "清",
+      "full_book_info": "全閩詩話 (清)"
+    },
+    {
+      "book_name": "兩河清彙",
+      "author": "清",
+      "full_book_info": "兩河清彙 (清)"
+    },
+    {
+      "book_name": "八大人覺經疏",
+      "author": "續法",
+      "full_book_info": "八大人覺經疏 (續法)"
+    },
+    {
+      "book_name": "八旬萬壽盛典",
+      "author": "清",
+      "full_book_info": "八旬萬壽盛典 (清)"
+    },
+    {
+      "book_name": "八識規矩淺說",
+      "author": "行舟",
+      "full_book_info": "八識規矩淺說 (行舟)"
+    },
+    {
+      "book_name": "八識規矩論義",
+      "author": "性起",
+      "full_book_info": "八識規矩論義 (性起)"
+    },
+    {
+      "book_name": "八識規矩頌注",
+      "author": "行舟",
+      "full_book_info": "八識規矩頌注 (行舟)"
+    },
+    {
+      "book_name": "八關齋法",
+      "author": "弘贊",
+      "full_book_info": "八關齋法 (弘贊)"
+    },
+    {
+      "book_name": "六壬大全",
+      "author": "清",
+      "full_book_info": "六壬大全 (清)"
+    },
+    {
+      "book_name": "六藝之一錄",
+      "author": "倪濤",
+      "full_book_info": "六藝之一錄 (倪濤)"
+    },
+    {
+      "book_name": "六道集",
+      "author": "弘贊",
+      "full_book_info": "六道集 (弘贊)"
+    },
+    {
+      "book_name": "兼濟堂文集",
+      "author": "清",
+      "full_book_info": "兼濟堂文集 (清)"
+    },
+    {
+      "book_name": "准提焚修悉地懺悔玄文",
+      "author": "夏道人",
+      "full_book_info": "准提焚修悉地懺悔玄文 (夏道人)"
+    },
+    {
+      "book_name": "分甘餘話",
+      "author": "清",
+      "full_book_info": "分甘餘話 (清)"
+    },
+    {
+      "book_name": "分隸偶存",
+      "author": "清",
+      "full_book_info": "分隸偶存 (清)"
+    },
+    {
+      "book_name": "列祖提綱錄",
+      "author": "行悅",
+      "full_book_info": "列祖提綱錄 (行悅)"
+    },
+    {
+      "book_name": "別牧純禪師語錄",
+      "author": "純",
+      "full_book_info": "別牧純禪師語錄 (純)"
+    },
+    {
+      "book_name": "別菴禪師同門錄",
+      "author": "性統",
+      "full_book_info": "別菴禪師同門錄 (性統)"
+    },
+    {
+      "book_name": "別號錄",
+      "author": "清",
+      "full_book_info": "別號錄 (清)"
+    },
+    {
+      "book_name": "別雅",
+      "author": "吳玉搢",
+      "full_book_info": "別雅 (吳玉搢)"
+    },
+    {
+      "book_name": "勸修淨土切要",
+      "author": "真益願",
+      "full_book_info": "勸修淨土切要 (真益願)"
+    },
+    {
+      "book_name": "勿菴歷算書記",
+      "author": "清",
+      "full_book_info": "勿菴歷算書記 (清)"
+    },
+    {
+      "book_name": "北京楚林禪師語錄",
+      "author": "上睿",
+      "full_book_info": "北京楚林禪師語錄 (上睿)"
+    },
+    {
+      "book_name": "北郊配位尊西向議",
+      "author": "清",
+      "full_book_info": "北郊配位尊西向議 (清)"
+    },
+    {
+      "book_name": "十三經注疏正字",
+      "author": "沈廷芳",
+      "full_book_info": "十三經注疏正字 (沈廷芳)"
+    },
+    {
+      "book_name": "十三經義疑",
+      "author": "吳浩",
+      "full_book_info": "十三經義疑 (吳浩)"
+    },
+    {
+      "book_name": "十五家詞",
+      "author": "清",
+      "full_book_info": "十五家詞 (清)"
+    },
+    {
+      "book_name": "十善業道經節要",
+      "author": "蕅益",
+      "full_book_info": "十善業道經節要 (蕅益)"
+    },
+    {
+      "book_name": "十國春秋",
+      "author": "清",
+      "full_book_info": "十國春秋 (清)"
+    },
+    {
+      "book_name": "千頃堂書目",
+      "author": "清",
+      "full_book_info": "千頃堂書目 (清)"
+    },
+    {
+      "book_name": "午亭文編",
+      "author": "清",
+      "full_book_info": "午亭文編 (清)"
+    },
+    {
+      "book_name": "卓峰玨禪師語錄",
+      "author": "性玨",
+      "full_book_info": "卓峰玨禪師語錄 (性玨)"
+    },
+    {
+      "book_name": "南北史識小錄",
+      "author": "沈名蓀",
+      "full_book_info": "南北史識小錄 (沈名蓀)"
+    },
+    {
+      "book_name": "南宋元明禪林僧寶傳",
+      "author": "自融",
+      "full_book_info": "南宋元明禪林僧寶傳 (自融)"
+    },
+    {
+      "book_name": "南宋襍事詩",
+      "author": "清",
+      "full_book_info": "南宋襍事詩 (清)"
+    },
+    {
+      "book_name": "南宋院畫錄",
+      "author": "清",
+      "full_book_info": "南宋院畫錄 (清)"
+    },
+    {
+      "book_name": "南嶽單傳記",
+      "author": "弘儲",
+      "full_book_info": "南嶽單傳記 (弘儲)"
+    },
+    {
+      "book_name": "南嶽繼起和尚語錄",
+      "author": "弘儲",
+      "full_book_info": "南嶽繼起和尚語錄 (弘儲)"
+    },
+    {
+      "book_name": "南海寶象林慧弓詗禪師語錄",
+      "author": "開詗",
+      "full_book_info": "南海寶象林慧弓詗禪師語錄 (開詗)"
+    },
+    {
+      "book_name": "博山粟如瀚禪師語錄",
+      "author": "弘瀚",
+      "full_book_info": "博山粟如瀚禪師語錄 (弘瀚)"
+    },
+    {
+      "book_name": "卜法詳考",
+      "author": "清",
+      "full_book_info": "卜法詳考 (清)"
+    },
+    {
+      "book_name": "印心佛敏訥禪師語錄",
+      "author": "寂納",
+      "full_book_info": "印心佛敏訥禪師語錄 (寂納)"
+    },
+    {
+      "book_name": "即非禪師全錄",
+      "author": "如一",
+      "full_book_info": "即非禪師全錄 (如一)"
+    },
+    {
+      "book_name": "參同一揆禪師語錄",
+      "author": "超琛",
+      "full_book_info": "參同一揆禪師語錄 (超琛)"
+    },
+    {
+      "book_name": "參讀禮志疑",
+      "author": "清",
+      "full_book_info": "參讀禮志疑 (清)"
+    },
+    {
+      "book_name": "古今通韻",
+      "author": "毛奇齡",
+      "full_book_info": "古今通韻 (毛奇齡)"
+    },
+    {
+      "book_name": "古夫于亭雜錄",
+      "author": "清",
+      "full_book_info": "古夫于亭雜錄 (清)"
+    },
+    {
+      "book_name": "古宿尊禪師語錄",
+      "author": "尊",
+      "full_book_info": "古宿尊禪師語錄 (尊)"
+    },
+    {
+      "book_name": "古文雅正",
+      "author": "清",
+      "full_book_info": "古文雅正 (清)"
+    },
+    {
+      "book_name": "古林如禪師語錄",
+      "author": "機如",
+      "full_book_info": "古林如禪師語錄 (機如)"
+    },
+    {
+      "book_name": "古樂書",
+      "author": "應撝謙",
+      "full_book_info": "古樂書 (應撝謙)"
+    },
+    {
+      "book_name": "古樂經傳",
+      "author": "李光地",
+      "full_book_info": "古樂經傳 (李光地)"
+    },
+    {
+      "book_name": "古歡堂集",
+      "author": "清",
+      "full_book_info": "古歡堂集 (清)"
+    },
+    {
+      "book_name": "古經解鉤沉",
+      "author": "余蕭客",
+      "full_book_info": "古經解鉤沉 (余蕭客)"
+    },
+    {
+      "book_name": "古音王傳",
+      "author": "廣真",
+      "full_book_info": "古音王傳 (廣真)"
+    },
+    {
+      "book_name": "古音表",
+      "author": "顧炎武",
+      "full_book_info": "古音表 (顧炎武)"
+    },
+    {
+      "book_name": "古韻標準",
+      "author": "江永",
+      "full_book_info": "古韻標準 (江永)"
+    },
+    {
+      "book_name": "句股引蒙",
+      "author": "清",
+      "full_book_info": "句股引蒙 (清)"
+    },
+    {
+      "book_name": "史傳三編",
+      "author": "清",
+      "full_book_info": "史傳三編 (清)"
+    },
+    {
+      "book_name": "史記疑問",
+      "author": "清",
+      "full_book_info": "史記疑問 (清)"
+    },
+    {
+      "book_name": "史通通釋",
+      "author": "清",
+      "full_book_info": "史通通釋 (清)"
+    },
+    {
+      "book_name": "合訂刪補大易集義粹言",
+      "author": "清",
+      "full_book_info": "合訂刪補大易集義粹言 (清)"
+    },
+    {
+      "book_name": "周官祿田考",
+      "author": "清",
+      "full_book_info": "周官祿田考 (清)"
+    },
+    {
+      "book_name": "周官集注",
+      "author": "清",
+      "full_book_info": "周官集注 (清)"
+    },
+    {
+      "book_name": "周易傳義合訂",
+      "author": "清",
+      "full_book_info": "周易傳義合訂 (清)"
+    },
+    {
+      "book_name": "周易傳註",
+      "author": "清",
+      "full_book_info": "周易傳註 (清)"
+    },
+    {
+      "book_name": "周易函書約存",
+      "author": "胡煦",
+      "full_book_info": "周易函書約存 (胡煦)"
+    },
+    {
+      "book_name": "周易劄記",
+      "author": "楊名時",
+      "full_book_info": "周易劄記 (楊名時)"
+    },
+    {
+      "book_name": "周易圖書質疑",
+      "author": "趙繼序",
+      "full_book_info": "周易圖書質疑 (趙繼序)"
+    },
+    {
+      "book_name": "周易孔義集說",
+      "author": "清",
+      "full_book_info": "周易孔義集說 (清)"
+    },
+    {
+      "book_name": "周易洗心",
+      "author": "清",
+      "full_book_info": "周易洗心 (清)"
+    },
+    {
+      "book_name": "周易淺述",
+      "author": "清",
+      "full_book_info": "周易淺述 (清)"
+    },
+    {
+      "book_name": "周易淺釋",
+      "author": "潘思榘",
+      "full_book_info": "周易淺釋 (潘思榘)"
+    },
+    {
+      "book_name": "周易玩辭集解",
+      "author": "清",
+      "full_book_info": "周易玩辭集解 (清)"
+    },
+    {
+      "book_name": "周易稗疏",
+      "author": "清",
+      "full_book_info": "周易稗疏 (清)"
+    },
+    {
+      "book_name": "周易章句證異",
+      "author": "清",
+      "full_book_info": "周易章句證異 (清)"
+    },
+    {
+      "book_name": "周易筮述",
+      "author": "清",
+      "full_book_info": "周易筮述 (清)"
+    },
+    {
+      "book_name": "周易觀彖",
+      "author": "清",
+      "full_book_info": "周易觀彖 (清)"
+    },
+    {
+      "book_name": "周易象辭",
+      "author": "黃宗炎",
+      "full_book_info": "周易象辭 (黃宗炎)"
+    },
+    {
+      "book_name": "周易辨畫",
+      "author": "連斗山",
+      "full_book_info": "周易辨畫 (連斗山)"
+    },
+    {
+      "book_name": "周易述",
+      "author": "惠棟",
+      "full_book_info": "周易述 (惠棟)"
+    },
+    {
+      "book_name": "周易通論",
+      "author": "清",
+      "full_book_info": "周易通論 (清)"
+    },
+    {
+      "book_name": "周禮疑義擧要",
+      "author": "清",
+      "full_book_info": "周禮疑義擧要 (清)"
+    },
+    {
+      "book_name": "周禮纂訓",
+      "author": "清",
+      "full_book_info": "周禮纂訓 (清)"
+    },
+    {
+      "book_name": "周禮述註",
+      "author": "清",
+      "full_book_info": "周禮述註 (清)"
+    },
+    {
+      "book_name": "唐賢三昧集",
+      "author": "清",
+      "full_book_info": "唐賢三昧集 (清)"
+    },
+    {
+      "book_name": "唐韻正",
+      "author": "顧炎武",
+      "full_book_info": "唐韻正 (顧炎武)"
+    },
+    {
+      "book_name": "唯心集",
+      "author": "乘戒",
+      "full_book_info": "唯心集 (乘戒)"
+    },
+    {
+      "book_name": "啟信雜說",
+      "author": "周思仁",
+      "full_book_info": "啟信雜說 (周思仁)"
+    },
+    {
+      "book_name": "善一純禪師語錄",
+      "author": "如純",
+      "full_book_info": "善一純禪師語錄 (如純)"
+    },
+    {
+      "book_name": "善女人傳",
+      "author": "彭際清",
+      "full_book_info": "善女人傳 (彭際清)"
+    },
+    {
+      "book_name": "善權位禪師語錄",
+      "author": "達位",
+      "full_book_info": "善權位禪師語錄 (達位)"
+    },
+    {
+      "book_name": "嘉興退菴斷愚智禪師語錄",
+      "author": "智",
+      "full_book_info": "嘉興退菴斷愚智禪師語錄 (智)"
+    },
+    {
+      "book_name": "四十二章經疏鈔",
+      "author": "續法",
+      "full_book_info": "四十二章經疏鈔 (續法)"
+    },
+    {
+      "book_name": "四川通志",
+      "author": "清",
+      "full_book_info": "四川通志 (清)"
+    },
+    {
+      "book_name": "四教儀註彙補輔宏記",
+      "author": "性權",
+      "full_book_info": "四教儀註彙補輔宏記 (性權)"
+    },
+    {
+      "book_name": "四教儀集註節義",
+      "author": "靈耀",
+      "full_book_info": "四教儀集註節義 (靈耀)"
+    },
+    {
+      "book_name": "四書劄記",
+      "author": "楊名時",
+      "full_book_info": "四書劄記 (楊名時)"
+    },
+    {
+      "book_name": "四書講義困勉錄",
+      "author": "陸隴其",
+      "full_book_info": "四書講義困勉錄 (陸隴其)"
+    },
+    {
+      "book_name": "四書賸言",
+      "author": "毛奇齡",
+      "full_book_info": "四書賸言 (毛奇齡)"
+    },
+    {
+      "book_name": "四書近指",
+      "author": "孫奇逢",
+      "full_book_info": "四書近指 (孫奇逢)"
+    },
+    {
+      "book_name": "四書逸箋",
+      "author": "程大中",
+      "full_book_info": "四書逸箋 (程大中)"
+    },
+    {
+      "book_name": "四書釋地",
+      "author": "閻若璩",
+      "full_book_info": "四書釋地 (閻若璩)"
+    },
+    {
+      "book_name": "因園集",
+      "author": "清",
+      "full_book_info": "因園集 (清)"
+    },
+    {
+      "book_name": "國朝宮史",
+      "author": "清",
+      "full_book_info": "國朝宮史 (清)"
+    },
+    {
+      "book_name": "國清大庾韜禪師語錄",
+      "author": "行韜",
+      "full_book_info": "國清大庾韜禪師語錄 (行韜)"
+    },
+    {
+      "book_name": "圓覺經句釋正白",
+      "author": "弘麗",
+      "full_book_info": "圓覺經句釋正白 (弘麗)"
+    },
+    {
+      "book_name": "圓覺經析義疏",
+      "author": "通理",
+      "full_book_info": "圓覺經析義疏 (通理)"
+    },
+    {
+      "book_name": "地藏本願經科文",
+      "author": "靈椉",
+      "full_book_info": "地藏本願經科文 (靈椉)"
+    },
+    {
+      "book_name": "地藏本願經科註",
+      "author": "靈椉",
+      "full_book_info": "地藏本願經科註 (靈椉)"
+    },
+    {
+      "book_name": "地藏本願經綸貫",
+      "author": "靈椉",
+      "full_book_info": "地藏本願經綸貫 (靈椉)"
+    },
+    {
+      "book_name": "坤輿圖說",
+      "author": "清",
+      "full_book_info": "坤輿圖說 (清)"
+    },
+    {
+      "book_name": "堯峯文鈔",
+      "author": "清",
+      "full_book_info": "堯峯文鈔 (清)"
+    },
+    {
+      "book_name": "報恩論",
+      "author": "沈善登",
+      "full_book_info": "報恩論 (沈善登)"
+    },
+    {
+      "book_name": "大乘本生心地觀經淺註",
+      "author": "來舟",
+      "full_book_info": "大乘本生心地觀經淺註 (來舟)"
+    },
+    {
+      "book_name": "大乘本生心地觀經淺註懸示",
+      "author": "來舟",
+      "full_book_info": "大乘本生心地觀經淺註懸示 (來舟)"
+    },
+    {
+      "book_name": "大休珠禪師語錄",
+      "author": "珠",
+      "full_book_info": "大休珠禪師語錄 (珠)"
+    },
+    {
+      "book_name": "大博乾禪師語錄",
+      "author": "乾",
+      "full_book_info": "大博乾禪師語錄 (乾)"
+    },
+    {
+      "book_name": "大學翼眞",
+      "author": "胡渭",
+      "full_book_info": "大學翼眞 (胡渭)"
+    },
+    {
+      "book_name": "大學證文",
+      "author": "毛奇齡",
+      "full_book_info": "大學證文 (毛奇齡)"
+    },
+    {
+      "book_name": "大宗地玄文本論略註",
+      "author": "楊文會",
+      "full_book_info": "大宗地玄文本論略註 (楊文會)"
+    },
+    {
+      "book_name": "大悲妙雲禪師語錄",
+      "author": "真雄",
+      "full_book_info": "大悲妙雲禪師語錄 (真雄)"
+    },
+    {
+      "book_name": "大懺悔文略解",
+      "author": "書玉",
+      "full_book_info": "大懺悔文略解 (書玉)"
+    },
+    {
+      "book_name": "大易擇言",
+      "author": "程廷祚",
+      "full_book_info": "大易擇言 (程廷祚)"
+    },
+    {
+      "book_name": "大易通解",
+      "author": "清",
+      "full_book_info": "大易通解 (清)"
+    },
+    {
+      "book_name": "大清律例",
+      "author": "清",
+      "full_book_info": "大清律例 (清)"
+    },
+    {
+      "book_name": "大溈密印寺養拙明禪師語錄",
+      "author": "正明",
+      "full_book_info": "大溈密印寺養拙明禪師語錄 (正明)"
+    },
+    {
+      "book_name": "大笑崇禪師語錄",
+      "author": "崇",
+      "full_book_info": "大笑崇禪師語錄 (崇)"
+    },
+    {
+      "book_name": "大統歷志",
+      "author": "清",
+      "full_book_info": "大統歷志 (清)"
+    },
+    {
+      "book_name": "大般若經綱要",
+      "author": "葛䵻",
+      "full_book_info": "大般若經綱要 (葛䵻)"
+    },
+    {
+      "book_name": "大覺普濟能仁琇國師語錄",
+      "author": "行岳",
+      "full_book_info": "大覺普濟能仁琇國師語錄 (行岳)"
+    },
+    {
+      "book_name": "天一悅禪師語錄",
+      "author": "大悅",
+      "full_book_info": "天一悅禪師語錄 (大悅)"
+    },
+    {
+      "book_name": "天則能禪師語錄",
+      "author": "機能",
+      "full_book_info": "天則能禪師語錄 (機能)"
+    },
+    {
+      "book_name": "天台通玄寺獨朗禪師語錄",
+      "author": "行曰",
+      "full_book_info": "天台通玄寺獨朗禪師語錄 (行曰)"
+    },
+    {
+      "book_name": "天子肆獻祼饋食禮",
+      "author": "清",
+      "full_book_info": "天子肆獻祼饋食禮 (清)"
+    },
+    {
+      "book_name": "天學會通",
+      "author": "清",
+      "full_book_info": "天學會通 (清)"
+    },
+    {
+      "book_name": "天岸昇禪師語錄",
+      "author": "昇",
+      "full_book_info": "天岸昇禪師語錄 (昇)"
+    },
+    {
+      "book_name": "天步眞原",
+      "author": "清",
+      "full_book_info": "天步眞原 (清)"
+    },
+    {
+      "book_name": "天然居士懷淨土詩",
+      "author": "朱道則",
+      "full_book_info": "天然居士懷淨土詩 (朱道則)"
+    },
+    {
+      "book_name": "天王水鑑海和尚五會錄",
+      "author": "慧海",
+      "full_book_info": "天王水鑑海和尚五會錄 (慧海)"
+    },
+    {
+      "book_name": "天王水鑑海和尚住金粟語錄",
+      "author": "慧海",
+      "full_book_info": "天王水鑑海和尚住金粟語錄 (慧海)"
+    },
+    {
+      "book_name": "天王水鑑海和尚六會錄",
+      "author": "慧海",
+      "full_book_info": "天王水鑑海和尚六會錄 (慧海)"
+    },
+    {
+      "book_name": "天皇至道太清玉冊",
+      "author": "朱權",
+      "full_book_info": "天皇至道太清玉冊 (朱權)"
+    },
+    {
+      "book_name": "天童弘覺忞禪師北遊集",
+      "author": "道忞",
+      "full_book_info": "天童弘覺忞禪師北遊集 (道忞)"
+    },
+    {
+      "book_name": "天經惑問",
+      "author": "清",
+      "full_book_info": "天經惑問 (清)"
+    },
+    {
+      "book_name": "天翼翔禪師語錄",
+      "author": "巨翔",
+      "full_book_info": "天翼翔禪師語錄 (巨翔)"
+    },
+    {
+      "book_name": "太上上清禳災延壽寶懺",
+      "author": "",
+      "full_book_info": "太上上清禳災延壽寶懺"
+    },
+    {
+      "book_name": "太上大道玉清經",
+      "author": "",
+      "full_book_info": "太上大道玉清經"
+    },
+    {
+      "book_name": "太上太清天童護命妙經",
+      "author": "",
+      "full_book_info": "太上太清天童護命妙經"
+    },
+    {
+      "book_name": "太上泰清拔罪昇天寶懺",
+      "author": "",
+      "full_book_info": "太上泰清拔罪昇天寶懺"
+    },
+    {
+      "book_name": "太上泰清皇老帝君運雷天童隱梵仙經",
+      "author": "",
+      "full_book_info": "太上泰清皇老帝君運雷天童隱梵仙經"
+    },
+    {
+      "book_name": "太上洞淵三昧神咒齋清旦行道儀",
+      "author": "杜光庭",
+      "full_book_info": "太上洞淵三昧神咒齋清旦行道儀 (杜光庭)"
+    },
+    {
+      "book_name": "太上玉清謝罪登真寶懺",
+      "author": "",
+      "full_book_info": "太上玉清謝罪登真寶懺"
+    },
+    {
+      "book_name": "太上老君清靜心經",
+      "author": "",
+      "full_book_info": "太上老君清靜心經"
+    },
+    {
+      "book_name": "太上老君說常清靜妙經纂圖解註",
+      "author": "王玠",
+      "full_book_info": "太上老君說常清靜妙經纂圖解註 (王玠)"
+    },
+    {
+      "book_name": "太上老君說常清靜真經",
+      "author": "",
+      "full_book_info": "太上老君說常清靜真經"
+    },
+    {
+      "book_name": "太上老君說常清靜經註",
+      "author": "李道純",
+      "full_book_info": "太上老君說常清靜經註 (李道純)"
+    },
+    {
+      "book_name": "太上老君說常清靜經註",
+      "author": "杜光庭",
+      "full_book_info": "太上老君說常清靜經註 (杜光庭)"
+    },
+    {
+      "book_name": "太上老君說常清靜經註",
+      "author": "白玉蟾",
+      "full_book_info": "太上老君說常清靜經註 (白玉蟾)"
+    },
+    {
+      "book_name": "太上老君說常清靜經頌註",
+      "author": "劉通微",
+      "full_book_info": "太上老君說常清靜經頌註 (劉通微)"
+    },
+    {
+      "book_name": "太宗文皇帝聖訓",
+      "author": "清",
+      "full_book_info": "太宗文皇帝聖訓 (清)"
+    },
+    {
+      "book_name": "太清導引養生經",
+      "author": "",
+      "full_book_info": "太清導引養生經"
+    },
+    {
+      "book_name": "太清玉司左院祕要上法",
+      "author": "霞映",
+      "full_book_info": "太清玉司左院祕要上法 (霞映)"
+    },
+    {
+      "book_name": "太清玉碑子",
+      "author": "",
+      "full_book_info": "太清玉碑子"
+    },
+    {
+      "book_name": "太清真人絡命訣",
+      "author": "",
+      "full_book_info": "太清真人絡命訣"
+    },
+    {
+      "book_name": "太清石壁記",
+      "author": "楚澤先生",
+      "full_book_info": "太清石壁記 (楚澤先生)"
+    },
+    {
+      "book_name": "太清經斷穀法",
+      "author": "",
+      "full_book_info": "太清經斷穀法"
+    },
+    {
+      "book_name": "太清金液神丹經",
+      "author": "張道陵",
+      "full_book_info": "太清金液神丹經 (張道陵)"
+    },
+    {
+      "book_name": "太清金闕玉華仙書八極神章三皇內祕文",
+      "author": "",
+      "full_book_info": "太清金闕玉華仙書八極神章三皇內祕文"
+    },
+    {
+      "book_name": "太祖高皇帝聖訓",
+      "author": "清",
+      "full_book_info": "太祖高皇帝聖訓 (清)"
+    },
+    {
+      "book_name": "奇然智禪師語錄",
+      "author": "超智",
+      "full_book_info": "奇然智禪師語錄 (超智)"
+    },
+    {
+      "book_name": "如來在金棺囑累清淨莊嚴敬福經",
+      "author": "",
+      "full_book_info": "如來在金棺囑累清淨莊嚴敬福經"
+    },
+    {
+      "book_name": "如來在金棺囑累清淨莊嚴敬福經",
+      "author": "侯旭東",
+      "full_book_info": "如來在金棺囑累清淨莊嚴敬福經 (侯旭東)"
+    },
+    {
+      "book_name": "子雍如禪師語錄",
+      "author": "成如尼",
+      "full_book_info": "子雍如禪師語錄 (成如尼)"
+    },
+    {
+      "book_name": "字詁",
+      "author": "黃生",
+      "full_book_info": "字詁 (黃生)"
+    },
+    {
+      "book_name": "存研樓文集",
+      "author": "清",
+      "full_book_info": "存研樓文集 (清)"
+    },
+    {
+      "book_name": "孝經問",
+      "author": "清",
+      "full_book_info": "孝經問 (清)"
+    },
+    {
+      "book_name": "孟子師說",
+      "author": "黃宗義",
+      "full_book_info": "孟子師說 (黃宗義)"
+    },
+    {
+      "book_name": "季總徹禪師語錄",
+      "author": "徹",
+      "full_book_info": "季總徹禪師語錄 (徹)"
+    },
+    {
+      "book_name": "孫氏唐韻考",
+      "author": "紀容舒",
+      "full_book_info": "孫氏唐韻考 (紀容舒)"
+    },
+    {
+      "book_name": "學佛考訓",
+      "author": "淨挺",
+      "full_book_info": "學佛考訓 (淨挺)"
+    },
+    {
+      "book_name": "學易初津",
+      "author": "晏斯盛",
+      "full_book_info": "學易初津 (晏斯盛)"
+    },
+    {
+      "book_name": "學禮質疑",
+      "author": "清",
+      "full_book_info": "學禮質疑 (清)"
+    },
+    {
+      "book_name": "學餘堂文集",
+      "author": "施閏章",
+      "full_book_info": "學餘堂文集 (施閏章)"
+    },
+    {
+      "book_name": "宋元詩會",
+      "author": "清",
+      "full_book_info": "宋元詩會 (清)"
+    },
+    {
+      "book_name": "宋百家詩存",
+      "author": "清",
+      "full_book_info": "宋百家詩存 (清)"
+    },
+    {
+      "book_name": "宋稗類鈔",
+      "author": "清",
+      "full_book_info": "宋稗類鈔 (清)"
+    },
+    {
+      "book_name": "宋詩紀事",
+      "author": "清",
+      "full_book_info": "宋詩紀事 (清)"
+    },
+    {
+      "book_name": "宋詩鈔",
+      "author": "清",
+      "full_book_info": "宋詩鈔 (清)"
+    },
+    {
+      "book_name": "宗教律諸宗演派",
+      "author": "守一",
+      "full_book_info": "宗教律諸宗演派 (守一)"
+    },
+    {
+      "book_name": "宗範",
+      "author": "錢伊庵",
+      "full_book_info": "宗範 (錢伊庵)"
+    },
+    {
+      "book_name": "宗統編年",
+      "author": "紀蔭",
+      "full_book_info": "宗統編年 (紀蔭)"
+    },
+    {
+      "book_name": "宗鑑法林",
+      "author": "集雲堂",
+      "full_book_info": "宗鑑法林 (集雲堂)"
+    },
+    {
+      "book_name": "宗門寶積錄",
+      "author": "清",
+      "full_book_info": "宗門寶積錄 (清)"
+    },
+    {
+      "book_name": "宗門拈古彙集",
+      "author": "淨符",
+      "full_book_info": "宗門拈古彙集 (淨符)"
+    },
+    {
+      "book_name": "宮室考",
+      "author": "清",
+      "full_book_info": "宮室考 (清)"
+    },
+    {
+      "book_name": "寂光豁禪師語錄",
+      "author": "豁",
+      "full_book_info": "寂光豁禪師語錄 (豁)"
+    },
+    {
+      "book_name": "密行忍禪師語錄",
+      "author": "寂忍",
+      "full_book_info": "密行忍禪師語錄 (寂忍)"
+    },
+    {
+      "book_name": "寒松操禪師語錄",
+      "author": "智操",
+      "full_book_info": "寒松操禪師語錄 (智操)"
+    },
+    {
+      "book_name": "寧海將軍固山貝子功績錄",
+      "author": "清",
+      "full_book_info": "寧海將軍固山貝子功績錄 (清)"
+    },
+    {
+      "book_name": "寶持總禪師語錄",
+      "author": "玄總",
+      "full_book_info": "寶持總禪師語錄 (玄總)"
+    },
+    {
+      "book_name": "寶鏡三昧原宗辨謬說",
+      "author": "淨訥",
+      "full_book_info": "寶鏡三昧原宗辨謬說 (淨訥)"
+    },
+    {
+      "book_name": "寶鏡三昧本義",
+      "author": "行策",
+      "full_book_info": "寶鏡三昧本義 (行策)"
+    },
+    {
+      "book_name": "小山畫譜",
+      "author": "清",
+      "full_book_info": "小山畫譜 (清)"
+    },
+    {
+      "book_name": "少廣補遺",
+      "author": "清",
+      "full_book_info": "少廣補遺 (清)"
+    },
+    {
+      "book_name": "尚史",
+      "author": "清",
+      "full_book_info": "尚史 (清)"
+    },
+    {
+      "book_name": "尚書七篇解義",
+      "author": "清",
+      "full_book_info": "尚書七篇解義 (清)"
+    },
+    {
+      "book_name": "尚書古文疏證",
+      "author": "清",
+      "full_book_info": "尚書古文疏證 (清)"
+    },
+    {
+      "book_name": "尚書地理今釋",
+      "author": "清",
+      "full_book_info": "尚書地理今釋 (清)"
+    },
+    {
+      "book_name": "尚書埤傳",
+      "author": "清",
+      "full_book_info": "尚書埤傳 (清)"
+    },
+    {
+      "book_name": "尚書廣聽錄",
+      "author": "清",
+      "full_book_info": "尚書廣聽錄 (清)"
+    },
+    {
+      "book_name": "尚書稗疏",
+      "author": "清",
+      "full_book_info": "尚書稗疏 (清)"
+    },
+    {
+      "book_name": "尚論篇",
+      "author": "清",
+      "full_book_info": "尚論篇 (清)"
+    },
+    {
+      "book_name": "居士傳",
+      "author": "彭際清",
+      "full_book_info": "居士傳 (彭際清)"
+    },
+    {
+      "book_name": "居易錄",
+      "author": "清",
+      "full_book_info": "居易錄 (清)"
+    },
+    {
+      "book_name": "居濟一得",
+      "author": "清",
+      "full_book_info": "居濟一得 (清)"
+    },
+    {
+      "book_name": "山帶閣註楚辭",
+      "author": "蔣驥",
+      "full_book_info": "山帶閣註楚辭 (蔣驥)"
+    },
+    {
+      "book_name": "山暉禪師語錄",
+      "author": "璧",
+      "full_book_info": "山暉禪師語錄 (璧)"
+    },
+    {
+      "book_name": "山東通志",
+      "author": "清",
+      "full_book_info": "山東通志 (清)"
+    },
+    {
+      "book_name": "山海經廣注",
+      "author": "清",
+      "full_book_info": "山海經廣注 (清)"
+    },
+    {
+      "book_name": "山茨際禪師語錄",
+      "author": "達尊",
+      "full_book_info": "山茨際禪師語錄 (達尊)"
+    },
+    {
+      "book_name": "山西柏山楷禪師語錄",
+      "author": "德楷",
+      "full_book_info": "山西柏山楷禪師語錄 (德楷)"
+    },
+    {
+      "book_name": "山西通志",
+      "author": "清",
+      "full_book_info": "山西通志 (清)"
+    },
+    {
+      "book_name": "山鐸真在禪師語錄",
+      "author": "真在",
+      "full_book_info": "山鐸真在禪師語錄 (真在)"
+    },
+    {
+      "book_name": "屾峰憲禪師語錄",
+      "author": "憲",
+      "full_book_info": "屾峰憲禪師語錄 (憲)"
+    },
+    {
+      "book_name": "崇陽石刻集記",
+      "author": "清",
+      "full_book_info": "崇陽石刻集記 (清)"
+    },
+    {
+      "book_name": "崑崙河源考",
+      "author": "清",
+      "full_book_info": "崑崙河源考 (清)"
+    },
+    {
+      "book_name": "嵩山野竹禪師錄",
+      "author": "福慧",
+      "full_book_info": "嵩山野竹禪師錄 (福慧)"
+    },
+    {
+      "book_name": "嶺南風物記",
+      "author": "清",
+      "full_book_info": "嶺南風物記 (清)"
+    },
+    {
+      "book_name": "左傳事緯",
+      "author": "清",
+      "full_book_info": "左傳事緯 (清)"
+    },
+    {
+      "book_name": "左傳杜解補正",
+      "author": "清",
+      "full_book_info": "左傳杜解補正 (清)"
+    },
+    {
+      "book_name": "左傳紀事本末",
+      "author": "清",
+      "full_book_info": "左傳紀事本末 (清)"
+    },
+    {
+      "book_name": "師友詩傳錄",
+      "author": "清",
+      "full_book_info": "師友詩傳錄 (清)"
+    },
+    {
+      "book_name": "平定三逆方略",
+      "author": "清",
+      "full_book_info": "平定三逆方略 (清)"
+    },
+    {
+      "book_name": "平定兩金川方略",
+      "author": "阿桂",
+      "full_book_info": "平定兩金川方略 (阿桂)"
+    },
+    {
+      "book_name": "平定準噶爾方略",
+      "author": "清",
+      "full_book_info": "平定準噶爾方略 (清)"
+    },
+    {
+      "book_name": "平臺紀略",
+      "author": "藍鼎元",
+      "full_book_info": "平臺紀略 (藍鼎元)"
+    },
+    {
+      "book_name": "幸魯盛典",
+      "author": "清",
+      "full_book_info": "幸魯盛典 (清)"
+    },
+    {
+      "book_name": "幻住明禪師語錄",
+      "author": "明",
+      "full_book_info": "幻住明禪師語錄 (明)"
+    },
+    {
+      "book_name": "庚子銷夏記",
+      "author": "清",
+      "full_book_info": "庚子銷夏記 (清)"
+    },
+    {
+      "book_name": "廟制圖考",
+      "author": "清",
+      "full_book_info": "廟制圖考 (清)"
+    },
+    {
+      "book_name": "廣東通志",
+      "author": "清",
+      "full_book_info": "廣東通志 (清)"
+    },
+    {
+      "book_name": "廣福山勝覺寺密印禪師語錄",
+      "author": "真傳",
+      "full_book_info": "廣福山勝覺寺密印禪師語錄 (真傳)"
+    },
+    {
+      "book_name": "廣西通志",
+      "author": "金鉷",
+      "full_book_info": "廣西通志 (金鉷)"
+    },
+    {
+      "book_name": "弘覺忞禪師語錄",
+      "author": "顯權",
+      "full_book_info": "弘覺忞禪師語錄 (顯權)"
+    },
+    {
+      "book_name": "張文眞集",
+      "author": "清",
+      "full_book_info": "張文眞集 (清)"
+    },
+    {
+      "book_name": "張襄壯奏疏",
+      "author": "清",
+      "full_book_info": "張襄壯奏疏 (清)"
+    },
+    {
+      "book_name": "影響集",
+      "author": "尼量海",
+      "full_book_info": "影響集 (尼量海)"
+    },
+    {
+      "book_name": "律呂新論",
+      "author": "江永",
+      "full_book_info": "律呂新論 (江永)"
+    },
+    {
+      "book_name": "律呂闡微",
+      "author": "江永",
+      "full_book_info": "律呂闡微 (江永)"
+    },
+    {
+      "book_name": "後漢書補逸",
+      "author": "清",
+      "full_book_info": "後漢書補逸 (清)"
+    },
+    {
+      "book_name": "徑中徑又徑",
+      "author": "張師誠",
+      "full_book_info": "徑中徑又徑 (張師誠)"
+    },
+    {
+      "book_name": "徑石滴乳集",
+      "author": "真在",
+      "full_book_info": "徑石滴乳集 (真在)"
+    },
+    {
+      "book_name": "御定人臣儆心錄",
+      "author": "清",
+      "full_book_info": "御定人臣儆心錄 (清)"
+    },
+    {
+      "book_name": "御定佩文韻府",
+      "author": "張玉書",
+      "full_book_info": "御定佩文韻府 (張玉書)"
+    },
+    {
+      "book_name": "御定佩文齋廣羣芳譜",
+      "author": "清",
+      "full_book_info": "御定佩文齋廣羣芳譜 (清)"
+    },
+    {
+      "book_name": "御定佩文齋書畫譜",
+      "author": "清",
+      "full_book_info": "御定佩文齋書畫譜 (清)"
+    },
+    {
+      "book_name": "御定佩文齋詠物詩選",
+      "author": "清",
+      "full_book_info": "御定佩文齋詠物詩選 (清)"
+    },
+    {
+      "book_name": "御定內則衍義",
+      "author": "清",
+      "full_book_info": "御定內則衍義 (清)"
+    },
+    {
+      "book_name": "御定全唐詩",
+      "author": "清",
+      "full_book_info": "御定全唐詩 (清)"
+    },
+    {
+      "book_name": "御定全唐詩錄",
+      "author": "清",
+      "full_book_info": "御定全唐詩錄 (清)"
+    },
+    {
+      "book_name": "御定分類字錦",
+      "author": "清",
+      "full_book_info": "御定分類字錦 (清)"
+    },
+    {
+      "book_name": "御定千叟宴詩",
+      "author": "清",
+      "full_book_info": "御定千叟宴詩 (清)"
+    },
+    {
+      "book_name": "御定子史精華",
+      "author": "清",
+      "full_book_info": "御定子史精華 (清)"
+    },
+    {
+      "book_name": "御定孝經注",
+      "author": "清",
+      "full_book_info": "御定孝經注 (清)"
+    },
+    {
+      "book_name": "御定孝經衍義",
+      "author": "清",
+      "full_book_info": "御定孝經衍義 (清)"
+    },
+    {
+      "book_name": "御定康熙字典",
+      "author": "張玉書",
+      "full_book_info": "御定康熙字典 (張玉書)"
+    },
+    {
+      "book_name": "御定星歷考原",
+      "author": "清",
+      "full_book_info": "御定星歷考原 (清)"
+    },
+    {
+      "book_name": "御定曲譜",
+      "author": "王奕清",
+      "full_book_info": "御定曲譜 (王奕清)"
+    },
+    {
+      "book_name": "御定月令輯要",
+      "author": "清",
+      "full_book_info": "御定月令輯要 (清)"
+    },
+    {
+      "book_name": "御定歷代紀事年表",
+      "author": "清",
+      "full_book_info": "御定歷代紀事年表 (清)"
+    },
+    {
+      "book_name": "御定歷代賦彙",
+      "author": "清",
+      "full_book_info": "御定歷代賦彙 (清)"
+    },
+    {
+      "book_name": "御定歷代題畫詩類",
+      "author": "清",
+      "full_book_info": "御定歷代題畫詩類 (清)"
+    },
+    {
+      "book_name": "御定淵鑑類函",
+      "author": "清",
+      "full_book_info": "御定淵鑑類函 (清)"
+    },
+    {
+      "book_name": "御定詞譜",
+      "author": "清",
+      "full_book_info": "御定詞譜 (清)"
+    },
+    {
+      "book_name": "御定資政要覽",
+      "author": "清",
+      "full_book_info": "御定資政要覽 (清)"
+    },
+    {
+      "book_name": "御定資治通鑑綱目三編",
+      "author": "清",
+      "full_book_info": "御定資治通鑑綱目三編 (清)"
+    },
+    {
+      "book_name": "御定道德經註",
+      "author": "世祖",
+      "full_book_info": "御定道德經註 (世祖)"
+    },
+    {
+      "book_name": "御定音韻闡微",
+      "author": "李光地",
+      "full_book_info": "御定音韻闡微 (李光地)"
+    },
+    {
+      "book_name": "御定韻府拾遺",
+      "author": "清",
+      "full_book_info": "御定韻府拾遺 (清)"
+    },
+    {
+      "book_name": "御定駢字類編",
+      "author": "清",
+      "full_book_info": "御定駢字類編 (清)"
+    },
+    {
+      "book_name": "御批歷代通鑑輯覽",
+      "author": "清",
+      "full_book_info": "御批歷代通鑑輯覽 (清)"
+    },
+    {
+      "book_name": "御纂周易折中",
+      "author": "清",
+      "full_book_info": "御纂周易折中 (清)"
+    },
+    {
+      "book_name": "御纂周易述義",
+      "author": "清",
+      "full_book_info": "御纂周易述義 (清)"
+    },
+    {
+      "book_name": "御纂孝經集註",
+      "author": "清",
+      "full_book_info": "御纂孝經集註 (清)"
+    },
+    {
+      "book_name": "御纂性理精義",
+      "author": "清",
+      "full_book_info": "御纂性理精義 (清)"
+    },
+    {
+      "book_name": "御纂春秋直解",
+      "author": "清",
+      "full_book_info": "御纂春秋直解 (清)"
+    },
+    {
+      "book_name": "御纂詩義折中",
+      "author": "清",
+      "full_book_info": "御纂詩義折中 (清)"
+    },
+    {
+      "book_name": "御纂醫宗金鑑",
+      "author": "清",
+      "full_book_info": "御纂醫宗金鑑 (清)"
+    },
+    {
+      "book_name": "御製揀魔辨異錄",
+      "author": "世宗皇帝",
+      "full_book_info": "御製揀魔辨異錄 (世宗皇帝)"
+    },
+    {
+      "book_name": "御製數理精薀",
+      "author": "清",
+      "full_book_info": "御製數理精薀 (清)"
+    },
+    {
+      "book_name": "御製文集",
+      "author": "清",
+      "full_book_info": "御製文集 (清)"
+    },
+    {
+      "book_name": "御製樂善堂全集定本",
+      "author": "清",
+      "full_book_info": "御製樂善堂全集定本 (清)"
+    },
+    {
+      "book_name": "御製歷象考成",
+      "author": "清",
+      "full_book_info": "御製歷象考成 (清)"
+    },
+    {
+      "book_name": "御製歷象考成後編",
+      "author": "清",
+      "full_book_info": "御製歷象考成後編 (清)"
+    },
+    {
+      "book_name": "御製詩集",
+      "author": "清",
+      "full_book_info": "御製詩集 (清)"
+    },
+    {
+      "book_name": "御覽經史講義",
+      "author": "清",
+      "full_book_info": "御覽經史講義 (清)"
+    },
+    {
+      "book_name": "御訂全金詩增補中州集",
+      "author": "清",
+      "full_book_info": "御訂全金詩增補中州集 (清)"
+    },
+    {
+      "book_name": "御選古文淵鑒",
+      "author": "清",
+      "full_book_info": "御選古文淵鑒 (清)"
+    },
+    {
+      "book_name": "御選唐宋文醇",
+      "author": "清",
+      "full_book_info": "御選唐宋文醇 (清)"
+    },
+    {
+      "book_name": "御選唐宋詩醇",
+      "author": "清",
+      "full_book_info": "御選唐宋詩醇 (清)"
+    },
+    {
+      "book_name": "御選唐詩",
+      "author": "清",
+      "full_book_info": "御選唐詩 (清)"
+    },
+    {
+      "book_name": "御選宋金元明四朝詩",
+      "author": "清",
+      "full_book_info": "御選宋金元明四朝詩 (清)"
+    },
+    {
+      "book_name": "御選明臣奏議",
+      "author": "清",
+      "full_book_info": "御選明臣奏議 (清)"
+    },
+    {
+      "book_name": "御選歷代詩餘",
+      "author": "清",
+      "full_book_info": "御選歷代詩餘 (清)"
+    },
+    {
+      "book_name": "御選語錄",
+      "author": "世宗皇帝",
+      "full_book_info": "御選語錄 (世宗皇帝)"
+    },
+    {
+      "book_name": "御錄宗鏡大綱",
+      "author": "胤禎",
+      "full_book_info": "御錄宗鏡大綱 (胤禎)"
+    },
+    {
+      "book_name": "御錄經海一滴",
+      "author": "胤禎",
+      "full_book_info": "御錄經海一滴 (胤禎)"
+    },
+    {
+      "book_name": "德風禪師般若語錄",
+      "author": "如惺",
+      "full_book_info": "德風禪師般若語錄 (如惺)"
+    },
+    {
+      "book_name": "徹悟禪師語錄",
+      "author": "了亮",
+      "full_book_info": "徹悟禪師語錄 (了亮)"
+    },
+    {
+      "book_name": "念佛三昧",
+      "author": "瑞聖歎",
+      "full_book_info": "念佛三昧 (瑞聖歎)"
+    },
+    {
+      "book_name": "念佛百問",
+      "author": "悟開",
+      "full_book_info": "念佛百問 (悟開)"
+    },
+    {
+      "book_name": "念佛警策",
+      "author": "彭際清",
+      "full_book_info": "念佛警策 (彭際清)"
+    },
+    {
+      "book_name": "念佛起緣彌陀觀偈直解",
+      "author": "張淵",
+      "full_book_info": "念佛起緣彌陀觀偈直解 (張淵)"
+    },
+    {
+      "book_name": "思辨錄輯要",
+      "author": "清",
+      "full_book_info": "思辨錄輯要 (清)"
+    },
+    {
+      "book_name": "怡山禮佛發願文略釋",
+      "author": "書玉",
+      "full_book_info": "怡山禮佛發願文略釋 (書玉)"
+    },
+    {
+      "book_name": "性空臻禪師語錄",
+      "author": "行臻",
+      "full_book_info": "性空臻禪師語錄 (行臻)"
+    },
+    {
+      "book_name": "惠氏易說",
+      "author": "清",
+      "full_book_info": "惠氏易說 (清)"
+    },
+    {
+      "book_name": "惠氏春秋左傳補註",
+      "author": "清",
+      "full_book_info": "惠氏春秋左傳補註 (清)"
+    },
+    {
+      "book_name": "惠氏春秋說",
+      "author": "清",
+      "full_book_info": "惠氏春秋說 (清)"
+    },
+    {
+      "book_name": "愚菴小集",
+      "author": "清",
+      "full_book_info": "愚菴小集 (清)"
+    },
+    {
+      "book_name": "慈受懷深禪師廣錄",
+      "author": "善清",
+      "full_book_info": "慈受懷深禪師廣錄 (善清)"
+    },
+    {
+      "book_name": "慈悲地藏菩薩懺法",
+      "author": "清",
+      "full_book_info": "慈悲地藏菩薩懺法 (清)"
+    },
+    {
+      "book_name": "慈悲道場水懺法科註",
+      "author": "西宗",
+      "full_book_info": "慈悲道場水懺法科註 (西宗)"
+    },
+    {
+      "book_name": "慈悲道場水懺法隨聞錄",
+      "author": "智證",
+      "full_book_info": "慈悲道場水懺法隨聞錄 (智證)"
+    },
+    {
+      "book_name": "慧覺衣禪師語錄",
+      "author": "照衣",
+      "full_book_info": "慧覺衣禪師語錄 (照衣)"
+    },
+    {
+      "book_name": "憨予暹禪師語錄",
+      "author": "洪暹",
+      "full_book_info": "憨予暹禪師語錄 (洪暹)"
+    },
+    {
+      "book_name": "憨休禪師敲空遺響",
+      "author": "如乾",
+      "full_book_info": "憨休禪師敲空遺響 (如乾)"
+    },
+    {
+      "book_name": "懶石聆禪師語錄",
+      "author": "聆",
+      "full_book_info": "懶石聆禪師語錄 (聆)"
+    },
+    {
+      "book_name": "懷清堂集",
+      "author": "清",
+      "full_book_info": "懷清堂集 (清)"
+    },
+    {
+      "book_name": "成唯識論音響補遺",
+      "author": "智素",
+      "full_book_info": "成唯識論音響補遺 (智素)"
+    },
+    {
+      "book_name": "成唯識論音響補遺科",
+      "author": "智素",
+      "full_book_info": "成唯識論音響補遺科 (智素)"
+    },
+    {
+      "book_name": "戒殺四十八問",
+      "author": "周思仁",
+      "full_book_info": "戒殺四十八問 (周思仁)"
+    },
+    {
+      "book_name": "扈從西巡日錄",
+      "author": "高士奇",
+      "full_book_info": "扈從西巡日錄 (高士奇)"
+    },
+    {
+      "book_name": "抱犢山房集",
+      "author": "清",
+      "full_book_info": "抱犢山房集 (清)"
+    },
+    {
+      "book_name": "持名四十八法",
+      "author": "鄭韋庵",
+      "full_book_info": "持名四十八法 (鄭韋庵)"
+    },
+    {
+      "book_name": "持誦準提真言法要",
+      "author": "弘贊",
+      "full_book_info": "持誦準提真言法要 (弘贊)"
+    },
+    {
+      "book_name": "捕蝗考",
+      "author": "清",
+      "full_book_info": "捕蝗考 (清)"
+    },
+    {
+      "book_name": "推易始末",
+      "author": "清",
+      "full_book_info": "推易始末 (清)"
+    },
+    {
+      "book_name": "揞黑豆集",
+      "author": "心圓",
+      "full_book_info": "揞黑豆集 (心圓)"
+    },
+    {
+      "book_name": "摩訶止觀貫義科",
+      "author": "受登",
+      "full_book_info": "摩訶止觀貫義科 (受登)"
+    },
+    {
+      "book_name": "摩訶阿彌陀經衷論",
+      "author": "王耕心",
+      "full_book_info": "摩訶阿彌陀經衷論 (王耕心)"
+    },
+    {
+      "book_name": "攖寧靜禪師語錄",
+      "author": "智靜",
+      "full_book_info": "攖寧靜禪師語錄 (智靜)"
+    },
+    {
+      "book_name": "敏樹禪師語錄",
+      "author": "如相",
+      "full_book_info": "敏樹禪師語錄 (如相)"
+    },
+    {
+      "book_name": "敬業堂詩集",
+      "author": "清",
+      "full_book_info": "敬業堂詩集 (清)"
+    },
+    {
+      "book_name": "數學",
+      "author": "江永",
+      "full_book_info": "數學 (江永)"
+    },
+    {
+      "book_name": "數學鑰",
+      "author": "清",
+      "full_book_info": "數學鑰 (清)"
+    },
+    {
+      "book_name": "文心雕龍輯注",
+      "author": "清",
+      "full_book_info": "文心雕龍輯注 (清)"
+    },
+    {
+      "book_name": "文穆念禪師語錄",
+      "author": "念",
+      "full_book_info": "文穆念禪師語錄 (念)"
+    },
+    {
+      "book_name": "文端集",
+      "author": "清",
+      "full_book_info": "文端集 (清)"
+    },
+    {
+      "book_name": "斌雅禪師語錄",
+      "author": "鑑",
+      "full_book_info": "斌雅禪師語錄 (鑑)"
+    },
+    {
+      "book_name": "斗南暐禪師語錄",
+      "author": "暐",
+      "full_book_info": "斗南暐禪師語錄 (暐)"
+    },
+    {
+      "book_name": "方融璽禪師語錄",
+      "author": "如璽",
+      "full_book_info": "方融璽禪師語錄 (如璽)"
+    },
+    {
+      "book_name": "於密滲施食旨槩",
+      "author": "法藏",
+      "full_book_info": "於密滲施食旨槩 (法藏)"
+    },
+    {
+      "book_name": "日知薈說",
+      "author": "清",
+      "full_book_info": "日知薈說 (清)"
+    },
+    {
+      "book_name": "日知錄",
+      "author": "清",
+      "full_book_info": "日知錄 (清)"
+    },
+    {
+      "book_name": "日講四書解義",
+      "author": "喇沙里",
+      "full_book_info": "日講四書解義 (喇沙里)"
+    },
+    {
+      "book_name": "日講易經解義",
+      "author": "清",
+      "full_book_info": "日講易經解義 (清)"
+    },
+    {
+      "book_name": "日講春秋解義",
+      "author": "清",
+      "full_book_info": "日講春秋解義 (清)"
+    },
+    {
+      "book_name": "日講書經解義",
+      "author": "清",
+      "full_book_info": "日講書經解義 (清)"
+    },
+    {
+      "book_name": "日講禮記解義",
+      "author": "清",
+      "full_book_info": "日講禮記解義 (清)"
+    },
+    {
+      "book_name": "明儒學案",
+      "author": "清",
+      "full_book_info": "明儒學案 (清)"
+    },
+    {
+      "book_name": "明儒言行錄",
+      "author": "清",
+      "full_book_info": "明儒言行錄 (清)"
+    },
+    {
+      "book_name": "明史",
+      "author": "張廷玉",
+      "full_book_info": "明史 (張廷玉)"
+    },
+    {
+      "book_name": "明史紀事本末",
+      "author": "清",
+      "full_book_info": "明史紀事本末 (清)"
+    },
+    {
+      "book_name": "明文海",
+      "author": "清",
+      "full_book_info": "明文海 (清)"
+    },
+    {
+      "book_name": "明覺聰禪師語錄",
+      "author": "寂空",
+      "full_book_info": "明覺聰禪師語錄 (寂空)"
+    },
+    {
+      "book_name": "明詩綜",
+      "author": "清",
+      "full_book_info": "明詩綜 (清)"
+    },
+    {
+      "book_name": "明道正覺森禪師語錄",
+      "author": "超德",
+      "full_book_info": "明道正覺森禪師語錄 (超德)"
+    },
+    {
+      "book_name": "易例",
+      "author": "清",
+      "full_book_info": "易例 (清)"
+    },
+    {
+      "book_name": "易俟",
+      "author": "清",
+      "full_book_info": "易俟 (清)"
+    },
+    {
+      "book_name": "易原就正",
+      "author": "清",
+      "full_book_info": "易原就正 (清)"
+    },
+    {
+      "book_name": "易圖明辨",
+      "author": "清",
+      "full_book_info": "易圖明辨 (清)"
+    },
+    {
+      "book_name": "易學象數論",
+      "author": "清",
+      "full_book_info": "易學象數論 (清)"
+    },
+    {
+      "book_name": "易小帖",
+      "author": "清",
+      "full_book_info": "易小帖 (清)"
+    },
+    {
+      "book_name": "易漢學",
+      "author": "清",
+      "full_book_info": "易漢學 (清)"
+    },
+    {
+      "book_name": "易箋",
+      "author": "陳法",
+      "full_book_info": "易箋 (陳法)"
+    },
+    {
+      "book_name": "易經衷論",
+      "author": "清",
+      "full_book_info": "易經衷論 (清)"
+    },
+    {
+      "book_name": "易經通注",
+      "author": "清",
+      "full_book_info": "易經通注 (清)"
+    },
+    {
+      "book_name": "易翼宗",
+      "author": "清",
+      "full_book_info": "易翼宗 (清)"
+    },
+    {
+      "book_name": "易翼說",
+      "author": "晏斯盛",
+      "full_book_info": "易翼說 (晏斯盛)"
+    },
+    {
+      "book_name": "易翼述信",
+      "author": "清",
+      "full_book_info": "易翼述信 (清)"
+    },
+    {
+      "book_name": "易象大意存解",
+      "author": "清",
+      "full_book_info": "易象大意存解 (清)"
+    },
+    {
+      "book_name": "易酌",
+      "author": "清",
+      "full_book_info": "易酌 (清)"
+    },
+    {
+      "book_name": "易音",
+      "author": "顧炎武",
+      "full_book_info": "易音 (顧炎武)"
+    },
+    {
+      "book_name": "易韻",
+      "author": "毛奇齡",
+      "full_book_info": "易韻 (毛奇齡)"
+    },
+    {
+      "book_name": "春明夢餘錄",
+      "author": "清",
+      "full_book_info": "春明夢餘錄 (清)"
+    },
+    {
+      "book_name": "春秋世族譜",
+      "author": "清",
+      "full_book_info": "春秋世族譜 (清)"
+    },
+    {
+      "book_name": "春秋占筮書",
+      "author": "清",
+      "full_book_info": "春秋占筮書 (清)"
+    },
+    {
+      "book_name": "春秋四傳糾正",
+      "author": "清",
+      "full_book_info": "春秋四傳糾正 (清)"
+    },
+    {
+      "book_name": "春秋地名考略",
+      "author": "清",
+      "full_book_info": "春秋地名考略 (清)"
+    },
+    {
+      "book_name": "春秋地理考實",
+      "author": "清",
+      "full_book_info": "春秋地理考實 (清)"
+    },
+    {
+      "book_name": "春秋大事表",
+      "author": "清",
+      "full_book_info": "春秋大事表 (清)"
+    },
+    {
+      "book_name": "春秋宗朱辨義",
+      "author": "清",
+      "full_book_info": "春秋宗朱辨義 (清)"
+    },
+    {
+      "book_name": "春秋屬辭比事記",
+      "author": "清",
+      "full_book_info": "春秋屬辭比事記 (清)"
+    },
+    {
+      "book_name": "春秋左傳小疏",
+      "author": "清",
+      "full_book_info": "春秋左傳小疏 (清)"
+    },
+    {
+      "book_name": "春秋平議",
+      "author": "清",
+      "full_book_info": "春秋平議 (清)"
+    },
+    {
+      "book_name": "春秋戰國異辭",
+      "author": "清",
+      "full_book_info": "春秋戰國異辭 (清)"
+    },
+    {
+      "book_name": "春秋毛氏傳",
+      "author": "清",
+      "full_book_info": "春秋毛氏傳 (清)"
+    },
+    {
+      "book_name": "春秋稗疏",
+      "author": "清",
+      "full_book_info": "春秋稗疏 (清)"
+    },
+    {
+      "book_name": "春秋究遺",
+      "author": "清",
+      "full_book_info": "春秋究遺 (清)"
+    },
+    {
+      "book_name": "春秋管窺",
+      "author": "清",
+      "full_book_info": "春秋管窺 (清)"
+    },
+    {
+      "book_name": "春秋簡書刋誤",
+      "author": "清",
+      "full_book_info": "春秋簡書刋誤 (清)"
+    },
+    {
+      "book_name": "春秋識小錄",
+      "author": "清",
+      "full_book_info": "春秋識小錄 (清)"
+    },
+    {
+      "book_name": "春秋通論",
+      "author": "清",
+      "full_book_info": "春秋通論 (清)"
+    },
+    {
+      "book_name": "春秋長歷",
+      "author": "清",
+      "full_book_info": "春秋長歷 (清)"
+    },
+    {
+      "book_name": "春秋闕如編",
+      "author": "清",
+      "full_book_info": "春秋闕如編 (清)"
+    },
+    {
+      "book_name": "春秋隨筆",
+      "author": "清",
+      "full_book_info": "春秋隨筆 (清)"
+    },
+    {
+      "book_name": "昭覺丈雪醉禪師語錄",
+      "author": "通醉",
+      "full_book_info": "昭覺丈雪醉禪師語錄 (通醉)"
+    },
+    {
+      "book_name": "昭覺竹峰續禪師語錄",
+      "author": "真續",
+      "full_book_info": "昭覺竹峰續禪師語錄 (真續)"
+    },
+    {
+      "book_name": "時時好念佛",
+      "author": "果能",
+      "full_book_info": "時時好念佛 (果能)"
+    },
+    {
+      "book_name": "晦嶽旭禪師語錄",
+      "author": "旭",
+      "full_book_info": "晦嶽旭禪師語錄 (旭)"
+    },
+    {
+      "book_name": "普光坦菴禪師語錄",
+      "author": "機峻",
+      "full_book_info": "普光坦菴禪師語錄 (機峻)"
+    },
+    {
+      "book_name": "普能嵩禪師淨土詩",
+      "author": "德潤",
+      "full_book_info": "普能嵩禪師淨土詩 (德潤)"
+    },
+    {
+      "book_name": "普門顯禪師語錄",
+      "author": "燈顯",
+      "full_book_info": "普門顯禪師語錄 (燈顯)"
+    },
+    {
+      "book_name": "普陀列祖錄",
+      "author": "通旭",
+      "full_book_info": "普陀列祖錄 (通旭)"
+    },
+    {
+      "book_name": "智覃正禪師語錄",
+      "author": "最正",
+      "full_book_info": "智覃正禪師語錄 (最正)"
+    },
+    {
+      "book_name": "曉菴新法",
+      "author": "清",
+      "full_book_info": "曉菴新法 (清)"
+    },
+    {
+      "book_name": "曝書亭集",
+      "author": "清",
+      "full_book_info": "曝書亭集 (清)"
+    },
+    {
+      "book_name": "書法正傳",
+      "author": "清",
+      "full_book_info": "書法正傳 (清)"
+    },
+    {
+      "book_name": "書畫彙考",
+      "author": "清",
+      "full_book_info": "書畫彙考 (清)"
+    },
+    {
+      "book_name": "書經衷論",
+      "author": "清",
+      "full_book_info": "書經衷論 (清)"
+    },
+    {
+      "book_name": "月幢了禪師語錄",
+      "author": "了",
+      "full_book_info": "月幢了禪師語錄 (了)"
+    },
+    {
+      "book_name": "望溪集",
+      "author": "清",
+      "full_book_info": "望溪集 (清)"
+    },
+    {
+      "book_name": "木人剩稿",
+      "author": "弘贊",
+      "full_book_info": "木人剩稿 (弘贊)"
+    },
+    {
+      "book_name": "朱子五經語類",
+      "author": "程川",
+      "full_book_info": "朱子五經語類 (程川)"
+    },
+    {
+      "book_name": "朱子年譜",
+      "author": "王懋竑",
+      "full_book_info": "朱子年譜 (王懋竑)"
+    },
+    {
+      "book_name": "朱子禮纂",
+      "author": "清",
+      "full_book_info": "朱子禮纂 (清)"
+    },
+    {
+      "book_name": "李氏學樂錄",
+      "author": "李塨",
+      "full_book_info": "李氏學樂錄 (李塨)"
+    },
+    {
+      "book_name": "杜詩詳註",
+      "author": "清",
+      "full_book_info": "杜詩詳註 (清)"
+    },
+    {
+      "book_name": "東城雜記",
+      "author": "清",
+      "full_book_info": "東城雜記 (清)"
+    },
+    {
+      "book_name": "東山梅溪度禪師語錄",
+      "author": "福度",
+      "full_book_info": "東山梅溪度禪師語錄 (福度)"
+    },
+    {
+      "book_name": "東山破峰重禪師語錄",
+      "author": "普重",
+      "full_book_info": "東山破峰重禪師語錄 (普重)"
+    },
+    {
+      "book_name": "東林列傳",
+      "author": "清",
+      "full_book_info": "東林列傳 (清)"
+    },
+    {
+      "book_name": "松亭行紀",
+      "author": "清",
+      "full_book_info": "松亭行紀 (清)"
+    },
+    {
+      "book_name": "松桂堂全集",
+      "author": "清",
+      "full_book_info": "松桂堂全集 (清)"
+    },
+    {
+      "book_name": "松泉集",
+      "author": "汪由敦",
+      "full_book_info": "松泉集 (汪由敦)"
+    },
+    {
+      "book_name": "松陽講義",
+      "author": "陸隴其",
+      "full_book_info": "松陽講義 (陸隴其)"
+    },
+    {
+      "book_name": "松陽鈔存",
+      "author": "清",
+      "full_book_info": "松陽鈔存 (清)"
+    },
+    {
+      "book_name": "林我禪師語錄",
+      "author": "鑑",
+      "full_book_info": "林我禪師語錄 (鑑)"
+    },
+    {
+      "book_name": "林蕙堂全集",
+      "author": "清",
+      "full_book_info": "林蕙堂全集 (清)"
+    },
+    {
+      "book_name": "果堂集",
+      "author": "清",
+      "full_book_info": "果堂集 (清)"
+    },
+    {
+      "book_name": "格致鏡原",
+      "author": "清",
+      "full_book_info": "格致鏡原 (清)"
+    },
+    {
+      "book_name": "梅村集",
+      "author": "清",
+      "full_book_info": "梅村集 (清)"
+    },
+    {
+      "book_name": "梵網經菩薩戒初津",
+      "author": "書玉",
+      "full_book_info": "梵網經菩薩戒初津 (書玉)"
+    },
+    {
+      "book_name": "梵網經順硃",
+      "author": "德玉",
+      "full_book_info": "梵網經順硃 (德玉)"
+    },
+    {
+      "book_name": "楞伽經心印",
+      "author": "圅昰",
+      "full_book_info": "楞伽經心印 (圅昰)"
+    },
+    {
+      "book_name": "楞嚴法璽印禪師語錄",
+      "author": "印",
+      "full_book_info": "楞嚴法璽印禪師語錄 (印)"
+    },
+    {
+      "book_name": "楞嚴經勢至圓通章疏鈔",
+      "author": "續法",
+      "full_book_info": "楞嚴經勢至圓通章疏鈔 (續法)"
+    },
+    {
+      "book_name": "楞嚴經勢至圓通章解",
+      "author": "行策",
+      "full_book_info": "楞嚴經勢至圓通章解 (行策)"
+    },
+    {
+      "book_name": "楞嚴經寶鏡疏",
+      "author": "溥畹",
+      "full_book_info": "楞嚴經寶鏡疏 (溥畹)"
+    },
+    {
+      "book_name": "楞嚴經寶鏡疏懸談",
+      "author": "溥畹",
+      "full_book_info": "楞嚴經寶鏡疏懸談 (溥畹)"
+    },
+    {
+      "book_name": "楞嚴經寶鏡疏科文",
+      "author": "溥畹",
+      "full_book_info": "楞嚴經寶鏡疏科文 (溥畹)"
+    },
+    {
+      "book_name": "楞嚴經序指味疏",
+      "author": "諦閑",
+      "full_book_info": "楞嚴經序指味疏 (諦閑)"
+    },
+    {
+      "book_name": "楞嚴經指掌疏",
+      "author": "通理",
+      "full_book_info": "楞嚴經指掌疏 (通理)"
+    },
+    {
+      "book_name": "楞嚴經指掌疏事義",
+      "author": "通理",
+      "full_book_info": "楞嚴經指掌疏事義 (通理)"
+    },
+    {
+      "book_name": "楞嚴經指掌疏懸示",
+      "author": "通理",
+      "full_book_info": "楞嚴經指掌疏懸示 (通理)"
+    },
+    {
+      "book_name": "楞嚴經正見",
+      "author": "濟時",
+      "full_book_info": "楞嚴經正見 (濟時)"
+    },
+    {
+      "book_name": "楞嚴經觀心定解",
+      "author": "靈耀",
+      "full_book_info": "楞嚴經觀心定解 (靈耀)"
+    },
+    {
+      "book_name": "楞嚴經觀心定解大綱",
+      "author": "靈耀",
+      "full_book_info": "楞嚴經觀心定解大綱 (靈耀)"
+    },
+    {
+      "book_name": "楞嚴經觀心定解科",
+      "author": "靈耀",
+      "full_book_info": "楞嚴經觀心定解科 (靈耀)"
+    },
+    {
+      "book_name": "楞嚴經貫攝",
+      "author": "劉道開",
+      "full_book_info": "楞嚴經貫攝 (劉道開)"
+    },
+    {
+      "book_name": "極樂願文",
+      "author": "達喇嘛嘎卜楚薩木丹達爾吉",
+      "full_book_info": "極樂願文 (達喇嘛嘎卜楚薩木丹達爾吉)"
+    },
+    {
+      "book_name": "榕村四書說",
+      "author": "李光地",
+      "full_book_info": "榕村四書說 (李光地)"
+    },
+    {
+      "book_name": "榕村語錄",
+      "author": "清",
+      "full_book_info": "榕村語錄 (清)"
+    },
+    {
+      "book_name": "榕村集",
+      "author": "清",
+      "full_book_info": "榕村集 (清)"
+    },
+    {
+      "book_name": "樂律表微",
+      "author": "胡彥昇",
+      "full_book_info": "樂律表微 (胡彥昇)"
+    },
+    {
+      "book_name": "樊榭山房集",
+      "author": "清",
+      "full_book_info": "樊榭山房集 (清)"
+    },
+    {
+      "book_name": "樵香小記",
+      "author": "清",
+      "full_book_info": "樵香小記 (清)"
+    },
+    {
+      "book_name": "檀弓疑問",
+      "author": "清",
+      "full_book_info": "檀弓疑問 (清)"
+    },
+    {
+      "book_name": "檇李詩繫",
+      "author": "清",
+      "full_book_info": "檇李詩繫 (清)"
+    },
+    {
+      "book_name": "欽定儀禮義疏",
+      "author": "高宗弘曆",
+      "full_book_info": "欽定儀禮義疏 (高宗弘曆)"
+    },
+    {
+      "book_name": "欽定儀象考成",
+      "author": "清",
+      "full_book_info": "欽定儀象考成 (清)"
+    },
+    {
+      "book_name": "欽定八旗滿州氏族通譜",
+      "author": "清",
+      "full_book_info": "欽定八旗滿州氏族通譜 (清)"
+    },
+    {
+      "book_name": "欽定八旗通志",
+      "author": "清",
+      "full_book_info": "欽定八旗通志 (清)"
+    },
+    {
+      "book_name": "欽定剿捕臨清逆匪紀略",
+      "author": "清",
+      "full_book_info": "欽定剿捕臨清逆匪紀略 (清)"
+    },
+    {
+      "book_name": "欽定勝朝殉節諸臣錄",
+      "author": "舒赫德",
+      "full_book_info": "欽定勝朝殉節諸臣錄 (舒赫德)"
+    },
+    {
+      "book_name": "欽定千叟宴詩",
+      "author": "清",
+      "full_book_info": "欽定千叟宴詩 (清)"
+    },
+    {
+      "book_name": "欽定協紀辨方書",
+      "author": "清",
+      "full_book_info": "欽定協紀辨方書 (清)"
+    },
+    {
+      "book_name": "欽定南巡盛典",
+      "author": "清",
+      "full_book_info": "欽定南巡盛典 (清)"
+    },
+    {
+      "book_name": "欽定古今儲貳金鑑",
+      "author": "高宗弘曆",
+      "full_book_info": "欽定古今儲貳金鑑 (高宗弘曆)"
+    },
+    {
+      "book_name": "欽定叶韻彙輯",
+      "author": "梁詩正",
+      "full_book_info": "欽定叶韻彙輯 (梁詩正)"
+    },
+    {
+      "book_name": "欽定同文韻統",
+      "author": "允祿",
+      "full_book_info": "欽定同文韻統 (允祿)"
+    },
+    {
+      "book_name": "欽定周官義疏",
+      "author": "高宗弘曆",
+      "full_book_info": "欽定周官義疏 (高宗弘曆)"
+    },
+    {
+      "book_name": "欽定四書文",
+      "author": "方苞",
+      "full_book_info": "欽定四書文 (方苞)"
+    },
+    {
+      "book_name": "欽定國子監志",
+      "author": "清",
+      "full_book_info": "欽定國子監志 (清)"
+    },
+    {
+      "book_name": "欽定執中成憲",
+      "author": "清",
+      "full_book_info": "欽定執中成憲 (清)"
+    },
+    {
+      "book_name": "欽定外藩蒙古囘部王公表傳",
+      "author": "清",
+      "full_book_info": "欽定外藩蒙古囘部王公表傳 (清)"
+    },
+    {
+      "book_name": "欽定大清會典",
+      "author": "清",
+      "full_book_info": "欽定大清會典 (清)"
+    },
+    {
+      "book_name": "欽定大清會典則例",
+      "author": "清",
+      "full_book_info": "欽定大清會典則例 (清)"
+    },
+    {
+      "book_name": "欽定大清通禮",
+      "author": "清",
+      "full_book_info": "欽定大清通禮 (清)"
+    },
+    {
+      "book_name": "欽定天祿琳琅書目",
+      "author": "清",
+      "full_book_info": "欽定天祿琳琅書目 (清)"
+    },
+    {
+      "book_name": "欽定宗室王公幼績表傳",
+      "author": "清",
+      "full_book_info": "欽定宗室王公幼績表傳 (清)"
+    },
+    {
+      "book_name": "欽定平定臺灣紀略",
+      "author": "清",
+      "full_book_info": "欽定平定臺灣紀略 (清)"
+    },
+    {
+      "book_name": "欽定平定金川方略",
+      "author": "清",
+      "full_book_info": "欽定平定金川方略 (清)"
+    },
+    {
+      "book_name": "欽定康濟錄",
+      "author": "清",
+      "full_book_info": "欽定康濟錄 (清)"
+    },
+    {
+      "book_name": "欽定式英殿聚珍版程式",
+      "author": "清",
+      "full_book_info": "欽定式英殿聚珍版程式 (清)"
+    },
+    {
+      "book_name": "欽定授時通考",
+      "author": "清",
+      "full_book_info": "欽定授時通考 (清)"
+    },
+    {
+      "book_name": "欽定日下舊聞考",
+      "author": "清",
+      "full_book_info": "欽定日下舊聞考 (清)"
+    },
+    {
+      "book_name": "欽定春秋傳說彙纂",
+      "author": "清",
+      "full_book_info": "欽定春秋傳說彙纂 (清)"
+    },
+    {
+      "book_name": "欽定書經傳說彙纂",
+      "author": "清",
+      "full_book_info": "欽定書經傳說彙纂 (清)"
+    },
+    {
+      "book_name": "欽定歷代職官表",
+      "author": "清",
+      "full_book_info": "欽定歷代職官表 (清)"
+    },
+    {
+      "book_name": "欽定河源紀略",
+      "author": "清",
+      "full_book_info": "欽定河源紀略 (清)"
+    },
+    {
+      "book_name": "欽定滿洲源流考",
+      "author": "清",
+      "full_book_info": "欽定滿洲源流考 (清)"
+    },
+    {
+      "book_name": "欽定滿洲祭神祭天典禮",
+      "author": "清",
+      "full_book_info": "欽定滿洲祭神祭天典禮 (清)"
+    },
+    {
+      "book_name": "欽定熱河志",
+      "author": "清",
+      "full_book_info": "欽定熱河志 (清)"
+    },
+    {
+      "book_name": "欽定皇朝通典",
+      "author": "清",
+      "full_book_info": "欽定皇朝通典 (清)"
+    },
+    {
+      "book_name": "欽定皇朝通志",
+      "author": "清",
+      "full_book_info": "欽定皇朝通志 (清)"
+    },
+    {
+      "book_name": "欽定皇輿西域圖志",
+      "author": "清",
+      "full_book_info": "欽定皇輿西域圖志 (清)"
+    },
+    {
+      "book_name": "欽定盛京通志",
+      "author": "清",
+      "full_book_info": "欽定盛京通志 (清)"
+    },
+    {
+      "book_name": "欽定盤山志",
+      "author": "清",
+      "full_book_info": "欽定盤山志 (清)"
+    },
+    {
+      "book_name": "欽定石峯堡紀略",
+      "author": "清",
+      "full_book_info": "欽定石峯堡紀略 (清)"
+    },
+    {
+      "book_name": "欽定禮記義疏",
+      "author": "清",
+      "full_book_info": "欽定禮記義疏 (清)"
+    },
+    {
+      "book_name": "欽定續文獻通考",
+      "author": "清",
+      "full_book_info": "欽定續文獻通考 (清)"
+    },
+    {
+      "book_name": "欽定續通典",
+      "author": "清",
+      "full_book_info": "欽定續通典 (清)"
+    },
+    {
+      "book_name": "欽定蒙古源流",
+      "author": "清",
+      "full_book_info": "欽定蒙古源流 (清)"
+    },
+    {
+      "book_name": "欽定蘭州紀略",
+      "author": "清",
+      "full_book_info": "欽定蘭州紀略 (清)"
+    },
+    {
+      "book_name": "欽定補繪蕭雲從離騷全圖",
+      "author": "清",
+      "full_book_info": "欽定補繪蕭雲從離騷全圖 (清)"
+    },
+    {
+      "book_name": "欽定西清硯譜",
+      "author": "清",
+      "full_book_info": "欽定西清硯譜 (清)"
+    },
+    {
+      "book_name": "欽定詩經傳說彙纂",
+      "author": "清",
+      "full_book_info": "欽定詩經傳說彙纂 (清)"
+    },
+    {
+      "book_name": "欽定遼金元三史國語解",
+      "author": "高宗弘曆",
+      "full_book_info": "欽定遼金元三史國語解 (高宗弘曆)"
+    },
+    {
+      "book_name": "欽定重刻淳化閣帖釋文",
+      "author": "清",
+      "full_book_info": "欽定重刻淳化閣帖釋文 (清)"
+    },
+    {
+      "book_name": "欽定音韻述微",
+      "author": "梁國治",
+      "full_book_info": "欽定音韻述微 (梁國治)"
+    },
+    {
+      "book_name": "正學隅見述",
+      "author": "清",
+      "full_book_info": "正學隅見述 (清)"
+    },
+    {
+      "book_name": "正源略集",
+      "author": "際源",
+      "full_book_info": "正源略集 (際源)"
+    },
+    {
+      "book_name": "正源略集補遺",
+      "author": "達珍",
+      "full_book_info": "正源略集補遺 (達珍)"
+    },
+    {
+      "book_name": "正蒙初義",
+      "author": "清",
+      "full_book_info": "正蒙初義 (清)"
+    },
+    {
+      "book_name": "正覺潤光澤禪師澡雪集",
+      "author": "澤",
+      "full_book_info": "正覺潤光澤禪師澡雪集 (澤)"
+    },
+    {
+      "book_name": "此木軒四書說",
+      "author": "焦袁熹",
+      "full_book_info": "此木軒四書說 (焦袁熹)"
+    },
+    {
+      "book_name": "歷代帝王宅京記",
+      "author": "清",
+      "full_book_info": "歷代帝王宅京記 (清)"
+    },
+    {
+      "book_name": "歷代建元考",
+      "author": "清",
+      "full_book_info": "歷代建元考 (清)"
+    },
+    {
+      "book_name": "歷代詩話",
+      "author": "清",
+      "full_book_info": "歷代詩話 (清)"
+    },
+    {
+      "book_name": "歷算全書",
+      "author": "清",
+      "full_book_info": "歷算全書 (清)"
+    },
+    {
+      "book_name": "歸戒要集",
+      "author": "弘贊",
+      "full_book_info": "歸戒要集 (弘贊)"
+    },
+    {
+      "book_name": "比丘受戒錄",
+      "author": "弘贊",
+      "full_book_info": "比丘受戒錄 (弘贊)"
+    },
+    {
+      "book_name": "比丘尼受戒錄",
+      "author": "弘贊",
+      "full_book_info": "比丘尼受戒錄 (弘贊)"
+    },
+    {
+      "book_name": "毗尼日用切要",
+      "author": "讀體",
+      "full_book_info": "毗尼日用切要 (讀體)"
+    },
+    {
+      "book_name": "毗尼日用切要香乳記",
+      "author": "書玉",
+      "full_book_info": "毗尼日用切要香乳記 (書玉)"
+    },
+    {
+      "book_name": "毗尼止持會集",
+      "author": "讀體",
+      "full_book_info": "毗尼止持會集 (讀體)"
+    },
+    {
+      "book_name": "毗尼關要",
+      "author": "德基",
+      "full_book_info": "毗尼關要 (德基)"
+    },
+    {
+      "book_name": "毗尼關要事義",
+      "author": "德基",
+      "full_book_info": "毗尼關要事義 (德基)"
+    },
+    {
+      "book_name": "毛詩寫官記",
+      "author": "毛奇齡",
+      "full_book_info": "毛詩寫官記 (毛奇齡)"
+    },
+    {
+      "book_name": "毛詩稽古編",
+      "author": "清",
+      "full_book_info": "毛詩稽古編 (清)"
+    },
+    {
+      "book_name": "毛詩類釋",
+      "author": "清",
+      "full_book_info": "毛詩類釋 (清)"
+    },
+    {
+      "book_name": "水經注釋",
+      "author": "趙一清",
+      "full_book_info": "水經注釋 (趙一清)"
+    },
+    {
+      "book_name": "水經注集釋訂訛",
+      "author": "清",
+      "full_book_info": "水經注集釋訂訛 (清)"
+    },
+    {
+      "book_name": "水道提綱",
+      "author": "清",
+      "full_book_info": "水道提綱 (清)"
+    },
+    {
+      "book_name": "永濟融禪師語錄",
+      "author": "融",
+      "full_book_info": "永濟融禪師語錄 (融)"
+    },
+    {
+      "book_name": "求古錄",
+      "author": "清",
+      "full_book_info": "求古錄 (清)"
+    },
+    {
+      "book_name": "江南通志",
+      "author": "清",
+      "full_book_info": "江南通志 (清)"
+    },
+    {
+      "book_name": "江城名蹟",
+      "author": "清",
+      "full_book_info": "江城名蹟 (清)"
+    },
+    {
+      "book_name": "江村銷夏錄",
+      "author": "清",
+      "full_book_info": "江村銷夏錄 (清)"
+    },
+    {
+      "book_name": "江西通志",
+      "author": "謝旻",
+      "full_book_info": "江西通志 (謝旻)"
+    },
+    {
+      "book_name": "池北偶談",
+      "author": "清",
+      "full_book_info": "池北偶談 (清)"
+    },
+    {
+      "book_name": "沙彌學戒儀軌頌註",
+      "author": "弘贊",
+      "full_book_info": "沙彌學戒儀軌頌註 (弘贊)"
+    },
+    {
+      "book_name": "沙彌尼律儀要略",
+      "author": "讀體",
+      "full_book_info": "沙彌尼律儀要略 (讀體)"
+    },
+    {
+      "book_name": "沙彌律儀毗尼日用合參",
+      "author": "戒顯",
+      "full_book_info": "沙彌律儀毗尼日用合參 (戒顯)"
+    },
+    {
+      "book_name": "沙彌律儀要略增註",
+      "author": "弘贊",
+      "full_book_info": "沙彌律儀要略增註 (弘贊)"
+    },
+    {
+      "book_name": "沙彌律儀要略述義",
+      "author": "書玉",
+      "full_book_info": "沙彌律儀要略述義 (書玉)"
+    },
+    {
+      "book_name": "沙門日用",
+      "author": "弘贊",
+      "full_book_info": "沙門日用 (弘贊)"
+    },
+    {
+      "book_name": "河南通志",
+      "author": "清",
+      "full_book_info": "河南通志 (清)"
+    },
+    {
+      "book_name": "治河奏績書",
+      "author": "靳輔",
+      "full_book_info": "治河奏績書 (靳輔)"
+    },
+    {
+      "book_name": "法幢遠禪師語錄",
+      "author": "智遠",
+      "full_book_info": "法幢遠禪師語錄 (智遠)"
+    },
+    {
+      "book_name": "法瀾澂禪師語錄",
+      "author": "原澂",
+      "full_book_info": "法瀾澂禪師語錄 (原澂)"
+    },
+    {
+      "book_name": "法璽印禪師語錄",
+      "author": "印",
+      "full_book_info": "法璽印禪師語錄 (印)"
+    },
+    {
+      "book_name": "法界宗五祖略記",
+      "author": "續法",
+      "full_book_info": "法界宗五祖略記 (續法)"
+    },
+    {
+      "book_name": "法界宗蓮花章",
+      "author": "清",
+      "full_book_info": "法界宗蓮花章 (清)"
+    },
+    {
+      "book_name": "法界聖凡水陸大齋普利道場性相通論",
+      "author": "咫觀",
+      "full_book_info": "法界聖凡水陸大齋普利道場性相通論 (咫觀)"
+    },
+    {
+      "book_name": "法界聖凡水陸大齋法輪寶懺",
+      "author": "咫觀",
+      "full_book_info": "法界聖凡水陸大齋法輪寶懺 (咫觀)"
+    },
+    {
+      "book_name": "法華經卓解",
+      "author": "徐昌治",
+      "full_book_info": "法華經卓解 (徐昌治)"
+    },
+    {
+      "book_name": "法華經大成",
+      "author": "大義",
+      "full_book_info": "法華經大成 (大義)"
+    },
+    {
+      "book_name": "法華經大成科",
+      "author": "際慶",
+      "full_book_info": "法華經大成科 (際慶)"
+    },
+    {
+      "book_name": "法華經大成音義",
+      "author": "淨昇",
+      "full_book_info": "法華經大成音義 (淨昇)"
+    },
+    {
+      "book_name": "法華經持驗記",
+      "author": "周克復",
+      "full_book_info": "法華經持驗記 (周克復)"
+    },
+    {
+      "book_name": "法華經指掌疏",
+      "author": "通理",
+      "full_book_info": "法華經指掌疏 (通理)"
+    },
+    {
+      "book_name": "法華經指掌疏事義",
+      "author": "通理",
+      "full_book_info": "法華經指掌疏事義 (通理)"
+    },
+    {
+      "book_name": "法華經指掌疏懸示",
+      "author": "通理",
+      "full_book_info": "法華經指掌疏懸示 (通理)"
+    },
+    {
+      "book_name": "法華經指掌疏科文",
+      "author": "通理",
+      "full_book_info": "法華經指掌疏科文 (通理)"
+    },
+    {
+      "book_name": "法華經授手",
+      "author": "智祥",
+      "full_book_info": "法華經授手 (智祥)"
+    },
+    {
+      "book_name": "法華經授手〔卷首〕",
+      "author": "智祥",
+      "full_book_info": "法華經授手〔卷首〕 (智祥)"
+    },
+    {
+      "book_name": "法華經授手科",
+      "author": "智祥",
+      "full_book_info": "法華經授手科 (智祥)"
+    },
+    {
+      "book_name": "法華經文句纂要",
+      "author": "道霈",
+      "full_book_info": "法華經文句纂要 (道霈)"
+    },
+    {
+      "book_name": "法華經演義",
+      "author": "一松",
+      "full_book_info": "法華經演義 (一松)"
+    },
+    {
+      "book_name": "法華經演義科",
+      "author": "廣和",
+      "full_book_info": "法華經演義科 (廣和)"
+    },
+    {
+      "book_name": "法華經玄籤證釋",
+      "author": "智銓",
+      "full_book_info": "法華經玄籤證釋 (智銓)"
+    },
+    {
+      "book_name": "法華經科拾",
+      "author": "佛閑",
+      "full_book_info": "法華經科拾 (佛閑)"
+    },
+    {
+      "book_name": "法華經科拾懸談卷首",
+      "author": "佛閑",
+      "full_book_info": "法華經科拾懸談卷首 (佛閑)"
+    },
+    {
+      "book_name": "法華經科拾科",
+      "author": "佛閑",
+      "full_book_info": "法華經科拾科 (佛閑)"
+    },
+    {
+      "book_name": "法華經釋籤緣起序指明",
+      "author": "靈耀",
+      "full_book_info": "法華經釋籤緣起序指明 (靈耀)"
+    },
+    {
+      "book_name": "法門鋤宄",
+      "author": "淨符",
+      "full_book_info": "法門鋤宄 (淨符)"
+    },
+    {
+      "book_name": "注解正蒙",
+      "author": "清",
+      "full_book_info": "注解正蒙 (清)"
+    },
+    {
+      "book_name": "洪山俞昭允汾禪師語錄",
+      "author": "允汾",
+      "full_book_info": "洪山俞昭允汾禪師語錄 (允汾)"
+    },
+    {
+      "book_name": "洪範正論",
+      "author": "清",
+      "full_book_info": "洪範正論 (清)"
+    },
+    {
+      "book_name": "浙江通志",
+      "author": "清",
+      "full_book_info": "浙江通志 (清)"
+    },
+    {
+      "book_name": "浦峰法柱棟禪師語錄",
+      "author": "海棟",
+      "full_book_info": "浦峰法柱棟禪師語錄 (海棟)"
+    },
+    {
+      "book_name": "浦峰長明炅禪師語錄",
+      "author": "性炅",
+      "full_book_info": "浦峰長明炅禪師語錄 (性炅)"
+    },
+    {
+      "book_name": "海國聞見錄",
+      "author": "清",
+      "full_book_info": "海國聞見錄 (清)"
+    },
+    {
+      "book_name": "海塘錄",
+      "author": "清",
+      "full_book_info": "海塘錄 (清)"
+    },
+    {
+      "book_name": "海幢阿字無禪師語錄",
+      "author": "今無",
+      "full_book_info": "海幢阿字無禪師語錄 (今無)"
+    },
+    {
+      "book_name": "淨土全書",
+      "author": "俞行敏",
+      "full_book_info": "淨土全書 (俞行敏)"
+    },
+    {
+      "book_name": "淨土必求",
+      "author": "古崑",
+      "full_book_info": "淨土必求 (古崑)"
+    },
+    {
+      "book_name": "淨土承恩集",
+      "author": "芳慧",
+      "full_book_info": "淨土承恩集 (芳慧)"
+    },
+    {
+      "book_name": "淨土救生船詩",
+      "author": "寬量",
+      "full_book_info": "淨土救生船詩 (寬量)"
+    },
+    {
+      "book_name": "淨土旨訣",
+      "author": "道霑",
+      "full_book_info": "淨土旨訣 (道霑)"
+    },
+    {
+      "book_name": "淨土晨鐘",
+      "author": "周克",
+      "full_book_info": "淨土晨鐘 (周克)"
+    },
+    {
+      "book_name": "淨土極信錄",
+      "author": "戒香",
+      "full_book_info": "淨土極信錄 (戒香)"
+    },
+    {
+      "book_name": "淨土生無生論會集",
+      "author": "達默",
+      "full_book_info": "淨土生無生論會集 (達默)"
+    },
+    {
+      "book_name": "淨土神珠",
+      "author": "古崑",
+      "full_book_info": "淨土神珠 (古崑)"
+    },
+    {
+      "book_name": "淨土紺珠",
+      "author": "德真",
+      "full_book_info": "淨土紺珠 (德真)"
+    },
+    {
+      "book_name": "淨土聖賢錄",
+      "author": "彭希涑",
+      "full_book_info": "淨土聖賢錄 (彭希涑)"
+    },
+    {
+      "book_name": "淨土警語",
+      "author": "行策",
+      "full_book_info": "淨土警語 (行策)"
+    },
+    {
+      "book_name": "淨土隨學",
+      "author": "古崑",
+      "full_book_info": "淨土隨學 (古崑)"
+    },
+    {
+      "book_name": "淨業痛策",
+      "author": "照瑩",
+      "full_book_info": "淨業痛策 (照瑩)"
+    },
+    {
+      "book_name": "淨業知津",
+      "author": "悟開",
+      "full_book_info": "淨業知津 (悟開)"
+    },
+    {
+      "book_name": "深衣考",
+      "author": "清",
+      "full_book_info": "深衣考 (清)"
+    },
+    {
+      "book_name": "深衣考誤",
+      "author": "清",
+      "full_book_info": "深衣考誤 (清)"
+    },
+    {
+      "book_name": "淳化祕閣法帖考正",
+      "author": "清",
+      "full_book_info": "淳化祕閣法帖考正 (清)"
+    },
+    {
+      "book_name": "清和真人北遊語錄",
+      "author": "尹志平",
+      "full_book_info": "清和真人北遊語錄 (尹志平)"
+    },
+    {
+      "book_name": "清微丹訣",
+      "author": "",
+      "full_book_info": "清微丹訣"
+    },
+    {
+      "book_name": "清微仙譜",
+      "author": "黃舜申",
+      "full_book_info": "清微仙譜 (黃舜申)"
+    },
+    {
+      "book_name": "清微宏範道門功課",
+      "author": "",
+      "full_book_info": "清微宏範道門功課"
+    },
+    {
+      "book_name": "清微神烈祕法",
+      "author": "",
+      "full_book_info": "清微神烈祕法"
+    },
+    {
+      "book_name": "清微齋法",
+      "author": "",
+      "full_book_info": "清微齋法"
+    },
+    {
+      "book_name": "清淨法身毘盧遮那心地法門成就一切陀羅尼三種悉地",
+      "author": "",
+      "full_book_info": "清淨法身毘盧遮那心地法門成就一切陀羅尼三種悉地"
+    },
+    {
+      "book_name": "清珠集",
+      "author": "治兆",
+      "full_book_info": "清珠集 (治兆)"
+    },
+    {
+      "book_name": "測海集節鈔",
+      "author": "彭紹升",
+      "full_book_info": "測海集節鈔 (彭紹升)"
+    },
+    {
+      "book_name": "湖廣通志",
+      "author": "清",
+      "full_book_info": "湖廣通志 (清)"
+    },
+    {
+      "book_name": "湛園札記",
+      "author": "清",
+      "full_book_info": "湛園札記 (清)"
+    },
+    {
+      "book_name": "湛園集",
+      "author": "清",
+      "full_book_info": "湛園集 (清)"
+    },
+    {
+      "book_name": "湯子遺書",
+      "author": "清",
+      "full_book_info": "湯子遺書 (清)"
+    },
+    {
+      "book_name": "溈山古梅冽禪師語錄",
+      "author": "定冽",
+      "full_book_info": "溈山古梅冽禪師語錄 (定冽)"
+    },
+    {
+      "book_name": "滇考",
+      "author": "清",
+      "full_book_info": "滇考 (清)"
+    },
+    {
+      "book_name": "漁洋詩話",
+      "author": "王士禎",
+      "full_book_info": "漁洋詩話 (王士禎)"
+    },
+    {
+      "book_name": "漆園指通",
+      "author": "淨挺",
+      "full_book_info": "漆園指通 (淨挺)"
+    },
+    {
+      "book_name": "潛邱劄記",
+      "author": "清",
+      "full_book_info": "潛邱劄記 (清)"
+    },
+    {
+      "book_name": "灤州萬善暉州昊禪師語錄",
+      "author": "昊",
+      "full_book_info": "灤州萬善暉州昊禪師語錄 (昊)"
+    },
+    {
+      "book_name": "無上九霄玉清大梵紫微玄都雷霆玉經",
+      "author": "",
+      "full_book_info": "無上九霄玉清大梵紫微玄都雷霆玉經"
+    },
+    {
+      "book_name": "無依道人錄",
+      "author": "徐昌治",
+      "full_book_info": "無依道人錄 (徐昌治)"
+    },
+    {
+      "book_name": "無為清靜長生真人至真語錄",
+      "author": "劉處玄",
+      "full_book_info": "無為清靜長生真人至真語錄 (劉處玄)"
+    },
+    {
+      "book_name": "無量壽經會譯",
+      "author": "魏源",
+      "full_book_info": "無量壽經會譯 (魏源)"
+    },
+    {
+      "book_name": "無量壽經起信論",
+      "author": "彭際清",
+      "full_book_info": "無量壽經起信論 (彭際清)"
+    },
+    {
+      "book_name": "營平二州地名記",
+      "author": "清",
+      "full_book_info": "營平二州地名記 (清)"
+    },
+    {
+      "book_name": "燮雲璣禪師國清無畏堂語錄",
+      "author": "濟璣",
+      "full_book_info": "燮雲璣禪師國清無畏堂語錄 (濟璣)"
+    },
+    {
+      "book_name": "爰清子至命篇",
+      "author": "王慶升",
+      "full_book_info": "爰清子至命篇 (王慶升)"
+    },
+    {
+      "book_name": "牧雲和尚七會語錄",
+      "author": "通門",
+      "full_book_info": "牧雲和尚七會語錄 (通門)"
+    },
+    {
+      "book_name": "玉泉其白富禪師語錄",
+      "author": "德富",
+      "full_book_info": "玉泉其白富禪師語錄 (德富)"
+    },
+    {
+      "book_name": "玉泉蓮月正禪師語錄",
+      "author": "道正",
+      "full_book_info": "玉泉蓮月正禪師語錄 (道正)"
+    },
+    {
+      "book_name": "玉清無上內景真經",
+      "author": "",
+      "full_book_info": "玉清無上內景真經"
+    },
+    {
+      "book_name": "玉清無上靈寶自然北斗本生真經",
+      "author": "",
+      "full_book_info": "玉清無上靈寶自然北斗本生真經"
+    },
+    {
+      "book_name": "玉清無極總真文昌大洞仙經註",
+      "author": "衛琪",
+      "full_book_info": "玉清無極總真文昌大洞仙經註 (衛琪)"
+    },
+    {
+      "book_name": "玉清贊化九天演政心印寶懺",
+      "author": "",
+      "full_book_info": "玉清贊化九天演政心印寶懺"
+    },
+    {
+      "book_name": "玉清贊化九天演政心印集經",
+      "author": "",
+      "full_book_info": "玉清贊化九天演政心印集經"
+    },
+    {
+      "book_name": "玉清金笥青華祕文金寶內鍊丹訣",
+      "author": "張伯端",
+      "full_book_info": "玉清金笥青華祕文金寶內鍊丹訣 (張伯端)"
+    },
+    {
+      "book_name": "玉眉亮禪師語錄",
+      "author": "亮",
+      "full_book_info": "玉眉亮禪師語錄 (亮)"
+    },
+    {
+      "book_name": "玉臺新詠考異",
+      "author": "清",
+      "full_book_info": "玉臺新詠考異 (清)"
+    },
+    {
+      "book_name": "珂雪詞",
+      "author": "清",
+      "full_book_info": "珂雪詞 (清)"
+    },
+    {
+      "book_name": "琴旨",
+      "author": "王坦",
+      "full_book_info": "琴旨 (王坦)"
+    },
+    {
+      "book_name": "瑜伽燄口註集纂要儀軌",
+      "author": "寂暹",
+      "full_book_info": "瑜伽燄口註集纂要儀軌 (寂暹)"
+    },
+    {
+      "book_name": "瓊樓吟稿節鈔",
+      "author": "陶善",
+      "full_book_info": "瓊樓吟稿節鈔 (陶善)"
+    },
+    {
+      "book_name": "甘肅通志",
+      "author": "清",
+      "full_book_info": "甘肅通志 (清)"
+    },
+    {
+      "book_name": "甬上耆舊詩",
+      "author": "清",
+      "full_book_info": "甬上耆舊詩 (清)"
+    },
+    {
+      "book_name": "田間易學",
+      "author": "清",
+      "full_book_info": "田間易學 (清)"
+    },
+    {
+      "book_name": "田間詩學",
+      "author": "清",
+      "full_book_info": "田間詩學 (清)"
+    },
+    {
+      "book_name": "異域錄",
+      "author": "清",
+      "full_book_info": "異域錄 (清)"
+    },
+    {
+      "book_name": "異魚圖贊補",
+      "author": "清",
+      "full_book_info": "異魚圖贊補 (清)"
+    },
+    {
+      "book_name": "畿輔通志",
+      "author": "唐執玉",
+      "full_book_info": "畿輔通志 (唐執玉)"
+    },
+    {
+      "book_name": "白救度佛母讚",
+      "author": "阿旺扎什",
+      "full_book_info": "白救度佛母讚 (阿旺扎什)"
+    },
+    {
+      "book_name": "白田雜著",
+      "author": "清",
+      "full_book_info": "白田雜著 (清)"
+    },
+    {
+      "book_name": "白雲象林本真禪師語錄",
+      "author": "本真",
+      "full_book_info": "白雲象林本真禪師語錄 (本真)"
+    },
+    {
+      "book_name": "百丈清規證義記",
+      "author": "儀潤",
+      "full_book_info": "百丈清規證義記 (儀潤)"
+    },
+    {
+      "book_name": "百愚禪師語錄",
+      "author": "淨斯",
+      "full_book_info": "百愚禪師語錄 (淨斯)"
+    },
+    {
+      "book_name": "百癡禪師語錄",
+      "author": "元",
+      "full_book_info": "百癡禪師語錄 (元)"
+    },
+    {
+      "book_name": "皇朝文獻通考",
+      "author": "清",
+      "full_book_info": "皇朝文獻通考 (清)"
+    },
+    {
+      "book_name": "皇朝禮器圖式",
+      "author": "清",
+      "full_book_info": "皇朝禮器圖式 (清)"
+    },
+    {
+      "book_name": "皇清文頴",
+      "author": "清",
+      "full_book_info": "皇清文頴 (清)"
+    },
+    {
+      "book_name": "皇清職貢圖",
+      "author": "清",
+      "full_book_info": "皇清職貢圖 (清)"
+    },
+    {
+      "book_name": "皇清開國方略",
+      "author": "清",
+      "full_book_info": "皇清開國方略 (清)"
+    },
+    {
+      "book_name": "皇言定聲錄",
+      "author": "毛奇齡",
+      "full_book_info": "皇言定聲錄 (毛奇齡)"
+    },
+    {
+      "book_name": "盂蘭盆經略疏",
+      "author": "元奇",
+      "full_book_info": "盂蘭盆經略疏 (元奇)"
+    },
+    {
+      "book_name": "盂蘭盆經疏折中疏",
+      "author": "靈耀",
+      "full_book_info": "盂蘭盆經疏折中疏 (靈耀)"
+    },
+    {
+      "book_name": "益州嵩山野竹禪師後錄",
+      "author": "福慧",
+      "full_book_info": "益州嵩山野竹禪師後錄 (福慧)"
+    },
+    {
+      "book_name": "盛京奉天般若古林禪師語錄",
+      "author": "智",
+      "full_book_info": "盛京奉天般若古林禪師語錄 (智)"
+    },
+    {
+      "book_name": "盤山了宗禪師語錄",
+      "author": "超見",
+      "full_book_info": "盤山了宗禪師語錄 (超見)"
+    },
+    {
+      "book_name": "盤山朗空順禪師語錄",
+      "author": "順",
+      "full_book_info": "盤山朗空順禪師語錄 (順)"
+    },
+    {
+      "book_name": "直隸河渠志",
+      "author": "清",
+      "full_book_info": "直隸河渠志 (清)"
+    },
+    {
+      "book_name": "省菴法師語錄",
+      "author": "彭際清",
+      "full_book_info": "省菴法師語錄 (彭際清)"
+    },
+    {
+      "book_name": "真歇清了禪師語錄",
+      "author": "德初",
+      "full_book_info": "真歇清了禪師語錄 (德初)"
+    },
+    {
+      "book_name": "知空蘊禪師語錄",
+      "author": "學蘊",
+      "full_book_info": "知空蘊禪師語錄 (學蘊)"
+    },
+    {
+      "book_name": "石屋清洪禪師語錄",
+      "author": "至柔",
+      "full_book_info": "石屋清洪禪師語錄 (至柔)"
+    },
+    {
+      "book_name": "石柱記箋釋",
+      "author": "清",
+      "full_book_info": "石柱記箋釋 (清)"
+    },
+    {
+      "book_name": "石渠寶笈",
+      "author": "清",
+      "full_book_info": "石渠寶笈 (清)"
+    },
+    {
+      "book_name": "石璞質禪師語錄",
+      "author": "超質",
+      "full_book_info": "石璞質禪師語錄 (超質)"
+    },
+    {
+      "book_name": "石經考",
+      "author": "清",
+      "full_book_info": "石經考 (清)"
+    },
+    {
+      "book_name": "石經考異",
+      "author": "清",
+      "full_book_info": "石經考異 (清)"
+    },
+    {
+      "book_name": "石關禪師語錄",
+      "author": "芳桂",
+      "full_book_info": "石關禪師語錄 (芳桂)"
+    },
+    {
+      "book_name": "石霜爾瞻尊禪師語錄",
+      "author": "達尊",
+      "full_book_info": "石霜爾瞻尊禪師語錄 (達尊)"
+    },
+    {
+      "book_name": "破山禪師語錄",
+      "author": "海明",
+      "full_book_info": "破山禪師語錄 (海明)"
+    },
+    {
+      "book_name": "硯山齋雜記",
+      "author": "清",
+      "full_book_info": "硯山齋雜記 (清)"
+    },
+    {
+      "book_name": "磬山牧亭樸夫拙禪師語錄",
+      "author": "拙",
+      "full_book_info": "磬山牧亭樸夫拙禪師語錄 (拙)"
+    },
+    {
+      "book_name": "祕殿珠林",
+      "author": "清",
+      "full_book_info": "祕殿珠林 (清)"
+    },
+    {
+      "book_name": "祖亮啟禪師語錄",
+      "author": "超啟",
+      "full_book_info": "祖亮啟禪師語錄 (超啟)"
+    },
+    {
+      "book_name": "祖庭指南",
+      "author": "徐昌治",
+      "full_book_info": "祖庭指南 (徐昌治)"
+    },
+    {
+      "book_name": "神農本草經百种錄",
+      "author": "清",
+      "full_book_info": "神農本草經百种錄 (清)"
+    },
+    {
+      "book_name": "神鼎一揆禪師語錄",
+      "author": "元揆",
+      "full_book_info": "神鼎一揆禪師語錄 (元揆)"
+    },
+    {
+      "book_name": "神鼎雲外澤禪師語錄",
+      "author": "行澤",
+      "full_book_info": "神鼎雲外澤禪師語錄 (行澤)"
+    },
+    {
+      "book_name": "福建通志",
+      "author": "清",
+      "full_book_info": "福建通志 (清)"
+    },
+    {
+      "book_name": "禪宗指掌",
+      "author": "行海",
+      "full_book_info": "禪宗指掌 (行海)"
+    },
+    {
+      "book_name": "禪宗雜毒海",
+      "author": "性音",
+      "full_book_info": "禪宗雜毒海 (性音)"
+    },
+    {
+      "book_name": "禪林寶訓合註",
+      "author": "張文嘉",
+      "full_book_info": "禪林寶訓合註 (張文嘉)"
+    },
+    {
+      "book_name": "禪林寶訓拈頌",
+      "author": "行盛",
+      "full_book_info": "禪林寶訓拈頌 (行盛)"
+    },
+    {
+      "book_name": "禪林寶訓筆說",
+      "author": "智祥",
+      "full_book_info": "禪林寶訓筆說 (智祥)"
+    },
+    {
+      "book_name": "禪林寶訓順硃",
+      "author": "德玉",
+      "full_book_info": "禪林寶訓順硃 (德玉)"
+    },
+    {
+      "book_name": "禮佛儀式",
+      "author": "弘贊",
+      "full_book_info": "禮佛儀式 (弘贊)"
+    },
+    {
+      "book_name": "禮書綱目",
+      "author": "清",
+      "full_book_info": "禮書綱目 (清)"
+    },
+    {
+      "book_name": "禮經本義",
+      "author": "清",
+      "full_book_info": "禮經本義 (清)"
+    },
+    {
+      "book_name": "禮舍利塔儀式",
+      "author": "弘贊",
+      "full_book_info": "禮舍利塔儀式 (弘贊)"
+    },
+    {
+      "book_name": "禮記析疑",
+      "author": "清",
+      "full_book_info": "禮記析疑 (清)"
+    },
+    {
+      "book_name": "禮記訓義擇言",
+      "author": "清",
+      "full_book_info": "禮記訓義擇言 (清)"
+    },
+    {
+      "book_name": "禮記述註",
+      "author": "清",
+      "full_book_info": "禮記述註 (清)"
+    },
+    {
+      "book_name": "禮說",
+      "author": "清",
+      "full_book_info": "禮說 (清)"
+    },
+    {
+      "book_name": "禹貢會箋",
+      "author": "清",
+      "full_book_info": "禹貢會箋 (清)"
+    },
+    {
+      "book_name": "禹貢錐指",
+      "author": "胡渭",
+      "full_book_info": "禹貢錐指 (胡渭)"
+    },
+    {
+      "book_name": "禹貢長箋",
+      "author": "清",
+      "full_book_info": "禹貢長箋 (清)"
+    },
+    {
+      "book_name": "秀野林禪師語錄",
+      "author": "明林",
+      "full_book_info": "秀野林禪師語錄 (明林)"
+    },
+    {
+      "book_name": "穆菴文康禪師語錄",
+      "author": "清逸",
+      "full_book_info": "穆菴文康禪師語錄 (清逸)"
+    },
+    {
+      "book_name": "空谷道澄禪師語錄",
+      "author": "道澄",
+      "full_book_info": "空谷道澄禪師語錄 (道澄)"
+    },
+    {
+      "book_name": "竟山樂錄",
+      "author": "毛奇齡",
+      "full_book_info": "竟山樂錄 (毛奇齡)"
+    },
+    {
+      "book_name": "竹書統箋",
+      "author": "清",
+      "full_book_info": "竹書統箋 (清)"
+    },
+    {
+      "book_name": "竹雲題跋",
+      "author": "清",
+      "full_book_info": "竹雲題跋 (清)"
+    },
+    {
+      "book_name": "竺峰敏禪師語錄",
+      "author": "幻敏",
+      "full_book_info": "竺峰敏禪師語錄 (幻敏)"
+    },
+    {
+      "book_name": "笑堂和尚語錄",
+      "author": "笑堂明哲",
+      "full_book_info": "笑堂和尚語錄 (笑堂明哲)"
+    },
+    {
+      "book_name": "管城碩記",
+      "author": "清",
+      "full_book_info": "管城碩記 (清)"
+    },
+    {
+      "book_name": "篆隸考異",
+      "author": "周靖",
+      "full_book_info": "篆隸考異 (周靖)"
+    },
+    {
+      "book_name": "粵西詩載",
+      "author": "汪森",
+      "full_book_info": "粵西詩載 (汪森)"
+    },
+    {
+      "book_name": "粵閩巡視紀略",
+      "author": "清",
+      "full_book_info": "粵閩巡視紀略 (清)"
+    },
+    {
+      "book_name": "精華錄",
+      "author": "清",
+      "full_book_info": "精華錄 (清)"
+    },
+    {
+      "book_name": "純備德禪師語錄",
+      "author": "廣德",
+      "full_book_info": "純備德禪師語錄 (廣德)"
+    },
+    {
+      "book_name": "紫竹林顓愚衡和尚語錄",
+      "author": "觀衡",
+      "full_book_info": "紫竹林顓愚衡和尚語錄 (觀衡)"
+    },
+    {
+      "book_name": "終南山蟠龍子肅禪師語錄",
+      "author": "超遠",
+      "full_book_info": "終南山蟠龍子肅禪師語錄 (超遠)"
+    },
+    {
+      "book_name": "絳雪園古方選註",
+      "author": "清",
+      "full_book_info": "絳雪園古方選註 (清)"
+    },
+    {
+      "book_name": "綏寇紀略",
+      "author": "清",
+      "full_book_info": "綏寇紀略 (清)"
+    },
+    {
+      "book_name": "經咫",
+      "author": "陳祖范",
+      "full_book_info": "經咫 (陳祖范)"
+    },
+    {
+      "book_name": "經問",
+      "author": "毛奇齡",
+      "full_book_info": "經問 (毛奇齡)"
+    },
+    {
+      "book_name": "經稗",
+      "author": "鄭方坤",
+      "full_book_info": "經稗 (鄭方坤)"
+    },
+    {
+      "book_name": "經義考",
+      "author": "清",
+      "full_book_info": "經義考 (清)"
+    },
+    {
+      "book_name": "綠蘿恒秀林禪師語錄",
+      "author": "發林",
+      "full_book_info": "綠蘿恒秀林禪師語錄 (發林)"
+    },
+    {
+      "book_name": "綱目分註拾遺",
+      "author": "清",
+      "full_book_info": "綱目分註拾遺 (清)"
+    },
+    {
+      "book_name": "綱目訂誤",
+      "author": "清",
+      "full_book_info": "綱目訂誤 (清)"
+    },
+    {
+      "book_name": "緇門世譜",
+      "author": "明喜",
+      "full_book_info": "緇門世譜 (明喜)"
+    },
+    {
+      "book_name": "繪事備考",
+      "author": "清",
+      "full_book_info": "繪事備考 (清)"
+    },
+    {
+      "book_name": "繹史",
+      "author": "清",
+      "full_book_info": "繹史 (清)"
+    },
+    {
+      "book_name": "續名醫類案",
+      "author": "清",
+      "full_book_info": "續名醫類案 (清)"
+    },
+    {
+      "book_name": "續指月錄",
+      "author": "聶先",
+      "full_book_info": "續指月錄 (聶先)"
+    },
+    {
+      "book_name": "續方言",
+      "author": "杭世駿",
+      "full_book_info": "續方言 (杭世駿)"
+    },
+    {
+      "book_name": "續燈正統",
+      "author": "性統",
+      "full_book_info": "續燈正統 (性統)"
+    },
+    {
+      "book_name": "續燈正統目錄",
+      "author": "性統",
+      "full_book_info": "續燈正統目錄 (性統)"
+    },
+    {
+      "book_name": "續茶經",
+      "author": "清",
+      "full_book_info": "續茶經 (清)"
+    },
+    {
+      "book_name": "續詩傳鳥名卷",
+      "author": "清",
+      "full_book_info": "續詩傳鳥名卷 (清)"
+    },
+    {
+      "book_name": "羣經補義",
+      "author": "江永",
+      "full_book_info": "羣經補義 (江永)"
+    },
+    {
+      "book_name": "義府",
+      "author": "清",
+      "full_book_info": "義府 (清)"
+    },
+    {
+      "book_name": "義門讀書記",
+      "author": "清",
+      "full_book_info": "義門讀書記 (清)"
+    },
+    {
+      "book_name": "羯磨儀式",
+      "author": "書玉",
+      "full_book_info": "羯磨儀式 (書玉)"
+    },
+    {
+      "book_name": "翠崖必禪師語錄",
+      "author": "必",
+      "full_book_info": "翠崖必禪師語錄 (必)"
+    },
+    {
+      "book_name": "翼菴禪師語錄",
+      "author": "善酇",
+      "full_book_info": "翼菴禪師語錄 (善酇)"
+    },
+    {
+      "book_name": "老子說畧",
+      "author": "張爾岐",
+      "full_book_info": "老子說畧 (張爾岐)"
+    },
+    {
+      "book_name": "耳庵嵩禪師語錄",
+      "author": "嵩",
+      "full_book_info": "耳庵嵩禪師語錄 (嵩)"
+    },
+    {
+      "book_name": "聖祖仁皇帝庭訓格言",
+      "author": "清",
+      "full_book_info": "聖祖仁皇帝庭訓格言 (清)"
+    },
+    {
+      "book_name": "聖祖仁皇帝御製文集",
+      "author": "清",
+      "full_book_info": "聖祖仁皇帝御製文集 (清)"
+    },
+    {
+      "book_name": "聖祖仁皇帝聖訓",
+      "author": "清",
+      "full_book_info": "聖祖仁皇帝聖訓 (清)"
+    },
+    {
+      "book_name": "聖祖仁皇帝親征平定朔漠方略",
+      "author": "清",
+      "full_book_info": "聖祖仁皇帝親征平定朔漠方略 (清)"
+    },
+    {
+      "book_name": "聖箭堂述古",
+      "author": "道霈",
+      "full_book_info": "聖箭堂述古 (道霈)"
+    },
+    {
+      "book_name": "聖論廣訓",
+      "author": "清",
+      "full_book_info": "聖論廣訓 (清)"
+    },
+    {
+      "book_name": "聖諭樂本解說",
+      "author": "毛奇齡",
+      "full_book_info": "聖諭樂本解說 (毛奇齡)"
+    },
+    {
+      "book_name": "聲調譜",
+      "author": "清",
+      "full_book_info": "聲調譜 (清)"
+    },
+    {
+      "book_name": "自閒覺禪師語錄",
+      "author": "覺",
+      "full_book_info": "自閒覺禪師語錄 (覺)"
+    },
+    {
+      "book_name": "臺海使槎錄",
+      "author": "清",
+      "full_book_info": "臺海使槎錄 (清)"
+    },
+    {
+      "book_name": "舍利懺法",
+      "author": "繼僧",
+      "full_book_info": "舍利懺法 (繼僧)"
+    },
+    {
+      "book_name": "般若心經事觀解",
+      "author": "續法",
+      "full_book_info": "般若心經事觀解 (續法)"
+    },
+    {
+      "book_name": "般若心經句解易知",
+      "author": "王澤泩",
+      "full_book_info": "般若心經句解易知 (王澤泩)"
+    },
+    {
+      "book_name": "般若心經大意",
+      "author": "王起隆",
+      "full_book_info": "般若心經大意 (王起隆)"
+    },
+    {
+      "book_name": "般若心經如是經義",
+      "author": "行敏",
+      "full_book_info": "般若心經如是經義 (行敏)"
+    },
+    {
+      "book_name": "般若心經彙纂",
+      "author": "孫念劬",
+      "full_book_info": "般若心經彙纂 (孫念劬)"
+    },
+    {
+      "book_name": "般若心經易解",
+      "author": "謝承謨",
+      "full_book_info": "般若心經易解 (謝承謨)"
+    },
+    {
+      "book_name": "般若心經理性解",
+      "author": "續法",
+      "full_book_info": "般若心經理性解 (續法)"
+    },
+    {
+      "book_name": "般若心經解",
+      "author": "徐昌治",
+      "full_book_info": "般若心經解 (徐昌治)"
+    },
+    {
+      "book_name": "般若心經解義",
+      "author": "徐槐廷",
+      "full_book_info": "般若心經解義 (徐槐廷)"
+    },
+    {
+      "book_name": "般若心經註疏",
+      "author": "仲之屏",
+      "full_book_info": "般若心經註疏 (仲之屏)"
+    },
+    {
+      "book_name": "般若心經註解",
+      "author": "孚佑帝君",
+      "full_book_info": "般若心經註解 (孚佑帝君)"
+    },
+    {
+      "book_name": "般若心經註解",
+      "author": "敬止",
+      "full_book_info": "般若心經註解 (敬止)"
+    },
+    {
+      "book_name": "般若心經註講",
+      "author": "行敏",
+      "full_book_info": "般若心經註講 (行敏)"
+    },
+    {
+      "book_name": "般若心經請益說",
+      "author": "道霈",
+      "full_book_info": "般若心經請益說 (道霈)"
+    },
+    {
+      "book_name": "般若心經論",
+      "author": "圅昰",
+      "full_book_info": "般若心經論 (圅昰)"
+    },
+    {
+      "book_name": "芝巖秀禪師語錄",
+      "author": "秀",
+      "full_book_info": "芝巖秀禪師語錄 (秀)"
+    },
+    {
+      "book_name": "花木鳥獸集類",
+      "author": "清",
+      "full_book_info": "花木鳥獸集類 (清)"
+    },
+    {
+      "book_name": "范忠貞集",
+      "author": "清",
+      "full_book_info": "范忠貞集 (清)"
+    },
+    {
+      "book_name": "草堂耨雲實禪師語錄",
+      "author": "真實",
+      "full_book_info": "草堂耨雲實禪師語錄 (真實)"
+    },
+    {
+      "book_name": "荊南內護國寺啟真誠禪師語錄",
+      "author": "誠",
+      "full_book_info": "荊南內護國寺啟真誠禪師語錄 (誠)"
+    },
+    {
+      "book_name": "荒政叢書",
+      "author": "清",
+      "full_book_info": "荒政叢書 (清)"
+    },
+    {
+      "book_name": "莊氏算學",
+      "author": "清",
+      "full_book_info": "莊氏算學 (清)"
+    },
+    {
+      "book_name": "華嚴不厭樂禪師語錄",
+      "author": "道樂",
+      "full_book_info": "華嚴不厭樂禪師語錄 (道樂)"
+    },
+    {
+      "book_name": "華嚴念佛三昧論",
+      "author": "清",
+      "full_book_info": "華嚴念佛三昧論 (清)"
+    },
+    {
+      "book_name": "華嚴感應緣起傳",
+      "author": "弘璧",
+      "full_book_info": "華嚴感應緣起傳 (弘璧)"
+    },
+    {
+      "book_name": "華嚴經三十九品大意",
+      "author": "清",
+      "full_book_info": "華嚴經三十九品大意 (清)"
+    },
+    {
+      "book_name": "華嚴經持驗記",
+      "author": "周克復",
+      "full_book_info": "華嚴經持驗記 (周克復)"
+    },
+    {
+      "book_name": "華嚴經綱目貫攝",
+      "author": "清",
+      "full_book_info": "華嚴經綱目貫攝 (清)"
+    },
+    {
+      "book_name": "華嚴聖可禪師語錄",
+      "author": "德玉",
+      "full_book_info": "華嚴聖可禪師語錄 (德玉)"
+    },
+    {
+      "book_name": "華嚴起宗真禪師語錄",
+      "author": "真",
+      "full_book_info": "華嚴起宗真禪師語錄 (真)"
+    },
+    {
+      "book_name": "華嚴鏡燈章",
+      "author": "清",
+      "full_book_info": "華嚴鏡燈章 (清)"
+    },
+    {
+      "book_name": "華巖還初佛禪師語錄",
+      "author": "佛",
+      "full_book_info": "華巖還初佛禪師語錄 (佛)"
+    },
+    {
+      "book_name": "華野疏稿",
+      "author": "清",
+      "full_book_info": "華野疏稿 (清)"
+    },
+    {
+      "book_name": "萬壽盛典初集",
+      "author": "清",
+      "full_book_info": "萬壽盛典初集 (清)"
+    },
+    {
+      "book_name": "萬如禪師語錄",
+      "author": "通微",
+      "full_book_info": "萬如禪師語錄 (通微)"
+    },
+    {
+      "book_name": "萬峰童真禪師語錄",
+      "author": "至善",
+      "full_book_info": "萬峰童真禪師語錄 (至善)"
+    },
+    {
+      "book_name": "萬氏石經考",
+      "author": "清",
+      "full_book_info": "萬氏石經考 (清)"
+    },
+    {
+      "book_name": "萬法歸心錄",
+      "author": "超溟",
+      "full_book_info": "萬法歸心錄 (超溟)"
+    },
+    {
+      "book_name": "蓮修必讀",
+      "author": "觀如",
+      "full_book_info": "蓮修必讀 (觀如)"
+    },
+    {
+      "book_name": "蓮修起信錄",
+      "author": "程兆鸞",
+      "full_book_info": "蓮修起信錄 (程兆鸞)"
+    },
+    {
+      "book_name": "蓮宗必讀",
+      "author": "古崑",
+      "full_book_info": "蓮宗必讀 (古崑)"
+    },
+    {
+      "book_name": "蓮峰禪師語錄",
+      "author": "素",
+      "full_book_info": "蓮峰禪師語錄 (素)"
+    },
+    {
+      "book_name": "蓮月禪師語錄",
+      "author": "道正",
+      "full_book_info": "蓮月禪師語錄 (道正)"
+    },
+    {
+      "book_name": "蓮洋詩鈔",
+      "author": "清",
+      "full_book_info": "蓮洋詩鈔 (清)"
+    },
+    {
+      "book_name": "蓮邦消息",
+      "author": "妙空子",
+      "full_book_info": "蓮邦消息 (妙空子)"
+    },
+    {
+      "book_name": "蔗菴範禪師語錄",
+      "author": "淨範",
+      "full_book_info": "蔗菴範禪師語錄 (淨範)"
+    },
+    {
+      "book_name": "藝林彙考",
+      "author": "沈自南",
+      "full_book_info": "藝林彙考 (沈自南)"
+    },
+    {
+      "book_name": "藥師七佛供養儀軌如意王經",
+      "author": "工布查布",
+      "full_book_info": "藥師七佛供養儀軌如意王經 (工布查布)"
+    },
+    {
+      "book_name": "藥師經直解",
+      "author": "靈耀",
+      "full_book_info": "藥師經直解 (靈耀)"
+    },
+    {
+      "book_name": "蘇州竹庵衍禪師語錄",
+      "author": "真衍",
+      "full_book_info": "蘇州竹庵衍禪師語錄 (真衍)"
+    },
+    {
+      "book_name": "蘭臺軌範",
+      "author": "清",
+      "full_book_info": "蘭臺軌範 (清)"
+    },
+    {
+      "book_name": "虛舟省禪師語錄",
+      "author": "行省",
+      "full_book_info": "虛舟省禪師語錄 (行省)"
+    },
+    {
+      "book_name": "虛舟禪師註八識規矩頌",
+      "author": "行省",
+      "full_book_info": "虛舟禪師註八識規矩頌 (行省)"
+    },
+    {
+      "book_name": "虞東學詩",
+      "author": "清",
+      "full_book_info": "虞東學詩 (清)"
+    },
+    {
+      "book_name": "行水金鑑",
+      "author": "清",
+      "full_book_info": "行水金鑑 (清)"
+    },
+    {
+      "book_name": "衡山禪師語錄",
+      "author": "燈炳",
+      "full_book_info": "衡山禪師語錄 (燈炳)"
+    },
+    {
+      "book_name": "補歷代史表",
+      "author": "清",
+      "full_book_info": "補歷代史表 (清)"
+    },
+    {
+      "book_name": "補饗禮",
+      "author": "清",
+      "full_book_info": "補饗禮 (清)"
+    },
+    {
+      "book_name": "西方發願文註",
+      "author": "實賢",
+      "full_book_info": "西方發願文註 (實賢)"
+    },
+    {
+      "book_name": "西方確指",
+      "author": "覺明菩薩",
+      "full_book_info": "西方確指 (覺明菩薩)"
+    },
+    {
+      "book_name": "西歸直指",
+      "author": "周夢顏",
+      "full_book_info": "西歸直指 (周夢顏)"
+    },
+    {
+      "book_name": "西歸行儀",
+      "author": "古崑",
+      "full_book_info": "西歸行儀 (古崑)"
+    },
+    {
+      "book_name": "西河詩話",
+      "author": "清",
+      "full_book_info": "西河詩話 (清)"
+    },
+    {
+      "book_name": "西河集",
+      "author": "清",
+      "full_book_info": "西河集 (清)"
+    },
+    {
+      "book_name": "西清古鑑",
+      "author": "清",
+      "full_book_info": "西清古鑑 (清)"
+    },
+    {
+      "book_name": "西湖志纂",
+      "author": "清",
+      "full_book_info": "西湖志纂 (清)"
+    },
+    {
+      "book_name": "西舫彙征",
+      "author": "瑞璋",
+      "full_book_info": "西舫彙征 (瑞璋)"
+    },
+    {
+      "book_name": "西藏剌麻溯源",
+      "author": "守一",
+      "full_book_info": "西藏剌麻溯源 (守一)"
+    },
+    {
+      "book_name": "西陂類稿",
+      "author": "清",
+      "full_book_info": "西陂類稿 (清)"
+    },
+    {
+      "book_name": "觀河集節鈔",
+      "author": "彭紹升",
+      "full_book_info": "觀河集節鈔 (彭紹升)"
+    },
+    {
+      "book_name": "觀濤奇禪師語錄",
+      "author": "大奇",
+      "full_book_info": "觀濤奇禪師語錄 (大奇)"
+    },
+    {
+      "book_name": "觀無量壽佛經約論",
+      "author": "彭際清",
+      "full_book_info": "觀無量壽佛經約論 (彭際清)"
+    },
+    {
+      "book_name": "觀無量壽經直指疏",
+      "author": "續法",
+      "full_book_info": "觀無量壽經直指疏 (續法)"
+    },
+    {
+      "book_name": "觀自在菩薩如意心陀羅尼經略疏",
+      "author": "續法",
+      "full_book_info": "觀自在菩薩如意心陀羅尼經略疏 (續法)"
+    },
+    {
+      "book_name": "觀音慈林集",
+      "author": "弘贊",
+      "full_book_info": "觀音慈林集 (弘贊)"
+    },
+    {
+      "book_name": "觀音經持驗記",
+      "author": "周克復",
+      "full_book_info": "觀音經持驗記 (周克復)"
+    },
+    {
+      "book_name": "觀音經普門品膚說",
+      "author": "靈耀",
+      "full_book_info": "觀音經普門品膚說 (靈耀)"
+    },
+    {
+      "book_name": "角虎集",
+      "author": "濟能",
+      "full_book_info": "角虎集 (濟能)"
+    },
+    {
+      "book_name": "解惑篇",
+      "author": "弘贊",
+      "full_book_info": "解惑篇 (弘贊)"
+    },
+    {
+      "book_name": "訂譌雜錄",
+      "author": "清",
+      "full_book_info": "訂譌雜錄 (清)"
+    },
+    {
+      "book_name": "許真君受鍊形神上清畢道法要節文",
+      "author": "",
+      "full_book_info": "許真君受鍊形神上清畢道法要節文"
+    },
+    {
+      "book_name": "評鑑闡要",
+      "author": "清",
+      "full_book_info": "評鑑闡要 (清)"
+    },
+    {
+      "book_name": "詞律",
+      "author": "清",
+      "full_book_info": "詞律 (清)"
+    },
+    {
+      "book_name": "詞林典故",
+      "author": "清",
+      "full_book_info": "詞林典故 (清)"
+    },
+    {
+      "book_name": "詞綜",
+      "author": "清",
+      "full_book_info": "詞綜 (清)"
+    },
+    {
+      "book_name": "詞苑叢談",
+      "author": "清",
+      "full_book_info": "詞苑叢談 (清)"
+    },
+    {
+      "book_name": "詩傳名物集覽",
+      "author": "清",
+      "full_book_info": "詩傳名物集覽 (清)"
+    },
+    {
+      "book_name": "詩傳詩說駁義",
+      "author": "清",
+      "full_book_info": "詩傳詩說駁義 (清)"
+    },
+    {
+      "book_name": "詩序補義",
+      "author": "清",
+      "full_book_info": "詩序補義 (清)"
+    },
+    {
+      "book_name": "詩所",
+      "author": "清",
+      "full_book_info": "詩所 (清)"
+    },
+    {
+      "book_name": "詩本音",
+      "author": "顧炎武",
+      "full_book_info": "詩本音 (顧炎武)"
+    },
+    {
+      "book_name": "詩札",
+      "author": "清",
+      "full_book_info": "詩札 (清)"
+    },
+    {
+      "book_name": "詩欵辨證",
+      "author": "清",
+      "full_book_info": "詩欵辨證 (清)"
+    },
+    {
+      "book_name": "詩瀋",
+      "author": "清",
+      "full_book_info": "詩瀋 (清)"
+    },
+    {
+      "book_name": "詩紀匡謬",
+      "author": "清",
+      "full_book_info": "詩紀匡謬 (清)"
+    },
+    {
+      "book_name": "詩經劄記",
+      "author": "清",
+      "full_book_info": "詩經劄記 (清)"
+    },
+    {
+      "book_name": "詩經稗疏",
+      "author": "清",
+      "full_book_info": "詩經稗疏 (清)"
+    },
+    {
+      "book_name": "詩經通義",
+      "author": "清",
+      "full_book_info": "詩經通義 (清)"
+    },
+    {
+      "book_name": "詩說",
+      "author": "清",
+      "full_book_info": "詩說 (清)"
+    },
+    {
+      "book_name": "詩識名解",
+      "author": "清",
+      "full_book_info": "詩識名解 (清)"
+    },
+    {
+      "book_name": "調實居士證源錄",
+      "author": "陸瑛",
+      "full_book_info": "調實居士證源錄 (陸瑛)"
+    },
+    {
+      "book_name": "談龍錄",
+      "author": "清",
+      "full_book_info": "談龍錄 (清)"
+    },
+    {
+      "book_name": "論語稽求篇",
+      "author": "毛奇齡",
+      "full_book_info": "論語稽求篇 (毛奇齡)"
+    },
+    {
+      "book_name": "識小織",
+      "author": "清",
+      "full_book_info": "識小織 (清)"
+    },
+    {
+      "book_name": "讀史記十表",
+      "author": "清",
+      "full_book_info": "讀史記十表 (清)"
+    },
+    {
+      "book_name": "讀左日鈔",
+      "author": "清",
+      "full_book_info": "讀左日鈔 (清)"
+    },
+    {
+      "book_name": "讀易大旨",
+      "author": "清",
+      "full_book_info": "讀易大旨 (清)"
+    },
+    {
+      "book_name": "讀易日鈔",
+      "author": "清",
+      "full_book_info": "讀易日鈔 (清)"
+    },
+    {
+      "book_name": "讀書偶記",
+      "author": "清",
+      "full_book_info": "讀書偶記 (清)"
+    },
+    {
+      "book_name": "讀書紀數略",
+      "author": "清",
+      "full_book_info": "讀書紀數略 (清)"
+    },
+    {
+      "book_name": "讀書齋偶存稿",
+      "author": "清",
+      "full_book_info": "讀書齋偶存稿 (清)"
+    },
+    {
+      "book_name": "讀朱隨筆",
+      "author": "清",
+      "full_book_info": "讀朱隨筆 (清)"
+    },
+    {
+      "book_name": "讀禮志疑",
+      "author": "清",
+      "full_book_info": "讀禮志疑 (清)"
+    },
+    {
+      "book_name": "讀禮通考",
+      "author": "清",
+      "full_book_info": "讀禮通考 (清)"
+    },
+    {
+      "book_name": "讀詩質疑",
+      "author": "清",
+      "full_book_info": "讀詩質疑 (清)"
+    },
+    {
+      "book_name": "豐川易說",
+      "author": "清",
+      "full_book_info": "豐川易說 (清)"
+    },
+    {
+      "book_name": "象崖珽禪師語錄",
+      "author": "性珽",
+      "full_book_info": "象崖珽禪師語錄 (性珽)"
+    },
+    {
+      "book_name": "貴州通志",
+      "author": "清",
+      "full_book_info": "貴州通志 (清)"
+    },
+    {
+      "book_name": "資治通鑑後編",
+      "author": "清",
+      "full_book_info": "資治通鑑後編 (清)"
+    },
+    {
+      "book_name": "賢首五教儀",
+      "author": "清",
+      "full_book_info": "賢首五教儀 (清)"
+    },
+    {
+      "book_name": "賢首五教斷證三覺揀濫圖",
+      "author": "清",
+      "full_book_info": "賢首五教斷證三覺揀濫圖 (清)"
+    },
+    {
+      "book_name": "赤松領禪師語錄",
+      "author": "道領",
+      "full_book_info": "赤松領禪師語錄 (道領)"
+    },
+    {
+      "book_name": "起一心精進念佛七期規式",
+      "author": "行策",
+      "full_book_info": "起一心精進念佛七期規式 (行策)"
+    },
+    {
+      "book_name": "起信論疏記會閱",
+      "author": "續法",
+      "full_book_info": "起信論疏記會閱 (續法)"
+    },
+    {
+      "book_name": "辨定祭禮通俗譜",
+      "author": "清",
+      "full_book_info": "辨定祭禮通俗譜 (清)"
+    },
+    {
+      "book_name": "近思錄集註",
+      "author": "江永",
+      "full_book_info": "近思錄集註 (江永)"
+    },
+    {
+      "book_name": "近思錄集註",
+      "author": "清",
+      "full_book_info": "近思錄集註 (清)"
+    },
+    {
+      "book_name": "逕庭宗禪師語錄",
+      "author": "德宗",
+      "full_book_info": "逕庭宗禪師語錄 (德宗)"
+    },
+    {
+      "book_name": "通天澹崖原禪師語錄",
+      "author": "超原",
+      "full_book_info": "通天澹崖原禪師語錄 (超原)"
+    },
+    {
+      "book_name": "通天逸叟高禪師語錄",
+      "author": "行高",
+      "full_book_info": "通天逸叟高禪師語錄 (行高)"
+    },
+    {
+      "book_name": "通鑑胡注擧正",
+      "author": "清",
+      "full_book_info": "通鑑胡注擧正 (清)"
+    },
+    {
+      "book_name": "造像量度經",
+      "author": "工布查布",
+      "full_book_info": "造像量度經 (工布查布)"
+    },
+    {
+      "book_name": "道德經註",
+      "author": "徐大椿",
+      "full_book_info": "道德經註 (徐大椿)"
+    },
+    {
+      "book_name": "道德經順硃",
+      "author": "德玉",
+      "full_book_info": "道德經順硃 (德玉)"
+    },
+    {
+      "book_name": "達變權禪師語錄",
+      "author": "顯權",
+      "full_book_info": "達變權禪師語錄 (顯權)"
+    },
+    {
+      "book_name": "遠菴僼禪師語錄",
+      "author": "本僼",
+      "full_book_info": "遠菴僼禪師語錄 (本僼)"
+    },
+    {
+      "book_name": "遼史拾遺",
+      "author": "清",
+      "full_book_info": "遼史拾遺 (清)"
+    },
+    {
+      "book_name": "郊社禘祫問",
+      "author": "清",
+      "full_book_info": "郊社禘祫問 (清)"
+    },
+    {
+      "book_name": "鄂州龍光達夫禪師雞肋集",
+      "author": "蘊上",
+      "full_book_info": "鄂州龍光達夫禪師雞肋集 (蘊上)"
+    },
+    {
+      "book_name": "鄉黨圖考",
+      "author": "江永",
+      "full_book_info": "鄉黨圖考 (江永)"
+    },
+    {
+      "book_name": "鄱陽五家集",
+      "author": "清",
+      "full_book_info": "鄱陽五家集 (清)"
+    },
+    {
+      "book_name": "醒世錄",
+      "author": "徐昌治",
+      "full_book_info": "醒世錄 (徐昌治)"
+    },
+    {
+      "book_name": "醫學源流論",
+      "author": "清",
+      "full_book_info": "醫學源流論 (清)"
+    },
+    {
+      "book_name": "醫門法律",
+      "author": "喻昌",
+      "full_book_info": "醫門法律 (喻昌)"
+    },
+    {
+      "book_name": "釋迦佛讚",
+      "author": "達喇嘛薩穆丹達爾吉",
+      "full_book_info": "釋迦佛讚 (達喇嘛薩穆丹達爾吉)"
+    },
+    {
+      "book_name": "重訂教乘法數",
+      "author": "清",
+      "full_book_info": "重訂教乘法數 (清)"
+    },
+    {
+      "book_name": "重訂西方公據",
+      "author": "彭際清",
+      "full_book_info": "重訂西方公據 (彭際清)"
+    },
+    {
+      "book_name": "野雲映禪師宗統頌",
+      "author": "燈映",
+      "full_book_info": "野雲映禪師宗統頌 (燈映)"
+    },
+    {
+      "book_name": "金剛經大意",
+      "author": "王起隆",
+      "full_book_info": "金剛經大意 (王起隆)"
+    },
+    {
+      "book_name": "金剛經如是經義",
+      "author": "行敏",
+      "full_book_info": "金剛經如是經義 (行敏)"
+    },
+    {
+      "book_name": "金剛經如是解",
+      "author": "無是道人",
+      "full_book_info": "金剛經如是解 (無是道人)"
+    },
+    {
+      "book_name": "金剛經彙纂",
+      "author": "孫念劬",
+      "full_book_info": "金剛經彙纂 (孫念劬)"
+    },
+    {
+      "book_name": "金剛經心印疏",
+      "author": "溥畹",
+      "full_book_info": "金剛經心印疏 (溥畹)"
+    },
+    {
+      "book_name": "金剛經感應分類輯要",
+      "author": "王澤泩",
+      "full_book_info": "金剛經感應分類輯要 (王澤泩)"
+    },
+    {
+      "book_name": "金剛經持驗記",
+      "author": "周克復",
+      "full_book_info": "金剛經持驗記 (周克復)"
+    },
+    {
+      "book_name": "金剛經易解",
+      "author": "謝承謨",
+      "full_book_info": "金剛經易解 (謝承謨)"
+    },
+    {
+      "book_name": "金剛經正解",
+      "author": "龔穊綵",
+      "full_book_info": "金剛經正解 (龔穊綵)"
+    },
+    {
+      "book_name": "金剛經法眼懸判疏鈔",
+      "author": "性起",
+      "full_book_info": "金剛經法眼懸判疏鈔 (性起)"
+    },
+    {
+      "book_name": "金剛經法眼註疏",
+      "author": "性起",
+      "full_book_info": "金剛經法眼註疏 (性起)"
+    },
+    {
+      "book_name": "金剛經注",
+      "author": "俞樾",
+      "full_book_info": "金剛經注 (俞樾)"
+    },
+    {
+      "book_name": "金剛經注解",
+      "author": "孚佑帝君",
+      "full_book_info": "金剛經注解 (孚佑帝君)"
+    },
+    {
+      "book_name": "金剛經演古",
+      "author": "寂燄",
+      "full_book_info": "金剛經演古 (寂燄)"
+    },
+    {
+      "book_name": "金剛經疏記會編",
+      "author": "行策",
+      "full_book_info": "金剛經疏記會編 (行策)"
+    },
+    {
+      "book_name": "金剛經直說",
+      "author": "迹刪鷲",
+      "full_book_info": "金剛經直說 (迹刪鷲)"
+    },
+    {
+      "book_name": "金剛經石注",
+      "author": "石成金",
+      "full_book_info": "金剛經石注 (石成金)"
+    },
+    {
+      "book_name": "金剛經科儀",
+      "author": "建基",
+      "full_book_info": "金剛經科儀 (建基)"
+    },
+    {
+      "book_name": "金剛經解義",
+      "author": "徐槐廷",
+      "full_book_info": "金剛經解義 (徐槐廷)"
+    },
+    {
+      "book_name": "金剛經訂義",
+      "author": "俞樾",
+      "full_book_info": "金剛經訂義 (俞樾)"
+    },
+    {
+      "book_name": "金剛經註講",
+      "author": "行敏",
+      "full_book_info": "金剛經註講 (行敏)"
+    },
+    {
+      "book_name": "金剛經註釋",
+      "author": "溥仁",
+      "full_book_info": "金剛經註釋 (溥仁)"
+    },
+    {
+      "book_name": "金剛經部旨",
+      "author": "靈耀",
+      "full_book_info": "金剛經部旨 (靈耀)"
+    },
+    {
+      "book_name": "金剛經闡說",
+      "author": "存吾",
+      "full_book_info": "金剛經闡說 (存吾)"
+    },
+    {
+      "book_name": "金石文字記",
+      "author": "清",
+      "full_book_info": "金石文字記 (清)"
+    },
+    {
+      "book_name": "金石文考略",
+      "author": "清",
+      "full_book_info": "金石文考略 (清)"
+    },
+    {
+      "book_name": "金石經眼錄",
+      "author": "清",
+      "full_book_info": "金石經眼錄 (清)"
+    },
+    {
+      "book_name": "金石要例",
+      "author": "清",
+      "full_book_info": "金石要例 (清)"
+    },
+    {
+      "book_name": "金鰲退食筆記",
+      "author": "清",
+      "full_book_info": "金鰲退食筆記 (清)"
+    },
+    {
+      "book_name": "鈍吟雜錄",
+      "author": "清",
+      "full_book_info": "鈍吟雜錄 (清)"
+    },
+    {
+      "book_name": "錢錄",
+      "author": "清",
+      "full_book_info": "錢錄 (清)"
+    },
+    {
+      "book_name": "錦江禪燈",
+      "author": "通醉",
+      "full_book_info": "錦江禪燈 (通醉)"
+    },
+    {
+      "book_name": "錦江禪燈目錄",
+      "author": "通醉",
+      "full_book_info": "錦江禪燈目錄 (通醉)"
+    },
+    {
+      "book_name": "鐵廬集",
+      "author": "清",
+      "full_book_info": "鐵廬集 (清)"
+    },
+    {
+      "book_name": "鑑堂一禪師語錄",
+      "author": "一",
+      "full_book_info": "鑑堂一禪師語錄 (一)"
+    },
+    {
+      "book_name": "長目電禪師語錄",
+      "author": "光電",
+      "full_book_info": "長目電禪師語錄 (光電)"
+    },
+    {
+      "book_name": "閩中理學淵源考",
+      "author": "清",
+      "full_book_info": "閩中理學淵源考 (清)"
+    },
+    {
+      "book_name": "閱經十二種",
+      "author": "淨挺",
+      "full_book_info": "閱經十二種 (淨挺)"
+    },
+    {
+      "book_name": "關中勝蹟圖志",
+      "author": "清",
+      "full_book_info": "關中勝蹟圖志 (清)"
+    },
+    {
+      "book_name": "阿彌陀經摘要易解",
+      "author": "真嵩",
+      "full_book_info": "阿彌陀經摘要易解 (真嵩)"
+    },
+    {
+      "book_name": "阿彌陀經略註",
+      "author": "續法",
+      "full_book_info": "阿彌陀經略註 (續法)"
+    },
+    {
+      "book_name": "阿彌陀經直解正行",
+      "author": "了根",
+      "full_book_info": "阿彌陀經直解正行 (了根)"
+    },
+    {
+      "book_name": "阿彌陀經約論",
+      "author": "彭際清",
+      "full_book_info": "阿彌陀經約論 (彭際清)"
+    },
+    {
+      "book_name": "阿彌陀經註",
+      "author": "鄭澄德",
+      "full_book_info": "阿彌陀經註 (鄭澄德)"
+    },
+    {
+      "book_name": "陝西通志",
+      "author": "清",
+      "full_book_info": "陝西通志 (清)"
+    },
+    {
+      "book_name": "陳檢討四六",
+      "author": "清",
+      "full_book_info": "陳檢討四六 (清)"
+    },
+    {
+      "book_name": "陳氏禮記集說補正",
+      "author": "清",
+      "full_book_info": "陳氏禮記集說補正 (清)"
+    },
+    {
+      "book_name": "隨緣集",
+      "author": "靈耀",
+      "full_book_info": "隨緣集 (靈耀)"
+    },
+    {
+      "book_name": "隱元禪師語錄",
+      "author": "隆琦",
+      "full_book_info": "隱元禪師語錄 (隆琦)"
+    },
+    {
+      "book_name": "隸辨",
+      "author": "顧藹吉",
+      "full_book_info": "隸辨 (顧藹吉)"
+    },
+    {
+      "book_name": "集文字禪",
+      "author": "蘊上",
+      "full_book_info": "集文字禪 (蘊上)"
+    },
+    {
+      "book_name": "雙橋隨筆",
+      "author": "清",
+      "full_book_info": "雙橋隨筆 (清)"
+    },
+    {
+      "book_name": "雨山和尚語錄",
+      "author": "上思",
+      "full_book_info": "雨山和尚語錄 (上思)"
+    },
+    {
+      "book_name": "雪竇石奇禪師語錄",
+      "author": "通雲",
+      "full_book_info": "雪竇石奇禪師語錄 (通雲)"
+    },
+    {
+      "book_name": "雲南通志",
+      "author": "清",
+      "full_book_info": "雲南通志 (清)"
+    },
+    {
+      "book_name": "雲叟住禪師語錄",
+      "author": "住",
+      "full_book_info": "雲叟住禪師語錄 (住)"
+    },
+    {
+      "book_name": "雲山燕居申禪師語錄",
+      "author": "德申",
+      "full_book_info": "雲山燕居申禪師語錄 (德申)"
+    },
+    {
+      "book_name": "雲峨喜禪師語錄",
+      "author": "喜",
+      "full_book_info": "雲峨喜禪師語錄 (喜)"
+    },
+    {
+      "book_name": "雲峰體宗寧禪師語錄",
+      "author": "寧",
+      "full_book_info": "雲峰體宗寧禪師語錄 (寧)"
+    },
+    {
+      "book_name": "雲幻宸禪師語錄",
+      "author": "印宸",
+      "full_book_info": "雲幻宸禪師語錄 (印宸)"
+    },
+    {
+      "book_name": "雲棲淨土彙語",
+      "author": "虞執西",
+      "full_book_info": "雲棲淨土彙語 (虞執西)"
+    },
+    {
+      "book_name": "雲溪俍亭挺禪師語錄",
+      "author": "淨挺",
+      "full_book_info": "雲溪俍亭挺禪師語錄 (淨挺)"
+    },
+    {
+      "book_name": "雲腹智禪師語錄",
+      "author": "道智",
+      "full_book_info": "雲腹智禪師語錄 (道智)"
+    },
+    {
+      "book_name": "靈樹遠禪師雲嵒集",
+      "author": "僧遠",
+      "full_book_info": "靈樹遠禪師雲嵒集 (僧遠)"
+    },
+    {
+      "book_name": "靈機禪師語錄",
+      "author": "行觀",
+      "full_book_info": "靈機禪師語錄 (行觀)"
+    },
+    {
+      "book_name": "靈瑞尼祖揆符禪師妙湛錄",
+      "author": "符",
+      "full_book_info": "靈瑞尼祖揆符禪師妙湛錄 (符)"
+    },
+    {
+      "book_name": "靈瑞禪師嵒華集",
+      "author": "符",
+      "full_book_info": "靈瑞禪師嵒華集 (符)"
+    },
+    {
+      "book_name": "靈隱文禪師語錄",
+      "author": "印文",
+      "full_book_info": "靈隱文禪師語錄 (印文)"
+    },
+    {
+      "book_name": "青原愚者智禪師語錄",
+      "author": "智",
+      "full_book_info": "青原愚者智禪師語錄 (智)"
+    },
+    {
+      "book_name": "青城竹浪生禪師語錄",
+      "author": "徹生",
+      "full_book_info": "青城竹浪生禪師語錄 (徹生)"
+    },
+    {
+      "book_name": "靳文襄奏疏",
+      "author": "清",
+      "full_book_info": "靳文襄奏疏 (清)"
+    },
+    {
+      "book_name": "韓集點勘",
+      "author": "清",
+      "full_book_info": "韓集點勘 (清)"
+    },
+    {
+      "book_name": "音論",
+      "author": "顧炎武",
+      "full_book_info": "音論 (顧炎武)"
+    },
+    {
+      "book_name": "韻石齋筆談",
+      "author": "清",
+      "full_book_info": "韻石齋筆談 (清)"
+    },
+    {
+      "book_name": "韻補正",
+      "author": "顧炎武",
+      "full_book_info": "韻補正 (顧炎武)"
+    },
+    {
+      "book_name": "頌古鉤鉅",
+      "author": "蘊上",
+      "full_book_info": "頌古鉤鉅 (蘊上)"
+    },
+    {
+      "book_name": "頻吉祥禪師語錄",
+      "author": "智祥",
+      "full_book_info": "頻吉祥禪師語錄 (智祥)"
+    },
+    {
+      "book_name": "顏山雜記",
+      "author": "清",
+      "full_book_info": "顏山雜記 (清)"
+    },
+    {
+      "book_name": "香嚴禪師語錄",
+      "author": "明耀",
+      "full_book_info": "香嚴禪師語錄 (明耀)"
+    },
+    {
+      "book_name": "香屑集",
+      "author": "清",
+      "full_book_info": "香屑集 (清)"
+    },
+    {
+      "book_name": "香巖洗心水禪師語錄",
+      "author": "照水",
+      "full_book_info": "香巖洗心水禪師語錄 (照水)"
+    },
+    {
+      "book_name": "香祖筆記",
+      "author": "清",
+      "full_book_info": "香祖筆記 (清)"
+    },
+    {
+      "book_name": "體仁要術",
+      "author": "彭紹升",
+      "full_book_info": "體仁要術 (彭紹升)"
+    },
+    {
+      "book_name": "高僧摘要",
+      "author": "徐昌治",
+      "full_book_info": "高僧摘要 (徐昌治)"
+    },
+    {
+      "book_name": "高峰三山來禪師年譜",
+      "author": "性統",
+      "full_book_info": "高峰三山來禪師年譜 (性統)"
+    },
+    {
+      "book_name": "高峰三山來禪師疏語",
+      "author": "燈來",
+      "full_book_info": "高峰三山來禪師疏語 (燈來)"
+    },
+    {
+      "book_name": "高峰喬松億禪師語錄",
+      "author": "玄億",
+      "full_book_info": "高峰喬松億禪師語錄 (玄億)"
+    },
+    {
+      "book_name": "高王觀音經註釋",
+      "author": "周上智",
+      "full_book_info": "高王觀音經註釋 (周上智)"
+    },
+    {
+      "book_name": "鴛湖用禪師語錄",
+      "author": "妙用",
+      "full_book_info": "鴛湖用禪師語錄 (妙用)"
+    },
+    {
+      "book_name": "鶴山禪師執帚集",
+      "author": "鶴山",
+      "full_book_info": "鶴山禪師執帚集 (鶴山)"
+    },
+    {
+      "book_name": "鶴峰禪師語錄",
+      "author": "濟悟",
+      "full_book_info": "鶴峰禪師語錄 (濟悟)"
+    },
+    {
+      "book_name": "鶴林天樹植禪師語錄",
+      "author": "行植",
+      "full_book_info": "鶴林天樹植禪師語錄 (行植)"
+    },
+    {
+      "book_name": "鹿洲初集",
+      "author": "清",
+      "full_book_info": "鹿洲初集 (清)"
+    },
+    {
+      "book_name": "黃蓮東巖禪師語錄",
+      "author": "機琇",
+      "full_book_info": "黃蓮東巖禪師語錄 (機琇)"
+    },
+    {
+      "book_name": "黔南會燈錄",
+      "author": "如純",
+      "full_book_info": "黔南會燈錄 (如純)"
+    },
+    {
+      "book_name": "齋法清淨經",
+      "author": "",
+      "full_book_info": "齋法清淨經"
+    },
+    {
+      "book_name": "龍沙紀略",
+      "author": "清",
+      "full_book_info": "龍沙紀略 (清)"
+    },
+    {
+      "book_name": "龍源介清禪師語錄",
+      "author": "士洵",
+      "full_book_info": "龍源介清禪師語錄 (士洵)"
+    }
+  ],
+  "variant_summary": {
+    "們": {
+      "count": 1114,
+      "recalc_freq_per_10k": 0.05173006900770473,
+      "book_name": 1139
+    },
+    "偉": {
+      "count": 4956,
+      "recalc_freq_per_10k": 0.10983356027124505,
+      "book_name": 1139
+    },
+    "弭": {
+      "count": 1537,
+      "recalc_freq_per_10k": 0.03354505244384274,
+      "book_name": 1139
+    },
+    "彌": {
+      "count": 9121,
+      "recalc_freq_per_10k": 0.4562544527235557,
+      "book_name": 1139
+    },
+    "懣": {
+      "count": 238,
+      "recalc_freq_per_10k": 0.003457331917398356,
+      "book_name": 1139
+    },
+    "每": {
+      "count": 49681,
+      "recalc_freq_per_10k": 1.2712058286743357,
+      "book_name": 1139
+    },
+    "滿": {
+      "count": 33129,
+      "recalc_freq_per_10k": 1.0948197663735384,
+      "book_name": 1139
+    },
+    "瞞": {
+      "count": 1191,
+      "recalc_freq_per_10k": 0.13585636214033486,
+      "book_name": 1139
+    },
+    "輩": {
+      "count": 19809,
+      "recalc_freq_per_10k": 0.8273893925134527,
+      "book_name": 1139
+    },
+    "門": {
+      "count": 101501,
+      "recalc_freq_per_10k": 4.1719075747101595,
+      "book_name": 1139
+    }
+  }
+}
