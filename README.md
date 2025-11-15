@@ -50,7 +50,7 @@ CHIN4101_Visualizations/
 │   ├── 📂 html/                                # Interactive timeline visualizations
 │   └── 📂 png/                                 # Static timeline images
 │
-├── 📂 optimized_top_n_books_dynasty_level_analysis/  # Curated top-performing visualizations
+├── 📂 optimized_top_n_books_dynasty_level_analysi_20251029/  # Curated top-performing visualizations
 │   ├── 📄 README.md                           # Optimization methodology documentation
 │   ├── 📄 dynasty_summary_dashboard.html      # Cross-dynasty comparison dashboard
 │   ├── 📂 dynasty_元/                         # Optimized Yuan Dynasty visualizations
@@ -143,9 +143,8 @@ Curated subset focusing on:
 ## 📊 Key Findings & Insights
 
 ### Dynasty-Specific Patterns
-- **14 Dynasty Periods Analyzed**: From 元魏 through 清代
-- **2000+ Books Processed**: Comprehensive coverage of historical Chinese literature
-- **300+ Authors Identified**: Individual authorship attribution and analysis
+- **11 Dynasty Periods Analyzed**: From 元 through 清代
+- **85000+ Books Processed**: Comprehensive coverage of historical Chinese literature
 
 ### Statistical Overview
 - **Frequency Thresholds**: Variants with ≥0.1 frequency for meaningful analysis
@@ -156,9 +155,51 @@ Curated subset focusing on:
 
 ### Data Formats
 - **JSON**: Structured metadata and frequency evolution data
+- **JSON.GZ**: Compressed large datasets (>2GB files compressed to <250MB for GitHub compatibility)
 - **CSV**: Tabular data for statistical analysis and spreadsheet integration
 - **HTML**: Interactive visualizations with Plotly.js
 - **PNG**: High-resolution static visualizations for publication
+- **SVG**: Vector graphics stored via Git LFS for scalability
+
+### 📦 Large File Management
+
+This repository uses **Git LFS (Large File Storage)** to handle large datasets efficiently:
+
+#### Git LFS Configuration
+- **Tracked file types**: `*.json`, `*.svg`, `*.json.gz`
+- **Purpose**: Manages large visualization files and datasets without impacting repository performance
+- **Compression**: Files exceeding 2GB are automatically compressed with gzip for GitHub compatibility
+
+#### Compressed Archives (.gz files)
+Large JSON datasets are compressed to meet GitHub's file size limitations:
+- **Original sizes**: 2.3GB - 3.9GB per file
+- **Compressed sizes**: 110MB - 247MB per file (93% size reduction)
+- **Location**: `period_analysis_20251027/dynasty_*/`
+- **Format**: Standard gzip compression, decompress with `gunzip filename.json.gz`
+
+#### Files Requiring Decompression
+The following large datasets are stored compressed:
+- `period_analysis_20251027/dynasty_明/明_complete_dataset.json.gz` (156MB, originally 2.3GB)
+- `period_analysis_20251027/dynasty_明/明_period_analysis_明代.json.gz` (163MB, originally 2.5GB)
+- `period_analysis_20251027/dynasty_清/清_complete_dataset.json.gz` (247MB, originally 3.7GB)
+- `period_analysis_20251027/dynasty_清/清_period_analysis_清代.json.gz` (110MB, originally 3.9GB)
+- `period_analysis_20251027/dynasty_宋/宋_complete_dataset.json.gz` (177MB, originally 2.5GB)
+- `period_analysis_20251027/dynasty_宋/宋_period_analysis_宋代.json.gz` (192MB, originally 2.8GB)
+
+#### Working with Large Files
+To access compressed datasets:
+```bash
+# Decompress a specific file
+gunzip period_analysis_20251027/dynasty_明/明_complete_dataset.json.gz
+
+# Decompress all compressed files
+find period_analysis_20251027 -name "*.json.gz" -exec gunzip {} \;
+
+# View compressed file contents without extracting
+zcat period_analysis_20251027/dynasty_明/明_complete_dataset.json.gz | head
+```
+
+**Note**: Original uncompressed files are excluded from version control via `.gitignore` to prevent repository bloat.
 
 ### Processing Pipeline
 1. **Historical Text Corpus Processing**
