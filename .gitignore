@@ -1,4 +1,5 @@
-# Exclude oversized files (>2GB) that exceed Git LFS limits
+# Note: Large JSON files are compressed with gzip to fit within GitHub LFS 2GB limit
+# Original uncompressed files (if they exist locally) are excluded
 period_analysis_20251027/dynasty_明/明_period_analysis_明代.json
 period_analysis_20251027/dynasty_明/明_complete_dataset.json
 period_analysis_20251027/dynasty_清/清_period_analysis_清代.json
